@@ -1,0 +1,67 @@
+name: Qur'an data or rendering report
+description: Report a possible text, glyph, tajweed, layout, or page-rendering issue.
+title: "[Quran rendering]: "
+labels:
+  - quran-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting this carefully. Please identify the exact location and avoid paraphrasing the Arabic text.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The Mushaf page number from 1 through 604.
+      placeholder: "248"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Quran location
+      description: Surah:ayah:word when known.
+      placeholder: "12:106:3"
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Letterform or diacritic
+        - Tajweed colour
+        - Missing or extra content
+        - Word or ayah metadata
+        - Line break or spacing
+        - Frame, heading, or page furniture
+        - Renderer compatibility
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What did you observe?
+      description: Explain what appears wrong and what you expected to see.
+    validations:
+      required: true
+  - type: input
+    id: renderer
+    attributes:
+      label: Renderer and version
+      description: Browser, operating system, SVG library, or native component.
+      placeholder: "Chrome 140 on Windows 11"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Attach a clear screenshot and link an authoritative reference when applicable.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I reproduced this with a file from `mushaf-v4/` and can identify its version or commit.
+          required: true
+        - label: I searched existing issues for the same page and location.
+          required: true

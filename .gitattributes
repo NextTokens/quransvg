@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+# Generated pages are checksummed byte-for-byte in manifest.json.
+mushaf-v4/*.svg -text linguist-generated=true whitespace=-trailing-space
+manifest.json linguist-generated=true
+
+# Preserve source and archived-license formatting without whitespace noise.
+assets/*.svg text eol=lf whitespace=-trailing-space
+docs/licenses/*.txt text eol=lf whitespace=-trailing-space

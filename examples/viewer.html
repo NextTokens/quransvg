@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Quran SVG — QCF v4 viewer</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+      color: #1d2922;
+      background: #e8ede9;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100vh; }
+    header {
+      padding: 1.25rem clamp(1rem, 4vw, 3rem);
+      color: #f9fcfa;
+      background: #183d2d;
+    }
+    h1 { margin: 0; font-size: clamp(1.3rem, 4vw, 2rem); }
+    header p { margin: .35rem 0 0; color: #cfe0d7; }
+    main {
+      display: grid;
+      grid-template-columns: minmax(15rem, 20rem) minmax(0, 46rem);
+      gap: 1.25rem;
+      align-items: start;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .panel {
+      border: 1px solid #c8d2cc;
+      border-radius: .8rem;
+      background: #fff;
+      box-shadow: 0 .4rem 1.5rem rgb(20 45 33 / 10%);
+    }
+    form { position: sticky; top: 1rem; padding: 1rem; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: .65rem; }
+    label { display: grid; gap: .3rem; margin-bottom: .8rem; font-size: .9rem; }
+    input, select, button {
+      min-height: 2.55rem;
+      border: 1px solid #9eada5;
+      border-radius: .45rem;
+      padding: .45rem .65rem;
+      color: inherit;
+      background: #fff;
+      font: inherit;
+    }
+    button { cursor: pointer; font-weight: 650; }
+    button:hover { background: #edf3ef; }
+    .checks { display: grid; gap: .55rem; margin: .9rem 0; }
+    .checks label {
+      display: flex;
+      align-items: center;
+      gap: .55rem;
+      margin: 0;
+    }
+    .checks input { min-height: auto; width: 1rem; height: 1rem; }
+    #selection {
+      min-height: 4.4rem;
+      margin-top: 1rem;
+      padding: .7rem;
+      border-radius: .45rem;
+      background: #edf3ef;
+      font: .84rem/1.45 ui-monospace, SFMono-Regular, Consolas, monospace;
+      overflow-wrap: anywhere;
+    }
+    #status { margin: 0 0 .8rem; color: #51635a; font-size: .88rem; }
+    #page-host { overflow: hidden; min-height: 40rem; }
+    #page-host svg { display: block; width: 100%; height: auto; }
+    #page-host .q-word { cursor: pointer; }
+    .error { padding: 2rem; color: #8a1c1c; }
+    @media (max-width: 760px) {
+      main { grid-template-columns: 1fr; padding: .75rem; }
+      form { position: static; }
+      #page-host { min-height: 20rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Quran SVG · QCF v4</h1>
+    <p>Inspect the published page contract without any framework or build step.</p>
+  </header>
+  <main>
+    <form class="panel" id="controls">
+      <p id="status" role="status">Loading page…</p>
+      <label>
+        Page (1–604)
+        <input id="page" type="number" min="1" max="604" value="1" required>
+      </label>
+      <div class="row">
+        <button id="previous" type="button">← Previous</button>
+        <button id="next" type="button">Next →</button>
+      </div>
+      <label style="margin-top: .8rem">
+        Theme
+        <select id="theme">
+          <option value="green-pink">Green &amp; pink</option>
+          <option value="blue">Blue</option>
+          <option value="night">Night</option>
+          <option value="olive-gold">Olive &amp; gold</option>
+          <option value="sepia">Sepia</option>
+        </select>
+      </label>
+      <div class="checks">
+        <label><input id="tajweed" type="checkbox"> Tajweed colours</label>
+        <label><input id="plain" type="checkbox"> Rule colours only</label>
+        <label><input id="frame" type="checkbox" checked> Frame</label>
+        <label><input id="chrome" type="checkbox" checked> Running head</label>
+        <label><input id="ayah" type="checkbox"> Highlight clicked ayah</label>
+      </div>
+      <div id="selection" aria-live="polite">Click a word to inspect its location and hit box.</div>
+    </form>
+    <section class="panel" id="page-host" aria-label="Quran page"></section>
+  </main>
+  <script>
+    const host = document.querySelector("#page-host");
+    const status = document.querySelector("#status");
+    const pageInput = document.querySelector("#page");
+    const themeInput = document.querySelector("#theme");
+    const selection = document.querySelector("#selection");
+    const schemaPromise = fetch("../themes-v4/schema.json").then(requireJson);
+    const themeCache = new Map();
+    let svg = null;
+    let requestNumber = 0;
+
+    function requireJson(response) {
+      if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+      return response.json();
+    }
+
+    function pagePath(page) {
+      return `../mushaf-v4/page-${String(page).padStart(3, "0")}.svg`;
+    }
+
+    function selectedPage() {
+      return Math.max(1, Math.min(604, Number.parseInt(pageInput.value, 10) || 1));
+    }
+
+    function getTheme(name) {
+      if (!themeCache.has(name)) {
+        themeCache.set(name, fetch(`../themes-v4/${name}.json`).then(requireJson));
+      }
+      return themeCache.get(name);
+    }
+
+    async function applyTheme() {
+      if (!svg) return;
+      const [schema, theme] = await Promise.all([
+        schemaPromise,
+        getTheme(themeInput.value),
+      ]);
+      const rules = [`${schema.markers.begin} ${themeInput.value} */`];
+      for (const [token, bindings] of Object.entries(schema.tokens)) {
+        const colour = theme.colors[token];
+        if (!/^#[0-9a-f]{6}$/i.test(colour)) throw new Error(`Invalid colour for ${token}`);
+        for (const binding of bindings) {
+          rules.push(`${binding.selector}{${binding.property}:${colour}}`);
+        }
+      }
+      rules.push(schema.markers.end);
+      const style = svg.querySelector("style");
+      style.textContent = style.textContent.replace(
+        /\/\* THEME:BEGIN[\s\S]*?\/\* THEME:END \*\//,
+        rules.join("\n"),
+      );
+      svg.dataset.theme = themeInput.value;
+    }
+
+    function applyToggles() {
+      if (!svg) return;
+      const tajweed = document.querySelector("#tajweed").checked;
+      svg.classList.toggle("q-tajweed", tajweed);
+      svg.classList.toggle("q-tajweed-plain", tajweed && document.querySelector("#plain").checked);
+      svg.classList.toggle("q-no-frame", !document.querySelector("#frame").checked);
+      svg.classList.toggle("q-no-chrome", !document.querySelector("#chrome").checked);
+    }
+
+    function inspectWord(event) {
+      const word = event.target.closest?.(".q-word");
+      if (!word || !svg.contains(word)) return;
+      svg.querySelectorAll(".q-word.is-selected").forEach((item) => item.classList.remove("is-selected"));
+      svg.querySelectorAll(".q-ayah.is-active").forEach((item) => item.classList.remove("is-active"));
+      word.classList.add("is-selected");
+      const ayah = word.closest(".q-ayah");
+      if (ayah && document.querySelector("#ayah").checked) ayah.classList.add("is-active");
+      selection.textContent = `word ${word.dataset.loc} · line ${word.dataset.line} · box ${word.dataset.box}`;
+    }
+
+    async function loadPage() {
+      const page = selectedPage();
+      const currentRequest = ++requestNumber;
+      pageInput.value = page;
+      status.textContent = `Loading page ${page}…`;
+      try {
+        const response = await fetch(pagePath(page));
+        if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+        const parsed = new DOMParser().parseFromString(await response.text(), "image/svg+xml");
+        const parseError = parsed.querySelector("parsererror");
+        if (parseError) throw new Error("The SVG could not be parsed");
+        if (currentRequest !== requestNumber) return;
+        svg = document.importNode(parsed.documentElement, true);
+        host.replaceChildren(svg);
+        svg.addEventListener("click", inspectWord);
+        await applyTheme();
+        applyToggles();
+        selection.textContent = "Click a word to inspect its location and hit box.";
+        status.textContent = `Page ${page} · ${svg.dataset.edition} · ${svg.dataset.side}`;
+        history.replaceState(null, "", `#page=${page}`);
+      } catch (error) {
+        if (currentRequest !== requestNumber) return;
+        svg = null;
+        const message = document.createElement("p");
+        message.className = "error";
+        message.textContent = `Unable to load page ${page}. Start a local web server from the repository root. ${error.message}`;
+        host.replaceChildren(message);
+        status.textContent = `Page ${page} failed to load`;
+      }
+    }
+
+    document.querySelector("#controls").addEventListener("submit", (event) => {
+      event.preventDefault();
+      loadPage();
+    });
+    pageInput.addEventListener("change", loadPage);
+    themeInput.addEventListener("change", () => applyTheme().catch((error) => {
+      status.textContent = `Theme failed: ${error.message}`;
+    }));
+    document.querySelectorAll(".checks input").forEach((input) => input.addEventListener("change", applyToggles));
+    document.querySelector("#previous").addEventListener("click", () => {
+      pageInput.value = Math.max(1, selectedPage() - 1);
+      loadPage();
+    });
+    document.querySelector("#next").addEventListener("click", () => {
+      pageInput.value = Math.min(604, selectedPage() + 1);
+      loadPage();
+    });
+    window.addEventListener("keydown", (event) => {
+      if (event.target.matches("input, select, button")) return;
+      if (event.key === "ArrowLeft") document.querySelector("#previous").click();
+      if (event.key === "ArrowRight") document.querySelector("#next").click();
+    });
+
+    const initial = new URLSearchParams(location.hash.slice(1)).get("page");
+    if (initial) pageInput.value = initial;
+    loadPage();
+  </script>
+</body>
+</html>

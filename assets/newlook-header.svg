@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="210" viewBox="0 0 1800 210" role="img" aria-labelledby="title desc">
+  <title id="title">Olive and gold floral Quran Surah header</title>
+  <desc id="desc">Clean hand-drawn vector ornament inspired by the supplied Surah header. Mirrored floral rosettes, curling ivory vines, olive buds and gold outlines, and a blank central cartouche. All artwork consists of vector paths. Edit the five named colors in the style block.</desc>
+  <!-- EDIT COLORS HERE. No photograph, texture, or raster image. -->
+  <style>
+    .green { fill: #434B2D; }
+    .pink { fill: #87915A; }
+    .cream { fill: #EEE7CE; }
+    .sage { fill: #D6D7B6; }
+    .cream-stroke { stroke: #EEE7CE; }
+    .outline { stroke: #B69A4D; stroke-width: 2.4; stroke-linejoin: round; stroke-linecap: round; }
+    .line { fill: none; }
+  </style>
+  <defs>
+    <!-- Each ornament is reused to keep the two ends exactly symmetrical. -->
+    <path id="vine-route" d="M 489,105 C 466,105 460,79 430,58 C 403,39 380,27 360,27 C 334,27 319,48 321,66 C 322,82 338,87 350,79 C 361,71 359,58 350,55 M 482,105 C 452,110 446,90 423,89 C 397,88 380,100 363,96 C 342,91 333,78 317,53 C 302,29 287,22 267,23 C 247,24 239,40 247,54 M 317,53 C 290,11 272,15 265,27 M 349,30 C 363,8 381,16 387,23 M 430,58 C 423,29 442,19 455,29 C 466,38 456,49 447,44 M 424,33 C 414,24 417,15 426,15 M 460,23 C 472,20 478,28 474,33 M 363,96 C 358,76 369,66 380,72 C 388,77 383,88 377,87 M 41,24 C 45,34 60,30 62,25 C 72,10 101,12 112,31 C 121,45 117,63 105,67 C 93,71 83,59 91,51 M 112,31 C 123,16 143,23 148,36 C 153,50 139,59 130,51 M 112,63 C 132,101 165,102 188,81 C 205,65 216,38 229,28 C 244,16 262,18 272,29 M 115,71 C 90,93 67,89 63,69 C 60,54 69,44 78,44 M 70,83 C 56,83 50,94 55,99 M 53,68 C 43,56 47,45 53,43 M 154,36 C 168,35 170,24 166,19 M 143,24 C 141,14 148,11 152,14"/>
+    <g id="vines">
+      <use xlink:href="#vine-route" class="line outline" style="stroke-width:11"/>
+      <use xlink:href="#vine-route" class="line cream-stroke" stroke-width="6.3" stroke-linecap="round"/>
+      <path class="cream outline" d="M87 41 C80 35 84 25 95 27 C100 20 98 16 95 15 C110 14 115 28 109 37 C102 49 95 47 87 41Z"/>
+      <path class="pink outline" d="M101 36 C116 42 118 58 109 73 C98 70 92 54 101 36Z"/>
+      <path class="cream outline" d="M107 73 C99 82 90 81 85 77 C80 71 83 63 89 62 C93 71 100 73 107 73Z"/>
+      <path class="pink outline" d="M429 44 C415 50 414 67 426 82 C439 75 442 57 429 44Z"/>
+      <path class="cream outline" d="M419 45 C412 38 416 29 424 29 C430 29 434 35 431 40 C426 37 421 39 419 45Z"/>
+      <path class="cream outline" d="M425 83 C437 87 445 79 442 70 C436 73 432 77 425 83Z"/>
+      <!-- Engraved ribs on the inward-curving leaves. -->
+      <path class="line outline" style="stroke-width:1.8" d="M193 75 Q202 75 206 81 M199 68 Q209 68 213 74 M205 60 Q215 61 219 67 M211 52 Q221 54 225 59 M217 44 Q226 45 231 52 M224 36 Q232 38 237 44 M230 30 Q238 32 242 39 M298 31 Q291 34 290 40 M306 39 Q299 43 298 48 M312 47 Q307 52 305 57 M318 55 Q312 60 311 65 M323 64 Q317 67 317 74"/>
+    </g>
+    <path id="outer-petal" d="M0 -4 C-15 -18 -27 -33 -19 -48 C-15 -54 -8 -55 0 -46 C8 -55 15 -54 19 -48 C27 -33 15 -18 0 -4Z"/>
+    <path id="inner-petal" d="M0 -7 C-12 -19 -14 -37 0 -51 C14 -37 12 -19 0 -7Z"/>
+    <g id="rosette">
+      <use xlink:href="#outer-petal" class="pink outline" transform="rotate(0)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(45)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(90)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(135)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(180)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(225)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(270)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(315)"/>
+      <use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(22.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(67.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(112.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(157.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(202.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(247.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(292.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(337.5)"/>
+      <circle r="8.5" class="pink outline"/>
+    </g>
+    <g id="left-decoration">
+      <use xlink:href="#vines"/>
+      <use xlink:href="#vines" transform="translate(0 210) scale(1 -1)"/>
+      <use xlink:href="#rosette" transform="translate(247 105) scale(1.13)"/>
+      <path class="pink outline" d="M484 91 C496 87 504 93 504 105 C504 117 496 123 484 119 C474 119 474 110 478 105 C474 100 474 91 484 91Z"/>
+    </g>
+  </defs>
+  <g id="frame">
+    <rect x="1.5" y="1.5" width="1797" height="207" class="sage outline"/>
+    <rect x="8" y="8" width="1784" height="194" class="cream outline" style="stroke-width:1.4"/>
+    <rect x="14" y="14" width="1772" height="182" class="green outline"/>
+  </g>
+  <g id="central-cartouche">
+    <path class="cream outline" d="M491 105 C508 98 518 80 535 79 C553 82 567 35 587 37 Q596 34 604 41 Q611 14 639 14 H1161 Q1189 14 1196 41 Q1204 34 1213 37 C1233 35 1247 82 1265 79 C1282 80 1292 98 1309 105 C1292 112 1282 130 1265 131 C1247 128 1233 175 1213 173 Q1204 176 1196 169 Q1189 196 1161 196 H639 Q611 196 604 169 Q596 176 587 173 C567 175 553 128 535 131 C518 130 508 112 491 105Z"/>
+    <path class="sage outline" style="stroke-width:1.6" d="M508 105 C521 95 527 86 539 86 C558 88 575 40 588 45 Q598 45 609 52 Q615 22 639 22 H1161 Q1185 22 1191 52 Q1202 45 1212 45 C1225 40 1242 88 1261 86 C1273 86 1279 95 1292 105 C1279 115 1273 124 1261 124 C1242 122 1225 170 1212 165 Q1202 165 1191 158 Q1185 188 1161 188 H639 Q615 188 609 158 Q598 165 588 165 C575 170 558 122 539 124 C527 124 521 115 508 105Z"/>
+  </g>
+  <g id="floral-decoration">
+    <use xlink:href="#left-decoration"/>
+    <use xlink:href="#left-decoration" transform="translate(1800 0) scale(-1 1)"/>
+  </g>
+</svg>

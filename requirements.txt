@@ -1,0 +1,3 @@
+# Dependencies used only when rebuilding the published QCF v4 SVG files.
+fonttools>=4.53,<5
+uharfbuzz>=0.39,<1

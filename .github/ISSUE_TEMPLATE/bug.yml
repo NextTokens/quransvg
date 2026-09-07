@@ -1,0 +1,41 @@
+name: Integration or tooling bug
+description: Report a problem with the viewer, manifest, validator, CLI, or documented API.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Provide the smallest sequence of commands or code that reproduces the problem.
+      render: shell
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Python 3.12, Windows 11 / Node 24, Ubuntu 24.04"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Repository version
+      description: Release tag or commit hash.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant output
+      description: Remove tokens, private paths, and other secrets before posting.
+      render: text

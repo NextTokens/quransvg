@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210mm" height="297mm" viewBox="0 0 1050 1485" role="img" aria-labelledby="title desc">
+<title id="title">Green and pink Quran opening decoration — page 1</title>
+<desc id="desc">A4 portrait, right-hand page of a paired Quran opening decoration. Blank title and text panels. Original matching floral motifs and editable flat colors; entirely vector artwork.</desc>
+<!-- EDIT COLORS in the style below. Groups separate the outer frame, illuminated panel, writing panel, title panel, lower cartouche, and outer-margin jewel. Page 1 is on the right of the spread, page 2 on the left. -->
+<style>
+    .green { fill: #286547; }
+    .pink { fill: #BB427B; }
+    .cream { fill: #E4DDC7; }
+    .sage { fill: #B7C3AB; }
+    .cream-stroke { stroke: #E4DDC7; }
+    .outline { stroke: #303C32; stroke-width: 2.4; stroke-linejoin: round; stroke-linecap: round; }
+    .line { fill: none; }
+  </style>
+<defs>
+    <!-- Each ornament is reused to keep the two ends exactly symmetrical. -->
+    <path id="vine-route" d="M 489,105 C 466,105 460,79 430,58 C 403,39 380,27 360,27 C 334,27 319,48 321,66 C 322,82 338,87 350,79 C 361,71 359,58 350,55 M 482,105 C 452,110 446,90 423,89 C 397,88 380,100 363,96 C 342,91 333,78 317,53 C 302,29 287,22 267,23 C 247,24 239,40 247,54 M 317,53 C 290,11 272,15 265,27 M 349,30 C 363,8 381,16 387,23 M 430,58 C 423,29 442,19 455,29 C 466,38 456,49 447,44 M 424,33 C 414,24 417,15 426,15 M 460,23 C 472,20 478,28 474,33 M 363,96 C 358,76 369,66 380,72 C 388,77 383,88 377,87 M 41,24 C 45,34 60,30 62,25 C 72,10 101,12 112,31 C 121,45 117,63 105,67 C 93,71 83,59 91,51 M 112,31 C 123,16 143,23 148,36 C 153,50 139,59 130,51 M 112,63 C 132,101 165,102 188,81 C 205,65 216,38 229,28 C 244,16 262,18 272,29 M 115,71 C 90,93 67,89 63,69 C 60,54 69,44 78,44 M 70,83 C 56,83 50,94 55,99 M 53,68 C 43,56 47,45 53,43 M 154,36 C 168,35 170,24 166,19 M 143,24 C 141,14 148,11 152,14"/>
+    <g id="vines">
+      <use xlink:href="#vine-route" class="line outline" style="stroke-width:11"/>
+      <use xlink:href="#vine-route" class="line cream-stroke" stroke-width="6.3" stroke-linecap="round"/>
+      <path class="cream outline" d="M87 41 C80 35 84 25 95 27 C100 20 98 16 95 15 C110 14 115 28 109 37 C102 49 95 47 87 41Z"/>
+      <path class="pink outline" d="M101 36 C116 42 118 58 109 73 C98 70 92 54 101 36Z"/>
+      <path class="cream outline" d="M107 73 C99 82 90 81 85 77 C80 71 83 63 89 62 C93 71 100 73 107 73Z"/>
+      <path class="pink outline" d="M429 44 C415 50 414 67 426 82 C439 75 442 57 429 44Z"/>
+      <path class="cream outline" d="M419 45 C412 38 416 29 424 29 C430 29 434 35 431 40 C426 37 421 39 419 45Z"/>
+      <path class="cream outline" d="M425 83 C437 87 445 79 442 70 C436 73 432 77 425 83Z"/>
+      <!-- Engraved ribs on the inward-curving leaves. -->
+      <path class="line outline" style="stroke-width:1.8" d="M193 75 Q202 75 206 81 M199 68 Q209 68 213 74 M205 60 Q215 61 219 67 M211 52 Q221 54 225 59 M217 44 Q226 45 231 52 M224 36 Q232 38 237 44 M230 30 Q238 32 242 39 M298 31 Q291 34 290 40 M306 39 Q299 43 298 48 M312 47 Q307 52 305 57 M318 55 Q312 60 311 65 M323 64 Q317 67 317 74"/>
+    </g>
+    <path id="outer-petal" d="M0 -4 C-15 -18 -27 -33 -19 -48 C-15 -54 -8 -55 0 -46 C8 -55 15 -54 19 -48 C27 -33 15 -18 0 -4Z"/>
+    <path id="inner-petal" d="M0 -7 C-12 -19 -14 -37 0 -51 C14 -37 12 -19 0 -7Z"/>
+    <g id="rosette">
+      <use xlink:href="#outer-petal" class="pink outline" transform="rotate(0)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(45)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(90)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(135)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(180)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(225)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(270)"/>
+<use xlink:href="#outer-petal" class="pink outline" transform="rotate(315)"/>
+      <use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(22.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(67.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(112.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(157.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(202.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(247.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(292.5)"/>
+<use xlink:href="#inner-petal" class="sage outline" style="stroke-width:1.7" transform="rotate(337.5)"/>
+      <circle r="8.5" class="pink outline"/>
+    </g>
+    <g id="left-decoration">
+      <use xlink:href="#vines"/>
+      <use xlink:href="#vines" transform="translate(0 210) scale(1 -1)"/>
+      <use xlink:href="#rosette" transform="translate(247 105) scale(1.13)"/>
+      <path class="pink outline" d="M484 91 C496 87 504 93 504 105 C504 117 496 123 484 119 C474 119 474 110 478 105 C474 100 474 91 484 91Z"/>
+    </g>
+  
+    <!-- A small, continuous arabesque uses the header's original flower paths. -->
+    <path id="edge-vine" d="M0 0 C12 -10 26 -11 36 -5 C46 1 47 7 59 0 C71 -7 73 -11 84 -8 C94 -5 96 4 107 5 Q113 5 118 0 M12 -6 C10 -1 15 4 20 2 C24 0 21 -4 18 -3 M34 -6 C30 -12 23 -11 24 -7 M83 -8 C89 -10 96 -6 94 0 C92 5 86 4 86 0 M105 5 C106 10 112 9 113 6"/>
+    <g id="edge-half">
+      <use xlink:href="#edge-vine" class="line outline" style="stroke-width:3.5"/>
+      <use xlink:href="#edge-vine" class="line cream-stroke" stroke-width="1.9" stroke-linecap="round"/>
+    </g>
+    <g id="edge-tile">
+      <use xlink:href="#edge-half"/>
+      <use xlink:href="#edge-half" transform="scale(1 -1)"/>
+      <path class="pink outline" style="stroke-width:.7" d="M0 -6 C6 -3 6 3 0 6 C-6 3 -6 -3 0 -6Z"/>
+      <use xlink:href="#rosette" transform="translate(59 0) scale(.174)"/>
+    </g>
+    <g id="short-edge"><use xlink:href="#edge-tile" transform="translate(0 0)"/><use xlink:href="#edge-tile" transform="translate(118 0)"/><use xlink:href="#edge-tile" transform="translate(236 0)"/><use xlink:href="#edge-tile" transform="translate(354 0)"/><use xlink:href="#edge-tile" transform="translate(472 0)"/><use xlink:href="#edge-tile" transform="translate(590 0)"/><use xlink:href="#edge-tile" transform="translate(708 0)"/><use xlink:href="#edge-tile" transform="translate(826 0)"/></g>
+    <g id="long-edge"><g transform="scale(.9738700565 1)"><use xlink:href="#edge-tile" transform="translate(0 0)"/><use xlink:href="#edge-tile" transform="translate(118 0)"/><use xlink:href="#edge-tile" transform="translate(236 0)"/><use xlink:href="#edge-tile" transform="translate(354 0)"/><use xlink:href="#edge-tile" transform="translate(472 0)"/><use xlink:href="#edge-tile" transform="translate(590 0)"/><use xlink:href="#edge-tile" transform="translate(708 0)"/><use xlink:href="#edge-tile" transform="translate(826 0)"/><use xlink:href="#edge-tile" transform="translate(944 0)"/><use xlink:href="#edge-tile" transform="translate(1062 0)"/><use xlink:href="#edge-tile" transform="translate(1180 0)"/><use xlink:href="#edge-tile" transform="translate(1298 0)"/></g></g>
+    <g id="frame-corner">
+      <path class="cream outline" style="stroke-width:1" d="M-15 -15 H4 Q15 -15 15 -4 V15 H-4 Q-15 15 -15 4Z"/>
+      <path class="green outline" style="stroke-width:.65" d="M-12 -12 H3 Q12 -12 12 -3 V12 H-3 Q-12 12 -12 3Z"/>
+      <use xlink:href="#rosette" transform="scale(.213)"/>
+    </g>
+    
+    <g id="opening-star">
+      <path class="cream outline" style="stroke-width:1.1" d="M0 -31 L9 -23 L23 -23 L23 -9 L31 0 L23 9 L23 23 L9 23 L0 31 L-9 23 L-23 23 L-23 9 L-31 0 L-23 -9 L-23 -23 L-9 -23Z"/>
+      <path class="green outline" style="stroke-width:.8" d="M0 -25 L8 -19 L19 -19 L19 -8 L25 0 L19 8 L19 19 L8 19 L0 25 L-8 19 L-19 19 L-19 8 L-25 0 L-19 -8 L-19 -19 L-8 -19Z"/>
+      <use xlink:href="#rosette" transform="scale(.42)"/>
+    </g>
+    <g id="opening-crown">
+      <path class="cream outline" style="stroke-width:1.5" d="M176 286 L176 208 Q205 213 216 192 Q243 203 258 177 Q285 194 306 162 Q329 186 354 164 Q381 185 404 157 Q433 181 457 158 Q490 178 525 126 Q560 178 593 158 Q617 181 646 157 Q669 185 696 164 Q721 186 744 162 Q765 194 792 177 Q807 203 834 192 Q845 213 874 208 L874 286Z"/>
+      <path class="green outline" style="stroke-width:1.1" d="M184 278 V219 Q206 222 218 203 Q244 214 260 189 Q287 205 307 176 Q330 198 353 176 Q381 198 404 170 Q433 194 458 173 Q492 191 525 144 Q558 191 592 173 Q617 194 646 170 Q669 198 697 176 Q720 198 743 176 Q763 205 790 189 Q806 214 832 203 Q844 222 866 219 V278Z"/>
+      <use xlink:href="#left-decoration" transform="translate(192 186) scale(.59 .43)"/>
+      <use xlink:href="#left-decoration" transform="translate(858 186) scale(-.59 .43)"/>
+      <path class="sage outline" style="stroke-width:1.2" d="M525 159 C541 182 563 184 563 211 C563 237 540 248 525 263 C510 248 487 237 487 211 C487 184 509 182 525 159Z"/>
+      <use xlink:href="#rosette" transform="translate(525 213) scale(.49)"/>
+      <path class="pink outline" style="stroke-width:1.1" d="M525 136 C533 148 533 156 525 165 C517 156 517 148 525 136Z"/>
+    </g>
+    <g id="opening-column">
+      <use xlink:href="#edge-tile" transform="translate(0 0) rotate(90) scale(1.5 2.35)" /><use xlink:href="#edge-tile" transform="translate(0 177) rotate(90) scale(1.5 2.35)" /><use xlink:href="#edge-tile" transform="translate(0 354) rotate(90) scale(1.5 2.35)" /><use xlink:href="#edge-tile" transform="translate(0 531) rotate(90) scale(1.5 2.35)" /><use xlink:href="#edge-tile" transform="translate(0 708) rotate(90) scale(1.5 2.35)" />
+    </g>
+    <g id="margin-jewel">
+      <path class="line outline" style="stroke-width:1.1" d="M0 -155 V-60 M0 60 V155"/>
+      <path class="cream outline" style="stroke-width:1" d="M0 -71 C11 -50 23 -45 23 -24 C42 -8 42 8 23 24 C23 45 11 50 0 71 C-11 50 -23 45 -23 24 C-42 8 -42 -8 -23 -24 C-23 -45 -11 -50 0 -71Z"/>
+      <path class="green outline" style="stroke-width:.9" d="M0 -56 C10 -41 17 -37 17 -19 C33 -6 33 6 17 19 C17 37 10 41 0 56 C-10 41 -17 37 -17 19 C-33 6 -33 -6 -17 -19 C-17 -37 -10 -41 0 -56Z"/>
+      <use xlink:href="#rosette" transform="scale(.43)"/>
+      <path class="pink outline" style="stroke-width:.8" d="M0 -137 C8 -129 8 -117 0 -111 C-8 -117 -8 -129 0 -137Z M0 137 C8 129 8 117 0 111 C-8 117 -8 129 0 137Z"/>
+      <circle cy="-155" r="2.8" class="pink outline" style="stroke-width:.7"/>
+      <circle cy="155" r="2.8" class="pink outline" style="stroke-width:.7"/>
+      <path class="sage outline" style="stroke-width:.8" d="M0 -92 C10 -86 10 -77 0 -71 C-10 -77 -10 -86 0 -92Z M0 92 C10 86 10 77 0 71 C-10 77 -10 86 0 92Z"/>
+    </g>
+    </defs>
+
+
+  <g id="page-frame">
+    <!-- The decorated band is 4.8 mm wide. The page center is transparent. -->
+    <path class="sage outline" style="stroke-width:.9" fill-rule="evenodd" d="M37 37 H1013 V1448 H37Z M40 40 V1445 H1010 V40Z"/>
+    <path class="cream outline" style="stroke-width:.7" fill-rule="evenodd" d="M40 40 H1010 V1445 H40Z M43 43 V1442 H1007 V43Z"/>
+    <path class="green outline" style="stroke-width:.8" fill-rule="evenodd" d="M43 43 H1007 V1442 H43Z M65 65 V1420 H985 V65Z"/>
+    <path class="cream outline" style="stroke-width:.7" fill-rule="evenodd" d="M65 65 H985 V1420 H65Z M68 68 V1417 H982 V68Z"/>
+    <use xlink:href="#short-edge" transform="translate(53 53)"/>
+    <use xlink:href="#short-edge" transform="translate(997 1432) rotate(180)"/>
+    <use xlink:href="#long-edge" transform="translate(997 53) rotate(90)"/>
+    <use xlink:href="#long-edge" transform="translate(53 1432) rotate(-90)"/>
+    <use xlink:href="#frame-corner" transform="translate(53 53)"/>
+    <use xlink:href="#frame-corner" transform="translate(997 53) rotate(90)"/>
+    <use xlink:href="#frame-corner" transform="translate(997 1432) rotate(180)"/>
+    <use xlink:href="#frame-corner" transform="translate(53 1432) rotate(270)"/>
+  </g>
+    
+<g id="opening-illumination" transform="translate(7 0)"><g id="illuminated-panel"><rect x="159" y="270" width="732" height="945" class="sage outline" style="stroke-width:1.4"/><rect x="166" y="277" width="718" height="931" class="cream outline" style="stroke-width:1.1"/><rect x="172" y="283" width="706" height="919" class="green outline" style="stroke-width:1"/><use xlink:href="#opening-crown" transform="" /><use xlink:href="#opening-crown" transform="translate(0 1485) scale(1 -1)" /><use xlink:href="#opening-column" transform="translate(203 300)" /><use xlink:href="#opening-column" transform="translate(847 1185) rotate(180)" /><path class="line cream-stroke" stroke-width="1.3" d="M169 298 V1187"/><path class="line cream-stroke" stroke-width="1.3" d="M237 298 V1187"/><path class="line cream-stroke" stroke-width="1.3" d="M807 298 V1187"/><path class="line cream-stroke" stroke-width="1.3" d="M875 298 V1187"/><g id="opening-title-panel" transform="translate(247 306) scale(.3088888889 .38)">
+  <g id="title-frame">
+    <rect x="1.5" y="1.5" width="1797" height="207" class="sage outline"/>
+    <rect x="8" y="8" width="1784" height="194" class="cream outline" style="stroke-width:1.4"/>
+    <rect x="14" y="14" width="1772" height="182" class="green outline"/>
+  </g>
+  <g id="title-central-cartouche">
+    <path class="cream outline" d="M491 105 C508 98 518 80 535 79 C553 82 567 35 587 37 Q596 34 604 41 Q611 14 639 14 H1161 Q1189 14 1196 41 Q1204 34 1213 37 C1233 35 1247 82 1265 79 C1282 80 1292 98 1309 105 C1292 112 1282 130 1265 131 C1247 128 1233 175 1213 173 Q1204 176 1196 169 Q1189 196 1161 196 H639 Q611 196 604 169 Q596 176 587 173 C567 175 553 128 535 131 C518 130 508 112 491 105Z"/>
+    <path class="sage outline" style="stroke-width:1.6" d="M508 105 C521 95 527 86 539 86 C558 88 575 40 588 45 Q598 45 609 52 Q615 22 639 22 H1161 Q1185 22 1191 52 Q1202 45 1212 45 C1225 40 1242 88 1261 86 C1273 86 1279 95 1292 105 C1279 115 1273 124 1261 124 C1242 122 1225 170 1212 165 Q1202 165 1191 158 Q1185 188 1161 188 H639 Q615 188 609 158 Q598 165 588 165 C575 170 558 122 539 124 C527 124 521 115 508 105Z"/>
+  </g>
+  <g id="title-floral-decoration">
+    <use xlink:href="#left-decoration"/>
+    <use xlink:href="#left-decoration" transform="translate(1800 0) scale(-1 1)"/>
+  </g>
+</g><g id="writing-panel">
+      <path class="sage outline" style="stroke-width:1.8" d="M287 405 Q273 421 250 425 V450 Q265 464 250 485 V1000 Q265 1021 250 1035 V1060 Q273 1064 287 1080 H763 Q777 1064 800 1060 V1035 Q785 1021 800 1000 V485 Q785 464 800 450 V425 Q777 421 763 405Z"/>
+      <path class="cream outline" style="stroke-width:1.2" d="M292 414 Q279 430 260 431 V447 Q275 465 260 488 V997 Q275 1020 260 1038 V1054 Q279 1055 292 1071 H758 Q771 1055 790 1054 V1038 Q775 1020 790 997 V488 Q775 465 790 447 V431 Q771 430 758 414Z"/>
+      <path class="line outline" style="stroke-width:.65" d="M299 424 Q286 438 270 439 V446 Q286 466 270 491 V994 Q286 1019 270 1039 V1046 Q286 1047 299 1061 H751 Q764 1047 780 1046 V1039 Q764 1019 780 994 V491 Q764 466 780 446 V439 Q764 438 751 424Z"/>
+    </g><g transform="translate(251 392) scale(1.16 .5)"><use xlink:href="#edge-tile" transform="translate(0 0)" /><use xlink:href="#edge-tile" transform="translate(118 0)" /><use xlink:href="#edge-tile" transform="translate(236 0)" /><use xlink:href="#edge-tile" transform="translate(354 0)" /></g><g transform="translate(251 1093) scale(1.16 .5)"><use xlink:href="#edge-tile" transform="translate(0 0)" /><use xlink:href="#edge-tile" transform="translate(118 0)" /><use xlink:href="#edge-tile" transform="translate(236 0)" /><use xlink:href="#edge-tile" transform="translate(354 0)" /></g><g id="opening-lower-cartouche" transform="translate(247 1101) scale(.3088888889 .38)">
+  <g id="lower-frame">
+    <rect x="1.5" y="1.5" width="1797" height="207" class="sage outline"/>
+    <rect x="8" y="8" width="1784" height="194" class="cream outline" style="stroke-width:1.4"/>
+    <rect x="14" y="14" width="1772" height="182" class="green outline"/>
+  </g>
+  <g id="lower-central-cartouche">
+    <path class="cream outline" d="M491 105 C508 98 518 80 535 79 C553 82 567 35 587 37 Q596 34 604 41 Q611 14 639 14 H1161 Q1189 14 1196 41 Q1204 34 1213 37 C1233 35 1247 82 1265 79 C1282 80 1292 98 1309 105 C1292 112 1282 130 1265 131 C1247 128 1233 175 1213 173 Q1204 176 1196 169 Q1189 196 1161 196 H639 Q611 196 604 169 Q596 176 587 173 C567 175 553 128 535 131 C518 130 508 112 491 105Z"/>
+    <path class="sage outline" style="stroke-width:1.6" d="M508 105 C521 95 527 86 539 86 C558 88 575 40 588 45 Q598 45 609 52 Q615 22 639 22 H1161 Q1185 22 1191 52 Q1202 45 1212 45 C1225 40 1242 88 1261 86 C1273 86 1279 95 1292 105 C1279 115 1273 124 1261 124 C1242 122 1225 170 1212 165 Q1202 165 1191 158 Q1185 188 1161 188 H639 Q615 188 609 158 Q598 165 588 165 C575 170 558 122 539 124 C527 124 521 115 508 105Z"/>
+  </g>
+  <g id="lower-floral-decoration">
+    <use xlink:href="#left-decoration"/>
+    <use xlink:href="#left-decoration" transform="translate(1800 0) scale(-1 1)"/>
+  </g>
+</g><use xlink:href="#opening-star" transform="translate(175 283) scale(.8)" /><use xlink:href="#opening-star" transform="translate(875 283) scale(.8)" /><use xlink:href="#opening-star" transform="translate(175 1202) scale(.8)" /><use xlink:href="#opening-star" transform="translate(875 1202) scale(.8)" /></g></g>
+<g id="outer-margin-ornament"><use xlink:href="#margin-jewel" transform="translate(943 742.5)" /></g>
+</svg>

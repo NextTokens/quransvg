@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest an improvement to the QCF v4 corpus or its integration tools.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use case
+      description: What are you building, and what is difficult today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Describe the API, metadata, theme, documentation, or tooling change.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Edition scope
+      options:
+        - label: This request applies to the supported QCF v4 corpus.
+          required: true

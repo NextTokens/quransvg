@@ -1,0 +1,4855 @@
+{
+  "schema_version": 1,
+  "edition": "qcf-v4",
+  "page_count": 604,
+  "page_pattern": "mushaf-v4/page-{page:03d}.svg",
+  "view_box": [
+    0,
+    0,
+    1000,
+    2231
+  ],
+  "default_theme": "green-pink",
+  "themes": [
+    "blue",
+    "green-pink",
+    "night",
+    "olive-gold",
+    "sepia"
+  ],
+  "total_bytes": 223910576,
+  "pages": [
+    {
+      "page": 1,
+      "file": "mushaf-v4/page-001.svg",
+      "bytes": 139279,
+      "sha256": "747ed65b88933bebf0baae3ca81322653a3a6b24162744a9f8fa6cd72703d270",
+      "ayahs": 7,
+      "words": 29
+    },
+    {
+      "page": 2,
+      "file": "mushaf-v4/page-002.svg",
+      "bytes": 165792,
+      "sha256": "d3693374109b34179dd4de7346fb1eaafa6974aa582fcaa0000f256382735e06",
+      "ayahs": 5,
+      "words": 36
+    },
+    {
+      "page": 3,
+      "file": "mushaf-v4/page-003.svg",
+      "bytes": 382968,
+      "sha256": "fff00f201239bea7ac02b90f8c09c49ed5964438c903decfc985738158e6cc85",
+      "ayahs": 11,
+      "words": 127
+    },
+    {
+      "page": 4,
+      "file": "mushaf-v4/page-004.svg",
+      "bytes": 395652,
+      "sha256": "05ff12ce4248658aa4e8908415e82f018b1940ae4df8ed53342f7baafa4445ea",
+      "ayahs": 8,
+      "words": 134
+    },
+    {
+      "page": 5,
+      "file": "mushaf-v4/page-005.svg",
+      "bytes": 349782,
+      "sha256": "8d5c153d95b80090a317e5a1000379cbf214b174f44cd43967826577fb48da7c",
+      "ayahs": 5,
+      "words": 125
+    },
+    {
+      "page": 6,
+      "file": "mushaf-v4/page-006.svg",
+      "bytes": 386213,
+      "sha256": "4eae5d65574b6422c720172177da083ee1d6ee4db2151ca71625a6b74b26433d",
+      "ayahs": 8,
+      "words": 138
+    },
+    {
+      "page": 7,
+      "file": "mushaf-v4/page-007.svg",
+      "bytes": 407595,
+      "sha256": "eab44d19e511cd2e1c3544b61d1ffd88c1a442c8c1f9a660b3b92010698271d0",
+      "ayahs": 11,
+      "words": 129
+    },
+    {
+      "page": 8,
+      "file": "mushaf-v4/page-008.svg",
+      "bytes": 374125,
+      "sha256": "0142ae94705b79f66bc3dd418d345b00623908a8f05dbcb9f61194587b89f4a0",
+      "ayahs": 9,
+      "words": 120
+    },
+    {
+      "page": 9,
+      "file": "mushaf-v4/page-009.svg",
+      "bytes": 375262,
+      "sha256": "e5ba776884c4d57047476ce37db9215a3a86ed58d9e864c48bcaa47bfbd26fd8",
+      "ayahs": 4,
+      "words": 125
+    },
+    {
+      "page": 10,
+      "file": "mushaf-v4/page-010.svg",
+      "bytes": 381986,
+      "sha256": "a0554dd3fca753c649000e75ee4489dc3678640acaae3174b0f56c0e4da49b64",
+      "ayahs": 8,
+      "words": 134
+    },
+    {
+      "page": 11,
+      "file": "mushaf-v4/page-011.svg",
+      "bytes": 386821,
+      "sha256": "dc927d7ef7c7b8d1ab1e9588463eb847a3a0f3aaf571a9eab88c1b33d1abd361",
+      "ayahs": 7,
+      "words": 141
+    },
+    {
+      "page": 12,
+      "file": "mushaf-v4/page-012.svg",
+      "bytes": 350442,
+      "sha256": "c0d8deba6c279a255a33e65b2d59b0f3f7a6f358e7117119e75470828e27d9c5",
+      "ayahs": 7,
+      "words": 119
+    },
+    {
+      "page": 13,
+      "file": "mushaf-v4/page-013.svg",
+      "bytes": 371464,
+      "sha256": "c16aa88c3fd59e08c56e6afa734e8e926bde67e27c7e7e2775d803f62e974b3f",
+      "ayahs": 5,
+      "words": 115
+    },
+    {
+      "page": 14,
+      "file": "mushaf-v4/page-014.svg",
+      "bytes": 342908,
+      "sha256": "78695a543c84e44abff135714ea0b71e1cbf3a5240427cadc4e45222c455b824",
+      "ayahs": 5,
+      "words": 121
+    },
+    {
+      "page": 15,
+      "file": "mushaf-v4/page-015.svg",
+      "bytes": 347741,
+      "sha256": "cacf7e41f060bf4c72cefef1f4bc64c139289b1d50a8ff7af0446dfab8866a52",
+      "ayahs": 8,
+      "words": 123
+    },
+    {
+      "page": 16,
+      "file": "mushaf-v4/page-016.svg",
+      "bytes": 345124,
+      "sha256": "a4da1866a9a1a1be7d57483b33c3bad78832fc2d693fe73615c5300199f0c84b",
+      "ayahs": 4,
+      "words": 123
+    },
+    {
+      "page": 17,
+      "file": "mushaf-v4/page-017.svg",
+      "bytes": 365489,
+      "sha256": "870e9fce0d3c515fdc32b2d5233d776a0e5b487632f995d01dc0567dece59034",
+      "ayahs": 7,
+      "words": 139
+    },
+    {
+      "page": 18,
+      "file": "mushaf-v4/page-018.svg",
+      "bytes": 390207,
+      "sha256": "dc49124028c13ec3c9401940f881beea8443da03de97da3b5bc5819bdff17892",
+      "ayahs": 7,
+      "words": 132
+    },
+    {
+      "page": 19,
+      "file": "mushaf-v4/page-019.svg",
+      "bytes": 411555,
+      "sha256": "02bd32c766b96a79976ccb0a592a4137576d7bb8e50d3c804c97a370435c62b6",
+      "ayahs": 7,
+      "words": 146
+    },
+    {
+      "page": 20,
+      "file": "mushaf-v4/page-020.svg",
+      "bytes": 375067,
+      "sha256": "c4a5416607a94992bbfb23fee024f52c46ebd765403b178d773595f2e76a8c2d",
+      "ayahs": 8,
+      "words": 132
+    },
+    {
+      "page": 21,
+      "file": "mushaf-v4/page-021.svg",
+      "bytes": 378440,
+      "sha256": "0d7176b13ef41f32d2ef28b9747b2f2d1f6839825267f007c2e927190d57427a",
+      "ayahs": 7,
+      "words": 134
+    },
+    {
+      "page": 22,
+      "file": "mushaf-v4/page-022.svg",
+      "bytes": 382580,
+      "sha256": "8ecd8cbd5392dd50b8a5109afa3a98892e3cecee2392574ab5d4a0683c08c75a",
+      "ayahs": 4,
+      "words": 132
+    },
+    {
+      "page": 23,
+      "file": "mushaf-v4/page-023.svg",
+      "bytes": 377714,
+      "sha256": "27a6eab1c11eecb92933e076f264e400b6e4efd6579d33a89d45f52488ef4f66",
+      "ayahs": 8,
+      "words": 121
+    },
+    {
+      "page": 24,
+      "file": "mushaf-v4/page-024.svg",
+      "bytes": 389404,
+      "sha256": "5c6fdd17009c777fda3ffe8504e027f3faf90bfa36a68d63c6f119c8854468dc",
+      "ayahs": 10,
+      "words": 130
+    },
+    {
+      "page": 25,
+      "file": "mushaf-v4/page-025.svg",
+      "bytes": 382692,
+      "sha256": "4f5f05518b5493b6fd97327b3b323eea8409786c8998b6b189ae3e98e8d3ad0a",
+      "ayahs": 6,
+      "words": 136
+    },
+    {
+      "page": 26,
+      "file": "mushaf-v4/page-026.svg",
+      "bytes": 368754,
+      "sha256": "69f0c563acc32ff7d4c3e6d12fcaba70990ba2b2281e5367bca283e29ac51ff7",
+      "ayahs": 7,
+      "words": 133
+    },
+    {
+      "page": 27,
+      "file": "mushaf-v4/page-027.svg",
+      "bytes": 402148,
+      "sha256": "3872515db01a87549006b4f7ee77b5ae791d7730f5ba8cf1df3f5d08575933e0",
+      "ayahs": 5,
+      "words": 126
+    },
+    {
+      "page": 28,
+      "file": "mushaf-v4/page-028.svg",
+      "bytes": 349628,
+      "sha256": "0e20fbf6675935b7a5e439cae6d62714898be4c218c0e716e6ddbcb3a4380304",
+      "ayahs": 5,
+      "words": 123
+    },
+    {
+      "page": 29,
+      "file": "mushaf-v4/page-029.svg",
+      "bytes": 384224,
+      "sha256": "a6a2554bb69c333a4125ba0d470356f3c301faad818380f8ea4d3acb48f9f7ba",
+      "ayahs": 4,
+      "words": 122
+    },
+    {
+      "page": 30,
+      "file": "mushaf-v4/page-030.svg",
+      "bytes": 464163,
+      "sha256": "5ffa9914b445cda85422e9c8f06202517ad291d4c0c21dc426117212d010c2d4",
+      "ayahs": 6,
+      "words": 155
+    },
+    {
+      "page": 31,
+      "file": "mushaf-v4/page-031.svg",
+      "bytes": 333677,
+      "sha256": "d800dbff4cd838555b3812bc26e493695b2a3a8d7b690e7730653b0b7267b4a0",
+      "ayahs": 6,
+      "words": 113
+    },
+    {
+      "page": 32,
+      "file": "mushaf-v4/page-032.svg",
+      "bytes": 361901,
+      "sha256": "01477643c52206fe2301d9f528233aa3101432a20b229b440401e37c49c0c721",
+      "ayahs": 8,
+      "words": 123
+    },
+    {
+      "page": 33,
+      "file": "mushaf-v4/page-033.svg",
+      "bytes": 412405,
+      "sha256": "5e4ae56284e2af4d76ca2a3377403f0e1264287c1feecf83eeaf92f6e4eb4082",
+      "ayahs": 5,
+      "words": 141
+    },
+    {
+      "page": 34,
+      "file": "mushaf-v4/page-034.svg",
+      "bytes": 375166,
+      "sha256": "e054896af1df837e25bfccd9edefb0bd96b835c4026af8a722cba8cf82f79e21",
+      "ayahs": 4,
+      "words": 124
+    },
+    {
+      "page": 35,
+      "file": "mushaf-v4/page-035.svg",
+      "bytes": 409542,
+      "sha256": "794760901eddfd1c161ff9d880bd75022faf8c1a176308fee399cccf73b41304",
+      "ayahs": 5,
+      "words": 122
+    },
+    {
+      "page": 36,
+      "file": "mushaf-v4/page-036.svg",
+      "bytes": 430801,
+      "sha256": "89c8d120e9e30bc4c628702454a13f9efaf585d987fa07ff16c4f82c52514529",
+      "ayahs": 6,
+      "words": 150
+    },
+    {
+      "page": 37,
+      "file": "mushaf-v4/page-037.svg",
+      "bytes": 431730,
+      "sha256": "cc215365715a905933d5cf8bf4d887c7635525d0f7023e4011284fbf09be1f4a",
+      "ayahs": 3,
+      "words": 142
+    },
+    {
+      "page": 38,
+      "file": "mushaf-v4/page-038.svg",
+      "bytes": 396073,
+      "sha256": "77a60fcc32533c76cf9d04576c4de085c8df596e64c471b4a44475c0ceaabd96",
+      "ayahs": 4,
+      "words": 132
+    },
+    {
+      "page": 39,
+      "file": "mushaf-v4/page-039.svg",
+      "bytes": 346233,
+      "sha256": "a8ca480158244ffe629fe6fa180b4e4128b8cce746cb90866c7d63a02a7ead30",
+      "ayahs": 8,
+      "words": 116
+    },
+    {
+      "page": 40,
+      "file": "mushaf-v4/page-040.svg",
+      "bytes": 347596,
+      "sha256": "d3a3820e5fe8ca3dc942ade4097b97ac99cb75ac1bc51d1edb2d83e2c9d44089",
+      "ayahs": 3,
+      "words": 127
+    },
+    {
+      "page": 41,
+      "file": "mushaf-v4/page-041.svg",
+      "bytes": 333228,
+      "sha256": "e23e77ed9b1d12eb4eb30dc152b3e0ecadee7aeb6fd5b845174f233c0184b74b",
+      "ayahs": 4,
+      "words": 111
+    },
+    {
+      "page": 42,
+      "file": "mushaf-v4/page-042.svg",
+      "bytes": 409614,
+      "sha256": "94b0ab9babefe3cf26d018de8543a82a92fc86c74abcf0f0821b6880c21e2e63",
+      "ayahs": 4,
+      "words": 147
+    },
+    {
+      "page": 43,
+      "file": "mushaf-v4/page-043.svg",
+      "bytes": 374680,
+      "sha256": "f77ffd86f5885ae19491121cf398291f86c046aef9cc4cacbaf08afd4dff81da",
+      "ayahs": 3,
+      "words": 134
+    },
+    {
+      "page": 44,
+      "file": "mushaf-v4/page-044.svg",
+      "bytes": 392024,
+      "sha256": "1292ee48db13784401e795463421445c01667215ad46d2ca36eb2e9ca595543c",
+      "ayahs": 5,
+      "words": 136
+    },
+    {
+      "page": 45,
+      "file": "mushaf-v4/page-045.svg",
+      "bytes": 373630,
+      "sha256": "f4488bb5fbbd891b5332cf9b36b541391376a99386d7393e9f0e3245c55b5cf9",
+      "ayahs": 5,
+      "words": 120
+    },
+    {
+      "page": 46,
+      "file": "mushaf-v4/page-046.svg",
+      "bytes": 333513,
+      "sha256": "fdf0eff78bc56f00f8cd22eb49989da26933cd7dbe3feffa0008eeaf33b1dca6",
+      "ayahs": 5,
+      "words": 110
+    },
+    {
+      "page": 47,
+      "file": "mushaf-v4/page-047.svg",
+      "bytes": 383251,
+      "sha256": "6fc91b890dcfddce91bfb9b4232aae12b3f54e5168b5e72b887d431ebaafc6e2",
+      "ayahs": 7,
+      "words": 134
+    },
+    {
+      "page": 48,
+      "file": "mushaf-v4/page-048.svg",
+      "bytes": 378544,
+      "sha256": "c1718ec2f05890f541da4b480cdfdf17d05dfcc7df3437f952a198fc758c7798",
+      "ayahs": 1,
+      "words": 128
+    },
+    {
+      "page": 49,
+      "file": "mushaf-v4/page-049.svg",
+      "bytes": 371137,
+      "sha256": "d054fb4531ca4b7947d3b2b07b75883563c3fe1829cbe1db87db8f7fe826d077",
+      "ayahs": 4,
+      "words": 136
+    },
+    {
+      "page": 50,
+      "file": "mushaf-v4/page-050.svg",
+      "bytes": 386824,
+      "sha256": "1eff14ed3c9d8d2d94a0a71e17c50ff2ac2d1462ef1883dce24e1efed220e413",
+      "ayahs": 9,
+      "words": 135
+    },
+    {
+      "page": 51,
+      "file": "mushaf-v4/page-051.svg",
+      "bytes": 368035,
+      "sha256": "af5e8bfd6b92fac71d30ecfa09640b15d7eb9d1a6d11b6fbb6414a1dca087ce6",
+      "ayahs": 6,
+      "words": 116
+    },
+    {
+      "page": 52,
+      "file": "mushaf-v4/page-052.svg",
+      "bytes": 360669,
+      "sha256": "c550b929f5eccc925f59e3744145c3e40231eaf02c67a74282b2d44fc9c1868e",
+      "ayahs": 7,
+      "words": 116
+    },
+    {
+      "page": 53,
+      "file": "mushaf-v4/page-053.svg",
+      "bytes": 392833,
+      "sha256": "623e53d22a4445e9760810893c9a421a6e02e947369dc24d29e037b242d43f6d",
+      "ayahs": 7,
+      "words": 145
+    },
+    {
+      "page": 54,
+      "file": "mushaf-v4/page-054.svg",
+      "bytes": 398807,
+      "sha256": "c8615d69512b121fc6bcb2e8c1a4f7b8a78495be4a4c5878e5e3918bbd9612a8",
+      "ayahs": 8,
+      "words": 145
+    },
+    {
+      "page": 55,
+      "file": "mushaf-v4/page-055.svg",
+      "bytes": 377141,
+      "sha256": "e0400d504e82e79c69e8e20fe77164786fee91e78b6251082eee7322cec3c212",
+      "ayahs": 8,
+      "words": 131
+    },
+    {
+      "page": 56,
+      "file": "mushaf-v4/page-056.svg",
+      "bytes": 372253,
+      "sha256": "90f622b073e7a4fa4d6fdd14b3e29290588eba00e117846ce36c2d6334ad611b",
+      "ayahs": 7,
+      "words": 127
+    },
+    {
+      "page": 57,
+      "file": "mushaf-v4/page-057.svg",
+      "bytes": 359897,
+      "sha256": "406a898c2bb58d10887677171ff3ccacc4e04ed91b0ba32a68283895e54da6c4",
+      "ayahs": 9,
+      "words": 123
+    },
+    {
+      "page": 58,
+      "file": "mushaf-v4/page-058.svg",
+      "bytes": 380364,
+      "sha256": "400364a5c48f000c7c15b9f8109866077301261ded14a8e3dbd3b720d80efca6",
+      "ayahs": 9,
+      "words": 134
+    },
+    {
+      "page": 59,
+      "file": "mushaf-v4/page-059.svg",
+      "bytes": 390269,
+      "sha256": "10f5ada37676b33bdb2fd32dc9edce89639abd85b06a1db09591038698e2bb5c",
+      "ayahs": 7,
+      "words": 139
+    },
+    {
+      "page": 60,
+      "file": "mushaf-v4/page-060.svg",
+      "bytes": 360582,
+      "sha256": "341b796b7974cce2517ca405b88dba3387cc947775a03cf7c3879c54ddb916c3",
+      "ayahs": 6,
+      "words": 124
+    },
+    {
+      "page": 61,
+      "file": "mushaf-v4/page-061.svg",
+      "bytes": 364676,
+      "sha256": "63aeda3e1d5b6f97e7ce3b0de4e37ab9a1d4bc8d76771ef5ebc0c21726af07bb",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 62,
+      "file": "mushaf-v4/page-062.svg",
+      "bytes": 387367,
+      "sha256": "355e782bb57aa5fc90557953dc525f58d687c591670ebb5e87ebd23047b5fd65",
+      "ayahs": 9,
+      "words": 141
+    },
+    {
+      "page": 63,
+      "file": "mushaf-v4/page-063.svg",
+      "bytes": 386483,
+      "sha256": "d0d88cc9e3e8e028cb3a1010677c20e255e3f6f5fe4f882851466b1c4a6b37d8",
+      "ayahs": 8,
+      "words": 129
+    },
+    {
+      "page": 64,
+      "file": "mushaf-v4/page-064.svg",
+      "bytes": 364287,
+      "sha256": "cc3d914af50d907cbe990cd7e809b339be1be0bc600fa522d0a15b1a39072dae",
+      "ayahs": 7,
+      "words": 118
+    },
+    {
+      "page": 65,
+      "file": "mushaf-v4/page-065.svg",
+      "bytes": 375645,
+      "sha256": "fa0417df42a1cc8f6095fb4d5526728192d4e73b2aa5de6772f77713c6a239ff",
+      "ayahs": 6,
+      "words": 130
+    },
+    {
+      "page": 66,
+      "file": "mushaf-v4/page-066.svg",
+      "bytes": 377297,
+      "sha256": "27d9dab227588c0b00afa8d943e61ca175285b2006a6b4c8533a01887f0c47d0",
+      "ayahs": 11,
+      "words": 126
+    },
+    {
+      "page": 67,
+      "file": "mushaf-v4/page-067.svg",
+      "bytes": 352610,
+      "sha256": "f4cec1a1ca18421ae7287b51452063ceb23b4c593be03d4620ebe40d89b6b5f2",
+      "ayahs": 8,
+      "words": 114
+    },
+    {
+      "page": 68,
+      "file": "mushaf-v4/page-068.svg",
+      "bytes": 369498,
+      "sha256": "47797b116d039190a67e0ab2b9fb8914edbacd59e0c79f1a4ba83e390cfb712b",
+      "ayahs": 8,
+      "words": 132
+    },
+    {
+      "page": 69,
+      "file": "mushaf-v4/page-069.svg",
+      "bytes": 305034,
+      "sha256": "a580e0f60b09815f80984b112a0166aefeea7a6144e78350904d8638977e7281",
+      "ayahs": 5,
+      "words": 102
+    },
+    {
+      "page": 70,
+      "file": "mushaf-v4/page-070.svg",
+      "bytes": 388499,
+      "sha256": "a1bf296d2b4f86825d1a2cf63eca3224d35696940826903b2e5ac60b9ccc174a",
+      "ayahs": 4,
+      "words": 146
+    },
+    {
+      "page": 71,
+      "file": "mushaf-v4/page-071.svg",
+      "bytes": 376377,
+      "sha256": "e71e67ff44a9739b817a3440671ad3bf2041724aca874c8c2c48c37b44c0da00",
+      "ayahs": 8,
+      "words": 142
+    },
+    {
+      "page": 72,
+      "file": "mushaf-v4/page-072.svg",
+      "bytes": 382977,
+      "sha256": "219f6e682cdfe7c77c43910da438e787197c9df71c0feb322b72e9a20ee3ebcb",
+      "ayahs": 8,
+      "words": 133
+    },
+    {
+      "page": 73,
+      "file": "mushaf-v4/page-073.svg",
+      "bytes": 397261,
+      "sha256": "8063680e215a5d30503408b623f99767222c761e91df78fc17f55dc71e7d3fd2",
+      "ayahs": 7,
+      "words": 143
+    },
+    {
+      "page": 74,
+      "file": "mushaf-v4/page-074.svg",
+      "bytes": 348331,
+      "sha256": "3305db0b0ef509557e631f59840af50821dca45d4ec558b049897a2fe3b7602c",
+      "ayahs": 6,
+      "words": 118
+    },
+    {
+      "page": 75,
+      "file": "mushaf-v4/page-075.svg",
+      "bytes": 363071,
+      "sha256": "44e0e6fd36e4115b55b969a29099cee47ff6d843e6edf94246506527aff82d33",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 76,
+      "file": "mushaf-v4/page-076.svg",
+      "bytes": 342304,
+      "sha256": "ecf85523d2bb40650452b3d59bb9b113fe4a2bb9d7b8057a670b9288be51fa3f",
+      "ayahs": 6,
+      "words": 118
+    },
+    {
+      "page": 77,
+      "file": "mushaf-v4/page-077.svg",
+      "bytes": 415272,
+      "sha256": "79a5859e160f5ad1fc740a0bb49ad46f36796add9c97b2249529960f839ec987",
+      "ayahs": 6,
+      "words": 139
+    },
+    {
+      "page": 78,
+      "file": "mushaf-v4/page-078.svg",
+      "bytes": 375881,
+      "sha256": "7f90c180028ea91d22fd093a97113e275c5c8b3c0e55c6dd9138e0b199564694",
+      "ayahs": 5,
+      "words": 131
+    },
+    {
+      "page": 79,
+      "file": "mushaf-v4/page-079.svg",
+      "bytes": 317083,
+      "sha256": "66b5ca0ea092a80180ca1ca94ada7ca76f7007c4c387ffd226cd70d13d079a32",
+      "ayahs": 3,
+      "words": 119
+    },
+    {
+      "page": 80,
+      "file": "mushaf-v4/page-080.svg",
+      "bytes": 346317,
+      "sha256": "d77f00beef88f68ee39fb590a28bb28647e3b86b8427f11c4981ff9e7bdf4ce0",
+      "ayahs": 5,
+      "words": 114
+    },
+    {
+      "page": 81,
+      "file": "mushaf-v4/page-081.svg",
+      "bytes": 309359,
+      "sha256": "9390d84dc349b4c437243626cf09bc5f2a1dab5540c5c90bceee0d55787a5054",
+      "ayahs": 4,
+      "words": 99
+    },
+    {
+      "page": 82,
+      "file": "mushaf-v4/page-082.svg",
+      "bytes": 341111,
+      "sha256": "af128deaff027ac0f3afa56e9d646e0e923e216171b4537311a29303985e02fd",
+      "ayahs": 3,
+      "words": 114
+    },
+    {
+      "page": 83,
+      "file": "mushaf-v4/page-083.svg",
+      "bytes": 326789,
+      "sha256": "33d5f6c5b26eae5110fc02033b217ede1e644dde0766c514c1f46d4d1f96e68a",
+      "ayahs": 7,
+      "words": 115
+    },
+    {
+      "page": 84,
+      "file": "mushaf-v4/page-084.svg",
+      "bytes": 349996,
+      "sha256": "9d89fa2f8f5a414882add47218a9a94c20a020c2c53e483aa7a82bae5e2f9ee8",
+      "ayahs": 4,
+      "words": 109
+    },
+    {
+      "page": 85,
+      "file": "mushaf-v4/page-085.svg",
+      "bytes": 380701,
+      "sha256": "a1d0ec526d850d6f71e5d009d26b9e9b96535f5b4cc8df742a4d6119d1d5c8ba",
+      "ayahs": 7,
+      "words": 136
+    },
+    {
+      "page": 86,
+      "file": "mushaf-v4/page-086.svg",
+      "bytes": 389046,
+      "sha256": "32afcbfd1d1f35bd003b09f5b9637fe96e5c25bdc35c17f52d213ec8a6d879f9",
+      "ayahs": 7,
+      "words": 139
+    },
+    {
+      "page": 87,
+      "file": "mushaf-v4/page-087.svg",
+      "bytes": 405645,
+      "sha256": "b8fed16b9caa8d94bbdb8eb0186e40a8402923c101d8b4b171b221412ea0bb6d",
+      "ayahs": 8,
+      "words": 143
+    },
+    {
+      "page": 88,
+      "file": "mushaf-v4/page-088.svg",
+      "bytes": 344418,
+      "sha256": "65fc46b70ceec042721cd459f30c58fc96ae706f7c29feb25680da0bdff5bd84",
+      "ayahs": 6,
+      "words": 119
+    },
+    {
+      "page": 89,
+      "file": "mushaf-v4/page-089.svg",
+      "bytes": 371056,
+      "sha256": "55a60c236dfa023a4c68afb40ef527640e049a5a6492feb66d441012e37d7447",
+      "ayahs": 9,
+      "words": 127
+    },
+    {
+      "page": 90,
+      "file": "mushaf-v4/page-090.svg",
+      "bytes": 428646,
+      "sha256": "c04061f4246b104e8a17550831a939fc7a92ba706d5b4524d2ec22f7130f96b8",
+      "ayahs": 5,
+      "words": 153
+    },
+    {
+      "page": 91,
+      "file": "mushaf-v4/page-091.svg",
+      "bytes": 384196,
+      "sha256": "205af460fdc28f060ae397b9aeaefb421264ce8d6be400b72b147ab46e45fd7a",
+      "ayahs": 7,
+      "words": 138
+    },
+    {
+      "page": 92,
+      "file": "mushaf-v4/page-092.svg",
+      "bytes": 403076,
+      "sha256": "9933341ea11c72e0bd511618eddc010dd8d3d69c54c29159459afc9e2353ee27",
+      "ayahs": 5,
+      "words": 135
+    },
+    {
+      "page": 93,
+      "file": "mushaf-v4/page-093.svg",
+      "bytes": 334019,
+      "sha256": "7d9f7c84256f7bd8da98e80ede594b2fda20a4e61984e95595e6bda62baeb8f8",
+      "ayahs": 3,
+      "words": 115
+    },
+    {
+      "page": 94,
+      "file": "mushaf-v4/page-094.svg",
+      "bytes": 422193,
+      "sha256": "8ebec0bcdcab0640693f595f4aa028b1927679dc1b9da841469ed92d88d4fbfe",
+      "ayahs": 7,
+      "words": 144
+    },
+    {
+      "page": 95,
+      "file": "mushaf-v4/page-095.svg",
+      "bytes": 370736,
+      "sha256": "0919e7eceac2661c835503605abb7597689f51c8a46fe801091fa26f5afdae03",
+      "ayahs": 4,
+      "words": 119
+    },
+    {
+      "page": 96,
+      "file": "mushaf-v4/page-096.svg",
+      "bytes": 354278,
+      "sha256": "0461003a230b5cec7c215a8466541b28271443fe6ae95184162acdb700ee57c5",
+      "ayahs": 8,
+      "words": 131
+    },
+    {
+      "page": 97,
+      "file": "mushaf-v4/page-097.svg",
+      "bytes": 353849,
+      "sha256": "cf66e40dc257d957082184250eb3744c5c64e8938962a555b07b28b0a72e1f58",
+      "ayahs": 8,
+      "words": 120
+    },
+    {
+      "page": 98,
+      "file": "mushaf-v4/page-098.svg",
+      "bytes": 353588,
+      "sha256": "e62c795db924b60bd44f551eb5c3630dfac40fb1c5618805d91c74d4b6374f06",
+      "ayahs": 6,
+      "words": 126
+    },
+    {
+      "page": 99,
+      "file": "mushaf-v4/page-099.svg",
+      "bytes": 363182,
+      "sha256": "cceaea03d8c2233c31439404848fa9a49c4ded40bd72b6e8c387184cf7ea1267",
+      "ayahs": 7,
+      "words": 130
+    },
+    {
+      "page": 100,
+      "file": "mushaf-v4/page-100.svg",
+      "bytes": 397314,
+      "sha256": "62775af53d90c7fe2d417cb9091e4460070956a21696637ce94a3d4aaa6271eb",
+      "ayahs": 6,
+      "words": 138
+    },
+    {
+      "page": 101,
+      "file": "mushaf-v4/page-101.svg",
+      "bytes": 375626,
+      "sha256": "4f478856389e973e40d12c74dbba9e85404577eac445fcb9f53f87f1291abad5",
+      "ayahs": 7,
+      "words": 128
+    },
+    {
+      "page": 102,
+      "file": "mushaf-v4/page-102.svg",
+      "bytes": 383672,
+      "sha256": "3d0b9584aa43f674b05c4ecde3a46505e3ce63fb01059443dd9a17a59e63415e",
+      "ayahs": 7,
+      "words": 131
+    },
+    {
+      "page": 103,
+      "file": "mushaf-v4/page-103.svg",
+      "bytes": 404224,
+      "sha256": "6519c62861309361c1d7ef209a19b6a95ba3feb1d4c7030363049cff051d6ccc",
+      "ayahs": 8,
+      "words": 138
+    },
+    {
+      "page": 104,
+      "file": "mushaf-v4/page-104.svg",
+      "bytes": 364401,
+      "sha256": "ab1a0ac2abacb4d1901b71fa9dce84d12de915e06bfa3f04f0e4cfb87b56c7ca",
+      "ayahs": 8,
+      "words": 124
+    },
+    {
+      "page": 105,
+      "file": "mushaf-v4/page-105.svg",
+      "bytes": 370947,
+      "sha256": "a465ae487724ed67fbbfd1d1dee4c6e7216cba8e9a509f818419d7145bb91384",
+      "ayahs": 5,
+      "words": 123
+    },
+    {
+      "page": 106,
+      "file": "mushaf-v4/page-106.svg",
+      "bytes": 381181,
+      "sha256": "9628fd6786173fe68e420bc1a6b6cf1e587c01572a44ba4aa768548e113240a5",
+      "ayahs": 3,
+      "words": 125
+    },
+    {
+      "page": 107,
+      "file": "mushaf-v4/page-107.svg",
+      "bytes": 419401,
+      "sha256": "86dfe25292fa4d0b2e7603ac74136a986d25904f4e4ebebc3ae2a48ccf7bc739",
+      "ayahs": 3,
+      "words": 135
+    },
+    {
+      "page": 108,
+      "file": "mushaf-v4/page-108.svg",
+      "bytes": 363916,
+      "sha256": "9985a753c98dca386ffb8bc4adaa43d88bb6e0fe8232bcb4bd028fbc269baca3",
+      "ayahs": 4,
+      "words": 116
+    },
+    {
+      "page": 109,
+      "file": "mushaf-v4/page-109.svg",
+      "bytes": 345759,
+      "sha256": "794d4a8cfa64bece4625bc11c72edf80295ebad99969a7ee3c9cd24b6315052a",
+      "ayahs": 4,
+      "words": 107
+    },
+    {
+      "page": 110,
+      "file": "mushaf-v4/page-110.svg",
+      "bytes": 315814,
+      "sha256": "e682874ddc53e0246b2c880937156bdf598d28adc993d22209500aecddb6754d",
+      "ayahs": 4,
+      "words": 108
+    },
+    {
+      "page": 111,
+      "file": "mushaf-v4/page-111.svg",
+      "bytes": 374481,
+      "sha256": "2d295522b1acb9979b6da0027c953ca5a8005283428c3c39043069a90ed5c141",
+      "ayahs": 6,
+      "words": 132
+    },
+    {
+      "page": 112,
+      "file": "mushaf-v4/page-112.svg",
+      "bytes": 369877,
+      "sha256": "a95c00604851447110695f863db22d9f5026daa4f2ab1138116e21b2be503605",
+      "ayahs": 8,
+      "words": 130
+    },
+    {
+      "page": 113,
+      "file": "mushaf-v4/page-113.svg",
+      "bytes": 350710,
+      "sha256": "3ce011b09a92ea1a7aa0ac76f3b87aef810a72abffc70ccc1e9fcc3ddd1f521c",
+      "ayahs": 5,
+      "words": 124
+    },
+    {
+      "page": 114,
+      "file": "mushaf-v4/page-114.svg",
+      "bytes": 357767,
+      "sha256": "4d6c385ec76c4af4ddd8a09012e001528faace4ca9f9b22bb3a75575ea811db0",
+      "ayahs": 5,
+      "words": 125
+    },
+    {
+      "page": 115,
+      "file": "mushaf-v4/page-115.svg",
+      "bytes": 358956,
+      "sha256": "c01ccc0879f3bfdb561e8570df0827c9e32a83b7bbd5c0f34b9e887544da439b",
+      "ayahs": 4,
+      "words": 113
+    },
+    {
+      "page": 116,
+      "file": "mushaf-v4/page-116.svg",
+      "bytes": 386707,
+      "sha256": "66ee07e752d37a1128c1f4ce940b5f9605b27f3ff4676b8d4620fd6679b6be45",
+      "ayahs": 5,
+      "words": 136
+    },
+    {
+      "page": 117,
+      "file": "mushaf-v4/page-117.svg",
+      "bytes": 443914,
+      "sha256": "589e1311a6742f1c6bd7bd1998ad8183ff1335ef3fab7de920ee723f74705157",
+      "ayahs": 7,
+      "words": 149
+    },
+    {
+      "page": 118,
+      "file": "mushaf-v4/page-118.svg",
+      "bytes": 425660,
+      "sha256": "7b37f20c6b67635e41798cffbb17ba03a9d419225019a267f70f6806a6caa4dc",
+      "ayahs": 7,
+      "words": 148
+    },
+    {
+      "page": 119,
+      "file": "mushaf-v4/page-119.svg",
+      "bytes": 381425,
+      "sha256": "d6c0d8c3b6876f2c4c629d051b18c13d9ce274cc04d7db7ed9c7533de940647f",
+      "ayahs": 6,
+      "words": 129
+    },
+    {
+      "page": 120,
+      "file": "mushaf-v4/page-120.svg",
+      "bytes": 407467,
+      "sha256": "a53fee1156f2b47d3acb2d94c49008b75999910b22227dfd046d8216e4b05657",
+      "ayahs": 7,
+      "words": 149
+    },
+    {
+      "page": 121,
+      "file": "mushaf-v4/page-121.svg",
+      "bytes": 317712,
+      "sha256": "a20d42b3a9a36af3e0d34c3682e245beb42cef45a527d2bd8c8ffb38e795ee16",
+      "ayahs": 6,
+      "words": 108
+    },
+    {
+      "page": 122,
+      "file": "mushaf-v4/page-122.svg",
+      "bytes": 386400,
+      "sha256": "8a2b2c5a3669de76d2dfa3776c9e29aa197df0bcfbd9b4897924266fa72f7276",
+      "ayahs": 7,
+      "words": 126
+    },
+    {
+      "page": 123,
+      "file": "mushaf-v4/page-123.svg",
+      "bytes": 376427,
+      "sha256": "6b3c2d2add0f72484e8923e5f82b78fb4bd3433180f5be7059b4c8c34d0a41bf",
+      "ayahs": 5,
+      "words": 130
+    },
+    {
+      "page": 124,
+      "file": "mushaf-v4/page-124.svg",
+      "bytes": 383814,
+      "sha256": "fb3534848111cdb06fd41f6176575c7ba91a510251518b0a0faf22de8f50624b",
+      "ayahs": 8,
+      "words": 137
+    },
+    {
+      "page": 125,
+      "file": "mushaf-v4/page-125.svg",
+      "bytes": 391647,
+      "sha256": "d0774fa7cb99d178f0af15c43ae9d9fd968dd96998391294525f63237b361dd2",
+      "ayahs": 5,
+      "words": 142
+    },
+    {
+      "page": 126,
+      "file": "mushaf-v4/page-126.svg",
+      "bytes": 361896,
+      "sha256": "43f98725c20f56ccc9026f9f92d719497b168e863a02f452d55d00477125d021",
+      "ayahs": 5,
+      "words": 127
+    },
+    {
+      "page": 127,
+      "file": "mushaf-v4/page-127.svg",
+      "bytes": 413724,
+      "sha256": "d51b0c0c5e902423995cd18a311b2309474e893c79ec34a19a79e96f0679c452",
+      "ayahs": 7,
+      "words": 158
+    },
+    {
+      "page": 128,
+      "file": "mushaf-v4/page-128.svg",
+      "bytes": 366995,
+      "sha256": "e2fc745af33bca1017bea740a08f15a9a8abc0600d885d1f76ee7599a92fdcd9",
+      "ayahs": 8,
+      "words": 123
+    },
+    {
+      "page": 129,
+      "file": "mushaf-v4/page-129.svg",
+      "bytes": 367051,
+      "sha256": "441e33de950cb87bb6ed36c207d494f9f7dda573944aa74d9741f4e2a13b153c",
+      "ayahs": 10,
+      "words": 132
+    },
+    {
+      "page": 130,
+      "file": "mushaf-v4/page-130.svg",
+      "bytes": 431448,
+      "sha256": "20cc1978816f2194a711a07756756af8617d4e1190bd21bdf3ae48653cfda5f9",
+      "ayahs": 9,
+      "words": 157
+    },
+    {
+      "page": 131,
+      "file": "mushaf-v4/page-131.svg",
+      "bytes": 407196,
+      "sha256": "b9931a762d2d5a5667c9e8fdfb5d5a05925346463bd570523915a5d83a39ee76",
+      "ayahs": 8,
+      "words": 147
+    },
+    {
+      "page": 132,
+      "file": "mushaf-v4/page-132.svg",
+      "bytes": 394203,
+      "sha256": "d07a65b0300d78cda782dd98126587fcf7a11ae0de4c0c36259b69a06c1fdb27",
+      "ayahs": 9,
+      "words": 140
+    },
+    {
+      "page": 133,
+      "file": "mushaf-v4/page-133.svg",
+      "bytes": 390372,
+      "sha256": "e5f79e10424943443592f8aa2ffbeec7fb46cd4615459a8bc5a72d7830fc46a1",
+      "ayahs": 8,
+      "words": 139
+    },
+    {
+      "page": 134,
+      "file": "mushaf-v4/page-134.svg",
+      "bytes": 374281,
+      "sha256": "a00668478febb333929546575fee0d6bfada814280b40c60f1dbbe96fd6fb3f0",
+      "ayahs": 7,
+      "words": 136
+    },
+    {
+      "page": 135,
+      "file": "mushaf-v4/page-135.svg",
+      "bytes": 405191,
+      "sha256": "87893b73a5e722a49b695c6f234f7a234b22f398a9b193b6574f11b58af5d5d6",
+      "ayahs": 9,
+      "words": 142
+    },
+    {
+      "page": 136,
+      "file": "mushaf-v4/page-136.svg",
+      "bytes": 362084,
+      "sha256": "63f398481504f70f6f03cb5a4520fa88b6a5f95399ddaaef84ced6d54fdb5d04",
+      "ayahs": 5,
+      "words": 128
+    },
+    {
+      "page": 137,
+      "file": "mushaf-v4/page-137.svg",
+      "bytes": 365222,
+      "sha256": "54ee42013c3af26683f977a5adb0e1f953b9bbdfe88463bca926289830d795ad",
+      "ayahs": 8,
+      "words": 132
+    },
+    {
+      "page": 138,
+      "file": "mushaf-v4/page-138.svg",
+      "bytes": 373432,
+      "sha256": "9cb36bf7c8961d8d89968a9636f8f60887ca5c977a83fd76d6756c1b71801284",
+      "ayahs": 9,
+      "words": 119
+    },
+    {
+      "page": 139,
+      "file": "mushaf-v4/page-139.svg",
+      "bytes": 403114,
+      "sha256": "dcda3291036550d90a6c94010684f9de63a33b0cc3ecf672e407e5c62ab3fe15",
+      "ayahs": 4,
+      "words": 144
+    },
+    {
+      "page": 140,
+      "file": "mushaf-v4/page-140.svg",
+      "bytes": 400562,
+      "sha256": "7e9ce400757b214e8a6e188277f1dbfd31e60a384b3b6bb57d4e8b11ca5800fc",
+      "ayahs": 7,
+      "words": 135
+    },
+    {
+      "page": 141,
+      "file": "mushaf-v4/page-141.svg",
+      "bytes": 383422,
+      "sha256": "0534cf92e4d93666139af60578c3429b6ebc0d12e885889e17f7f3fd40ad6f75",
+      "ayahs": 9,
+      "words": 133
+    },
+    {
+      "page": 142,
+      "file": "mushaf-v4/page-142.svg",
+      "bytes": 367965,
+      "sha256": "6e68d835ffd9496be8f0a59d461a27e36dfce03b61a8ada5237f0593bcb22b5a",
+      "ayahs": 8,
+      "words": 130
+    },
+    {
+      "page": 143,
+      "file": "mushaf-v4/page-143.svg",
+      "bytes": 374341,
+      "sha256": "5730ce011a8d9eff999195b0979e013cd37813424820d915c4dffc1995aa180c",
+      "ayahs": 6,
+      "words": 130
+    },
+    {
+      "page": 144,
+      "file": "mushaf-v4/page-144.svg",
+      "bytes": 351596,
+      "sha256": "a7feec5282bfb1314169564dc2142ee2fd48d4b38843c8446518673f04e9bcea",
+      "ayahs": 6,
+      "words": 117
+    },
+    {
+      "page": 145,
+      "file": "mushaf-v4/page-145.svg",
+      "bytes": 327968,
+      "sha256": "5f0b7047607e1feb564f0f0990d1064b96702c0c40fddca18e1b088858b1edc8",
+      "ayahs": 7,
+      "words": 113
+    },
+    {
+      "page": 146,
+      "file": "mushaf-v4/page-146.svg",
+      "bytes": 355501,
+      "sha256": "9d68375a94c620bbb298caa0c4d240bbdd488775c1d39a87df5470dac7d9f173",
+      "ayahs": 5,
+      "words": 115
+    },
+    {
+      "page": 147,
+      "file": "mushaf-v4/page-147.svg",
+      "bytes": 365627,
+      "sha256": "c12b28334bda4a3f64a25af02806be756cb79dd1b0e551a7a539cbd3ab3a937e",
+      "ayahs": 4,
+      "words": 130
+    },
+    {
+      "page": 148,
+      "file": "mushaf-v4/page-148.svg",
+      "bytes": 366141,
+      "sha256": "0cdb3b1caae3e8ddc26cc512f072f2cf055e995377aea32426d97ad5e2b63613",
+      "ayahs": 5,
+      "words": 127
+    },
+    {
+      "page": 149,
+      "file": "mushaf-v4/page-149.svg",
+      "bytes": 377794,
+      "sha256": "1402120f9c890b15a6b03e8bcfb4430ca14c665d8fe2652fcfc5536bb07eba5f",
+      "ayahs": 6,
+      "words": 126
+    },
+    {
+      "page": 150,
+      "file": "mushaf-v4/page-150.svg",
+      "bytes": 404324,
+      "sha256": "93fe51a8c1ce3f6815d82eb45942e50d5a0edb7b9a64901d722aee5eee6299ad",
+      "ayahs": 8,
+      "words": 155
+    },
+    {
+      "page": 151,
+      "file": "mushaf-v4/page-151.svg",
+      "bytes": 345016,
+      "sha256": "9537220deb12274be9f06af9822617d0c26e1ca494a3282ff6e545fb9441ea79",
+      "ayahs": 11,
+      "words": 109
+    },
+    {
+      "page": 152,
+      "file": "mushaf-v4/page-152.svg",
+      "bytes": 411629,
+      "sha256": "83d8d77358fcfc016e41f948494df98f9974063d0a9c4c2efd42e6fc8f8afabe",
+      "ayahs": 11,
+      "words": 147
+    },
+    {
+      "page": 153,
+      "file": "mushaf-v4/page-153.svg",
+      "bytes": 390744,
+      "sha256": "41684ef09960ed5794e1f93f71413131c32e4f4517db3c99b293e87dbb7cffe0",
+      "ayahs": 8,
+      "words": 134
+    },
+    {
+      "page": 154,
+      "file": "mushaf-v4/page-154.svg",
+      "bytes": 408614,
+      "sha256": "be81a74c72fc2be8c116a862de68c335c4fb4df62c4caf932329b8d3c6a4a40e",
+      "ayahs": 7,
+      "words": 147
+    },
+    {
+      "page": 155,
+      "file": "mushaf-v4/page-155.svg",
+      "bytes": 391214,
+      "sha256": "629e3307f22aff3a55b8d9b506340678e42ea91fa140eca25d8bdd8ee3ec7974",
+      "ayahs": 6,
+      "words": 138
+    },
+    {
+      "page": 156,
+      "file": "mushaf-v4/page-156.svg",
+      "bytes": 400616,
+      "sha256": "198153b02aaa85b0a0aba05071304efe4e91670212d9f71d124a323ab859a0fa",
+      "ayahs": 8,
+      "words": 137
+    },
+    {
+      "page": 157,
+      "file": "mushaf-v4/page-157.svg",
+      "bytes": 386756,
+      "sha256": "5d78dcff690a9e0ac01e4fe3e8b4291e941792aa53927b1efa6a4aa857d706a1",
+      "ayahs": 6,
+      "words": 132
+    },
+    {
+      "page": 158,
+      "file": "mushaf-v4/page-158.svg",
+      "bytes": 373169,
+      "sha256": "620b1091f36197e87ba763c1f97f919502fc5ebcc0eab8e399e8a861da4144ed",
+      "ayahs": 10,
+      "words": 133
+    },
+    {
+      "page": 159,
+      "file": "mushaf-v4/page-159.svg",
+      "bytes": 359164,
+      "sha256": "db32b6c82fb54c692d3cbb9a0a129f9da53ee45a80bb7d41180ecfb48fe7ef62",
+      "ayahs": 6,
+      "words": 123
+    },
+    {
+      "page": 160,
+      "file": "mushaf-v4/page-160.svg",
+      "bytes": 342432,
+      "sha256": "14cb690c9c50e24f73500ae786ab3a1f55a1dd787410750ad6e9cd065da44e72",
+      "ayahs": 8,
+      "words": 115
+    },
+    {
+      "page": 161,
+      "file": "mushaf-v4/page-161.svg",
+      "bytes": 337624,
+      "sha256": "4b791c9950d76e8dd86347d420668622ca9e553771159a303dc2c1f0d4b11b96",
+      "ayahs": 6,
+      "words": 108
+    },
+    {
+      "page": 162,
+      "file": "mushaf-v4/page-162.svg",
+      "bytes": 390388,
+      "sha256": "e07cf8d2952be94066bf3b3fc0f4ce1e7aa6573cabae15a5885babb366b23f59",
+      "ayahs": 8,
+      "words": 140
+    },
+    {
+      "page": 163,
+      "file": "mushaf-v4/page-163.svg",
+      "bytes": 357495,
+      "sha256": "d8cb0eecc2a2be8e18c31516ddee0eae95af570aa8c3c0fd02b3400e353e67d6",
+      "ayahs": 9,
+      "words": 121
+    },
+    {
+      "page": 164,
+      "file": "mushaf-v4/page-164.svg",
+      "bytes": 366007,
+      "sha256": "5afce98ed8d8ec534805637b0832d3407e6715e3774e0bbfcc63cd66d1698311",
+      "ayahs": 16,
+      "words": 129
+    },
+    {
+      "page": 165,
+      "file": "mushaf-v4/page-165.svg",
+      "bytes": 373663,
+      "sha256": "8fd3dc73d1ee27d075c272ec00c44b558405f346036928b9c47e09f41b4ec1d3",
+      "ayahs": 10,
+      "words": 124
+    },
+    {
+      "page": 166,
+      "file": "mushaf-v4/page-166.svg",
+      "bytes": 365248,
+      "sha256": "c59ee8af43512c7ab612781a4e9dd1cef373027fb46542fa24d2720df70bb2d9",
+      "ayahs": 7,
+      "words": 120
+    },
+    {
+      "page": 167,
+      "file": "mushaf-v4/page-167.svg",
+      "bytes": 358026,
+      "sha256": "3f96dd110b83382f41de3b5099cb72d276fa7f48e99bf151200e83470802e716",
+      "ayahs": 6,
+      "words": 124
+    },
+    {
+      "page": 168,
+      "file": "mushaf-v4/page-168.svg",
+      "bytes": 359821,
+      "sha256": "86d8dd0641ea01668d1b7363ace2639374a0f9ab40a8631805876cca03f141fb",
+      "ayahs": 6,
+      "words": 123
+    },
+    {
+      "page": 169,
+      "file": "mushaf-v4/page-169.svg",
+      "bytes": 389948,
+      "sha256": "74f64aba5839358e859a033461c714d38573813cd88b15d374a5cbf3ec29b5ef",
+      "ayahs": 6,
+      "words": 135
+    },
+    {
+      "page": 170,
+      "file": "mushaf-v4/page-170.svg",
+      "bytes": 363684,
+      "sha256": "d30b321fef95d76abfcabb59b65e410880b66bb4f0f7ff79effab38c355e3f59",
+      "ayahs": 4,
+      "words": 112
+    },
+    {
+      "page": 171,
+      "file": "mushaf-v4/page-171.svg",
+      "bytes": 331027,
+      "sha256": "f8c250ef8cc699fb8c8f336a587423cc201dac67899e80337019891e205f434b",
+      "ayahs": 4,
+      "words": 107
+    },
+    {
+      "page": 172,
+      "file": "mushaf-v4/page-172.svg",
+      "bytes": 390112,
+      "sha256": "62d5cc874be5af197d1ce3fb8aa8e5b52b310a8eb8f695b1034e2ba7bf3fe520",
+      "ayahs": 7,
+      "words": 131
+    },
+    {
+      "page": 173,
+      "file": "mushaf-v4/page-173.svg",
+      "bytes": 385581,
+      "sha256": "1c91f0fd5710aecbd1eca719432d63051c47b0089cf726952d74f0516bd0883d",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 174,
+      "file": "mushaf-v4/page-174.svg",
+      "bytes": 406284,
+      "sha256": "f8c918170bab442d806d6d6ef47ae992b3d262c09e31e6655d6e4618f89e1f61",
+      "ayahs": 9,
+      "words": 144
+    },
+    {
+      "page": 175,
+      "file": "mushaf-v4/page-175.svg",
+      "bytes": 382979,
+      "sha256": "ba151b238fe3e34925c599358917fab5048622d151ef93b9c7b89e67d2fc4544",
+      "ayahs": 8,
+      "words": 135
+    },
+    {
+      "page": 176,
+      "file": "mushaf-v4/page-176.svg",
+      "bytes": 378994,
+      "sha256": "362c06114e0e3d953d5420eacffb97a000ef2b519301f313fa33da242b4e59f0",
+      "ayahs": 11,
+      "words": 125
+    },
+    {
+      "page": 177,
+      "file": "mushaf-v4/page-177.svg",
+      "bytes": 354116,
+      "sha256": "fa02849b209eb62ada048c671d4cd805474d61b999f8822ea39150921ccd936e",
+      "ayahs": 8,
+      "words": 105
+    },
+    {
+      "page": 178,
+      "file": "mushaf-v4/page-178.svg",
+      "bytes": 375494,
+      "sha256": "0ca7a4c379c51baa685fac31db423c56f6292f4370ead69b59ebc8bc958c71f5",
+      "ayahs": 8,
+      "words": 124
+    },
+    {
+      "page": 179,
+      "file": "mushaf-v4/page-179.svg",
+      "bytes": 366646,
+      "sha256": "9c56374b96ae45cda0b6d748f5cc3fea340ecd8c56d1a2fa4d5ff294a854e87b",
+      "ayahs": 9,
+      "words": 124
+    },
+    {
+      "page": 180,
+      "file": "mushaf-v4/page-180.svg",
+      "bytes": 371872,
+      "sha256": "d7d6604331ce7747bc93316b40b132ceb9f61b51e4b986f6f2f2a4eccb23c31e",
+      "ayahs": 8,
+      "words": 122
+    },
+    {
+      "page": 181,
+      "file": "mushaf-v4/page-181.svg",
+      "bytes": 348630,
+      "sha256": "cea2f3a052ff410930c2dc64d502452bc12e755be15cb913da5168886f2943ce",
+      "ayahs": 7,
+      "words": 115
+    },
+    {
+      "page": 182,
+      "file": "mushaf-v4/page-182.svg",
+      "bytes": 363698,
+      "sha256": "4b61269df6bd88d2b7f69c47322faa756d10fb0d6a1a0abe6047e6fa18b7319b",
+      "ayahs": 5,
+      "words": 119
+    },
+    {
+      "page": 183,
+      "file": "mushaf-v4/page-183.svg",
+      "bytes": 356353,
+      "sha256": "e794341df958332ab935beac8bdb7348d9923f92d3a74726c0545b5379290b9a",
+      "ayahs": 7,
+      "words": 123
+    },
+    {
+      "page": 184,
+      "file": "mushaf-v4/page-184.svg",
+      "bytes": 375294,
+      "sha256": "163e815625a44dbd3c2f546631bd5d8d8569a2a3117c30476f8d0fbcecb9262c",
+      "ayahs": 9,
+      "words": 134
+    },
+    {
+      "page": 185,
+      "file": "mushaf-v4/page-185.svg",
+      "bytes": 382348,
+      "sha256": "326598dc31c2d127437520cf83ba061cfa24bea51ab45d98fe767c7d53e0dd2c",
+      "ayahs": 8,
+      "words": 133
+    },
+    {
+      "page": 186,
+      "file": "mushaf-v4/page-186.svg",
+      "bytes": 392554,
+      "sha256": "987ec9531010e55f47a83173c1a5e0d94d28161489d928bc020c2ff666c8943c",
+      "ayahs": 6,
+      "words": 135
+    },
+    {
+      "page": 187,
+      "file": "mushaf-v4/page-187.svg",
+      "bytes": 387653,
+      "sha256": "224a48367efcda7833ebfcb81a3277c1145db6fbe82d3023682ef7d9fa97d477",
+      "ayahs": 6,
+      "words": 121
+    },
+    {
+      "page": 188,
+      "file": "mushaf-v4/page-188.svg",
+      "bytes": 353004,
+      "sha256": "4474964df7885690b630229b4296f28fb1aeac28829f906e0a5d2c1f3f5cf394",
+      "ayahs": 7,
+      "words": 113
+    },
+    {
+      "page": 189,
+      "file": "mushaf-v4/page-189.svg",
+      "bytes": 371297,
+      "sha256": "996ba2c2405efbe2e8ed47d0f5e3939b5473de7bb778b2e94b78fe7e0a801581",
+      "ayahs": 7,
+      "words": 127
+    },
+    {
+      "page": 190,
+      "file": "mushaf-v4/page-190.svg",
+      "bytes": 346530,
+      "sha256": "516a69159b8637b6625cc74235dd0f6c848ce8f95c12da0c634f2b5ec884bf1e",
+      "ayahs": 6,
+      "words": 111
+    },
+    {
+      "page": 191,
+      "file": "mushaf-v4/page-191.svg",
+      "bytes": 327048,
+      "sha256": "3f8ed294e628b97529e22c94b6d7e39df8aa07369ad949cd02304606e7323281",
+      "ayahs": 5,
+      "words": 114
+    },
+    {
+      "page": 192,
+      "file": "mushaf-v4/page-192.svg",
+      "bytes": 336042,
+      "sha256": "17d2e99e2fe4fd3fd0a7587a671aa551c3b27fa4ef61649ffab20918e97a2bc2",
+      "ayahs": 5,
+      "words": 112
+    },
+    {
+      "page": 193,
+      "file": "mushaf-v4/page-193.svg",
+      "bytes": 333757,
+      "sha256": "d92a5dfa8036978f8ff550f10de3caccc6006b135067dc7249b90a5196b7ca53",
+      "ayahs": 4,
+      "words": 118
+    },
+    {
+      "page": 194,
+      "file": "mushaf-v4/page-194.svg",
+      "bytes": 347855,
+      "sha256": "916fa03e3469deee062cfc7784477592f07108d772511cf75a2ba072ae04a669",
+      "ayahs": 7,
+      "words": 111
+    },
+    {
+      "page": 195,
+      "file": "mushaf-v4/page-195.svg",
+      "bytes": 332596,
+      "sha256": "d23cb69f41c48bd52f3f0d0f8488a96ab3fa01c6682e5af5efec8488dd1a5da0",
+      "ayahs": 7,
+      "words": 117
+    },
+    {
+      "page": 196,
+      "file": "mushaf-v4/page-196.svg",
+      "bytes": 360436,
+      "sha256": "1a7c437f437e792921985d1120aa72e7964927d98223b393f90cb76510fc1773",
+      "ayahs": 7,
+      "words": 121
+    },
+    {
+      "page": 197,
+      "file": "mushaf-v4/page-197.svg",
+      "bytes": 341888,
+      "sha256": "876cad1cff58c11d9d5c9413d67d180b940acb886b6fececab28df67231a9468",
+      "ayahs": 7,
+      "words": 109
+    },
+    {
+      "page": 198,
+      "file": "mushaf-v4/page-198.svg",
+      "bytes": 355429,
+      "sha256": "9c2294decccd8f184e6179e3212acc6bbc8c41c67851e041b7a9d0965e6b06c5",
+      "ayahs": 4,
+      "words": 106
+    },
+    {
+      "page": 199,
+      "file": "mushaf-v4/page-199.svg",
+      "bytes": 356841,
+      "sha256": "64cb7d328d94e67c38a3522356da5a59550fe0f6f9a32c1af39efe1673b74be9",
+      "ayahs": 7,
+      "words": 124
+    },
+    {
+      "page": 200,
+      "file": "mushaf-v4/page-200.svg",
+      "bytes": 385574,
+      "sha256": "431e259b239e8b55febd7f7f394fbbf05a526d83703e7260bc431e57dad12ace",
+      "ayahs": 7,
+      "words": 137
+    },
+    {
+      "page": 201,
+      "file": "mushaf-v4/page-201.svg",
+      "bytes": 347557,
+      "sha256": "0194b0b647939a68207c156a03146b4957c1044d553928ab0bea7bd2d24e878f",
+      "ayahs": 7,
+      "words": 123
+    },
+    {
+      "page": 202,
+      "file": "mushaf-v4/page-202.svg",
+      "bytes": 360331,
+      "sha256": "b6e65ce4c5f2fa026329bc66bfdf6c0180d55bd9d104dad95a1df36639f77703",
+      "ayahs": 6,
+      "words": 121
+    },
+    {
+      "page": 203,
+      "file": "mushaf-v4/page-203.svg",
+      "bytes": 374529,
+      "sha256": "adb7b0fcc60be2d9d22fdb955ac3fa8efa6aa777c0c97b02c69e842c3db5753e",
+      "ayahs": 7,
+      "words": 124
+    },
+    {
+      "page": 204,
+      "file": "mushaf-v4/page-204.svg",
+      "bytes": 365345,
+      "sha256": "4f89bc43cd47a2ceb62f4cfb8cefb80ba8242584fec583436fee97dfbf802754",
+      "ayahs": 5,
+      "words": 126
+    },
+    {
+      "page": 205,
+      "file": "mushaf-v4/page-205.svg",
+      "bytes": 335208,
+      "sha256": "3a63a4a318620ca6606c6a68d55ceaf0df81a6a07a92b3474e8554ba3374ef64",
+      "ayahs": 6,
+      "words": 120
+    },
+    {
+      "page": 206,
+      "file": "mushaf-v4/page-206.svg",
+      "bytes": 358986,
+      "sha256": "8b970d3d91704ed101bdaf7e9d24c4a756483d7f700e2ced456391ff227a33bd",
+      "ayahs": 5,
+      "words": 131
+    },
+    {
+      "page": 207,
+      "file": "mushaf-v4/page-207.svg",
+      "bytes": 329680,
+      "sha256": "66ce9afc2e934c4d2b6fb4dc0cd7e4cfb14576945ae1b0851be7fd6c81d5e4eb",
+      "ayahs": 7,
+      "words": 112
+    },
+    {
+      "page": 208,
+      "file": "mushaf-v4/page-208.svg",
+      "bytes": 364718,
+      "sha256": "aa8766c7d587eccc730a652fbd167258f1483fd9bf8eb3736877932db89e3700",
+      "ayahs": 6,
+      "words": 125
+    },
+    {
+      "page": 209,
+      "file": "mushaf-v4/page-209.svg",
+      "bytes": 369415,
+      "sha256": "1415dd00894238d64f3a185513fdfb1a78875a83a3708320d9461a6babaaea04",
+      "ayahs": 8,
+      "words": 122
+    },
+    {
+      "page": 210,
+      "file": "mushaf-v4/page-210.svg",
+      "bytes": 360486,
+      "sha256": "bd703e59f996581e2582f1a19cd4b391bea80740be4255befe6ab24fd3b7e72d",
+      "ayahs": 6,
+      "words": 133
+    },
+    {
+      "page": 211,
+      "file": "mushaf-v4/page-211.svg",
+      "bytes": 404682,
+      "sha256": "96d2aef15ba1d9528e1239e70369543329eb41bb98558bb29cbcb5477a9410f8",
+      "ayahs": 5,
+      "words": 142
+    },
+    {
+      "page": 212,
+      "file": "mushaf-v4/page-212.svg",
+      "bytes": 409749,
+      "sha256": "7db49261d32c90536068ff27a13c18166daf581b22612f3f4644643c56c82b60",
+      "ayahs": 8,
+      "words": 135
+    },
+    {
+      "page": 213,
+      "file": "mushaf-v4/page-213.svg",
+      "bytes": 418622,
+      "sha256": "65b0baf066190e177849928fecf54907144cf1f168e0abfe687684b3e1dd8df0",
+      "ayahs": 9,
+      "words": 158
+    },
+    {
+      "page": 214,
+      "file": "mushaf-v4/page-214.svg",
+      "bytes": 388877,
+      "sha256": "ecd3635a6c97e07169754792ced2d0dc39eebb1777128efdec2d6a03a95b5f61",
+      "ayahs": 11,
+      "words": 144
+    },
+    {
+      "page": 215,
+      "file": "mushaf-v4/page-215.svg",
+      "bytes": 390355,
+      "sha256": "acf493edd63cd5f43caeb8a380982409594a6738c6c6470f4f0ae878926e1407",
+      "ayahs": 8,
+      "words": 147
+    },
+    {
+      "page": 216,
+      "file": "mushaf-v4/page-216.svg",
+      "bytes": 347862,
+      "sha256": "c7a6310117748eb1381b9c33ad01d024e830d4d084744fd8b2f2a3d795dc33ec",
+      "ayahs": 9,
+      "words": 126
+    },
+    {
+      "page": 217,
+      "file": "mushaf-v4/page-217.svg",
+      "bytes": 400566,
+      "sha256": "ead1fd646ee3298cd6f65fdc60860dc4dbb4867f71f5be155d51942d72132ef4",
+      "ayahs": 8,
+      "words": 139
+    },
+    {
+      "page": 218,
+      "file": "mushaf-v4/page-218.svg",
+      "bytes": 377658,
+      "sha256": "ef52724a6587f3bf9ffa7dacd4cf90b97bc76aad186887a9910b29a6fea58f28",
+      "ayahs": 10,
+      "words": 134
+    },
+    {
+      "page": 219,
+      "file": "mushaf-v4/page-219.svg",
+      "bytes": 368463,
+      "sha256": "b4a4859e04dffa7a3587de9dc0870338039049e78d8296dd999e3777b4a28121",
+      "ayahs": 9,
+      "words": 131
+    },
+    {
+      "page": 220,
+      "file": "mushaf-v4/page-220.svg",
+      "bytes": 375230,
+      "sha256": "568d5f6cfc93d4f9aa1b148fe773dfb045f98a54f4e7ee628107491ef3191fd2",
+      "ayahs": 9,
+      "words": 140
+    },
+    {
+      "page": 221,
+      "file": "mushaf-v4/page-221.svg",
+      "bytes": 361911,
+      "sha256": "5546f652e51711c3bc8881a6c740e8c9fc56bd34f07aa05376168bd134adc1cc",
+      "ayahs": 8,
+      "words": 128
+    },
+    {
+      "page": 222,
+      "file": "mushaf-v4/page-222.svg",
+      "bytes": 367774,
+      "sha256": "f431c43346f394138b17871bd285fdeb8bb717e7cd468d79629c6bb3b376e7a8",
+      "ayahs": 7,
+      "words": 130
+    },
+    {
+      "page": 223,
+      "file": "mushaf-v4/page-223.svg",
+      "bytes": 371777,
+      "sha256": "4092cee44be73a3c3a5122bc340d3dd60abc33da2a74dee646c259a27e482d14",
+      "ayahs": 7,
+      "words": 137
+    },
+    {
+      "page": 224,
+      "file": "mushaf-v4/page-224.svg",
+      "bytes": 367910,
+      "sha256": "e9ebd2a72f970a6963dd55d036c27f338fcd4cb6539481d29b54d9420b66a66a",
+      "ayahs": 9,
+      "words": 133
+    },
+    {
+      "page": 225,
+      "file": "mushaf-v4/page-225.svg",
+      "bytes": 379086,
+      "sha256": "f6f25a348ea04fec5e7f1b900b1f86b8f35d112d7109d2e98721c56ec962e6f6",
+      "ayahs": 9,
+      "words": 143
+    },
+    {
+      "page": 226,
+      "file": "mushaf-v4/page-226.svg",
+      "bytes": 372898,
+      "sha256": "07675c31e0c2c09ba768862b075dcb836b784be7e0bfd43578e5a25d10cc8179",
+      "ayahs": 8,
+      "words": 140
+    },
+    {
+      "page": 227,
+      "file": "mushaf-v4/page-227.svg",
+      "bytes": 380444,
+      "sha256": "cadbdc1922091c56307fc1e6b7239f7ed256851f405ea27efdb77b12517c09fd",
+      "ayahs": 8,
+      "words": 141
+    },
+    {
+      "page": 228,
+      "file": "mushaf-v4/page-228.svg",
+      "bytes": 413969,
+      "sha256": "6a964859d3d693c6d9c5b29e593aa25e4af5987e254e622899b5cb6f42cf67f9",
+      "ayahs": 9,
+      "words": 153
+    },
+    {
+      "page": 229,
+      "file": "mushaf-v4/page-229.svg",
+      "bytes": 368248,
+      "sha256": "2c46322d2a91abdb4d2914c9932f0f09cbef1d1c2b659b1add132514e2bbb30f",
+      "ayahs": 9,
+      "words": 130
+    },
+    {
+      "page": 230,
+      "file": "mushaf-v4/page-230.svg",
+      "bytes": 404124,
+      "sha256": "aaedb52b2d6142092bb0e37cbd5aa4f0c99ce0c799082141d5be96d3049b3734",
+      "ayahs": 10,
+      "words": 148
+    },
+    {
+      "page": 231,
+      "file": "mushaf-v4/page-231.svg",
+      "bytes": 362877,
+      "sha256": "7226e5d1b763ac69c07bdb551eb29b1940c9d92b19c9bc670883616558806e83",
+      "ayahs": 7,
+      "words": 126
+    },
+    {
+      "page": 232,
+      "file": "mushaf-v4/page-232.svg",
+      "bytes": 364904,
+      "sha256": "2dce97fea5b2ba2a16fb31d7af79f559c840bea2d70c18bcc989249fa0fb2d0a",
+      "ayahs": 9,
+      "words": 127
+    },
+    {
+      "page": 233,
+      "file": "mushaf-v4/page-233.svg",
+      "bytes": 386612,
+      "sha256": "2848fda391bc63c89f9ca799903c9faea085357876bee7ac09c567007e360225",
+      "ayahs": 11,
+      "words": 136
+    },
+    {
+      "page": 234,
+      "file": "mushaf-v4/page-234.svg",
+      "bytes": 375194,
+      "sha256": "da15df0f528c48427d860744ac321f257a0196509d00296e6d2bb819cf0d269a",
+      "ayahs": 9,
+      "words": 132
+    },
+    {
+      "page": 235,
+      "file": "mushaf-v4/page-235.svg",
+      "bytes": 352613,
+      "sha256": "09e94aad7f6d6dc40227ae2ac4780b58bc9b3886cdc47e029e961712c0497438",
+      "ayahs": 10,
+      "words": 112
+    },
+    {
+      "page": 236,
+      "file": "mushaf-v4/page-236.svg",
+      "bytes": 381475,
+      "sha256": "929d63e3061a10d659b2acd72573f1c06d24c246f8c11df2997fa13362666e18",
+      "ayahs": 10,
+      "words": 133
+    },
+    {
+      "page": 237,
+      "file": "mushaf-v4/page-237.svg",
+      "bytes": 373634,
+      "sha256": "3595b390e5f00fe30bb76d2fb6c072bf80dcef52b32f58c5392bfe92446e0838",
+      "ayahs": 8,
+      "words": 123
+    },
+    {
+      "page": 238,
+      "file": "mushaf-v4/page-238.svg",
+      "bytes": 366174,
+      "sha256": "fc1a57a8b970f1ef78c7849767ec6318bf4d8d1dd4b228e96a4f366b0d0757db",
+      "ayahs": 8,
+      "words": 135
+    },
+    {
+      "page": 239,
+      "file": "mushaf-v4/page-239.svg",
+      "bytes": 413541,
+      "sha256": "1bb3e6e553488c7352b5b58df2e22d23bb126237f0ac0519f067de948b62d4a6",
+      "ayahs": 7,
+      "words": 142
+    },
+    {
+      "page": 240,
+      "file": "mushaf-v4/page-240.svg",
+      "bytes": 368689,
+      "sha256": "d2819899e747f08225ce4beac5b7b903bcc4427fd00e6ccf95e12b3cb44aea2c",
+      "ayahs": 6,
+      "words": 128
+    },
+    {
+      "page": 241,
+      "file": "mushaf-v4/page-241.svg",
+      "bytes": 401823,
+      "sha256": "2176712c7562d781f2203a84d2c52eb5b83ab76becc626a487704fd5174bcb60",
+      "ayahs": 9,
+      "words": 144
+    },
+    {
+      "page": 242,
+      "file": "mushaf-v4/page-242.svg",
+      "bytes": 382849,
+      "sha256": "ef84de9c0ad847b54af13a6031fea41d98d05fd31e28e40e338621726b951b80",
+      "ayahs": 11,
+      "words": 133
+    },
+    {
+      "page": 243,
+      "file": "mushaf-v4/page-243.svg",
+      "bytes": 380012,
+      "sha256": "9e58708bf8faf6129c31e390acddd756247f0031700d9b2b1c20b5a655f4b682",
+      "ayahs": 6,
+      "words": 139
+    },
+    {
+      "page": 244,
+      "file": "mushaf-v4/page-244.svg",
+      "bytes": 358499,
+      "sha256": "0705ba99e683bc36d75ddcc3e55459267173f62bd6a0e8028c10b94192caa1ed",
+      "ayahs": 9,
+      "words": 133
+    },
+    {
+      "page": 245,
+      "file": "mushaf-v4/page-245.svg",
+      "bytes": 361065,
+      "sha256": "3a76902ed9666d08cab8a16444206f0e90231ffc6066248258a330baf1779b5e",
+      "ayahs": 8,
+      "words": 133
+    },
+    {
+      "page": 246,
+      "file": "mushaf-v4/page-246.svg",
+      "bytes": 361929,
+      "sha256": "57daf809cb691fedf0ec7722a15b509df98f74221a32f5933739fe3328ee0f05",
+      "ayahs": 9,
+      "words": 124
+    },
+    {
+      "page": 247,
+      "file": "mushaf-v4/page-247.svg",
+      "bytes": 375772,
+      "sha256": "46b0bb83252c2ff0081dd559035ef4a79e7b1354b6b3b77dbfba57aa6bb6de41",
+      "ayahs": 8,
+      "words": 138
+    },
+    {
+      "page": 248,
+      "file": "mushaf-v4/page-248.svg",
+      "bytes": 361567,
+      "sha256": "8a5947128de8f492c11ed3d388f6ed6874f594f7f071eaa62fa9fcb67d47b1a0",
+      "ayahs": 8,
+      "words": 130
+    },
+    {
+      "page": 249,
+      "file": "mushaf-v4/page-249.svg",
+      "bytes": 372116,
+      "sha256": "6d94b17ffe6991ae3c7865a1b4796acfd757af22cfe40aa255709743b51068a8",
+      "ayahs": 5,
+      "words": 117
+    },
+    {
+      "page": 250,
+      "file": "mushaf-v4/page-250.svg",
+      "bytes": 364806,
+      "sha256": "98640bdf923e76e3213c831d5ca2031b292afb4be5d77e909c6dea531addd818",
+      "ayahs": 8,
+      "words": 132
+    },
+    {
+      "page": 251,
+      "file": "mushaf-v4/page-251.svg",
+      "bytes": 433384,
+      "sha256": "d6fcf46ea562ae031572797ff612a43bd4e42447fedb2d611af71e4a7333a0b0",
+      "ayahs": 5,
+      "words": 152
+    },
+    {
+      "page": 252,
+      "file": "mushaf-v4/page-252.svg",
+      "bytes": 421583,
+      "sha256": "98275ab8861282e9503784428e9454ba408666af2421f052a43d450097b0e9bb",
+      "ayahs": 10,
+      "words": 145
+    },
+    {
+      "page": 253,
+      "file": "mushaf-v4/page-253.svg",
+      "bytes": 399745,
+      "sha256": "2af5817d147b68b45c7d6ff73855bb61b96a931d31f6a2ac5e8ec43a82b82a7c",
+      "ayahs": 6,
+      "words": 153
+    },
+    {
+      "page": 254,
+      "file": "mushaf-v4/page-254.svg",
+      "bytes": 391120,
+      "sha256": "28564f1802e74f7f68f9931d8f2d1ddda540d61f0cf1c2e977fa43f0fe44cd36",
+      "ayahs": 8,
+      "words": 140
+    },
+    {
+      "page": 255,
+      "file": "mushaf-v4/page-255.svg",
+      "bytes": 310189,
+      "sha256": "2a0083fbcf1f4896af09776dc23dd2400a76004446a3a5ee31e8652c0588a12a",
+      "ayahs": 6,
+      "words": 101
+    },
+    {
+      "page": 256,
+      "file": "mushaf-v4/page-256.svg",
+      "bytes": 351617,
+      "sha256": "846fbf02dc742a671ee1fa0e229150df3f5616fe3cbf601474a212cb10cfe310",
+      "ayahs": 5,
+      "words": 120
+    },
+    {
+      "page": 257,
+      "file": "mushaf-v4/page-257.svg",
+      "bytes": 340986,
+      "sha256": "c02e35522095a90512e59f595aa4669c6aa669dc89e25d4ae9c8d2a98d2a598b",
+      "ayahs": 8,
+      "words": 122
+    },
+    {
+      "page": 258,
+      "file": "mushaf-v4/page-258.svg",
+      "bytes": 360295,
+      "sha256": "b35adcee0c2378a0ebf2e34f1bceba918bd7c9e8a1fdd4d2cf726ea520ddf9fd",
+      "ayahs": 6,
+      "words": 129
+    },
+    {
+      "page": 259,
+      "file": "mushaf-v4/page-259.svg",
+      "bytes": 363973,
+      "sha256": "80d16e1723dd452dd09c16fd6f7163e6fd1738df13966ceaf885598cb826593f",
+      "ayahs": 9,
+      "words": 126
+    },
+    {
+      "page": 260,
+      "file": "mushaf-v4/page-260.svg",
+      "bytes": 366129,
+      "sha256": "2fa238653e226fd0985fa23eabb74af37ff34c5874920982d83b4ebd82c78203",
+      "ayahs": 9,
+      "words": 130
+    },
+    {
+      "page": 261,
+      "file": "mushaf-v4/page-261.svg",
+      "bytes": 351034,
+      "sha256": "17cd2630de31fea2f1bd76a60ab7683cc7d8c515cfc0e08f0416eafed0bff15c",
+      "ayahs": 10,
+      "words": 117
+    },
+    {
+      "page": 262,
+      "file": "mushaf-v4/page-262.svg",
+      "bytes": 335663,
+      "sha256": "60493f696d8c310dba3354bb077997450d7cf17c4a4d940546df373003fca6b1",
+      "ayahs": 15,
+      "words": 111
+    },
+    {
+      "page": 263,
+      "file": "mushaf-v4/page-263.svg",
+      "bytes": 366410,
+      "sha256": "97537d5adaa26a24d77f189f90fec9dec2e5f31919234b21b397ffd66069234d",
+      "ayahs": 16,
+      "words": 128
+    },
+    {
+      "page": 264,
+      "file": "mushaf-v4/page-264.svg",
+      "bytes": 352592,
+      "sha256": "71c448def522eebda16a95794da421315bd7b8a6c6020f58fc07df99525b7e19",
+      "ayahs": 20,
+      "words": 127
+    },
+    {
+      "page": 265,
+      "file": "mushaf-v4/page-265.svg",
+      "bytes": 372949,
+      "sha256": "a0c95c507f0ffc633661e605f1651f7981bd46ec0c4e1b583a6738ec61b069e3",
+      "ayahs": 19,
+      "words": 124
+    },
+    {
+      "page": 266,
+      "file": "mushaf-v4/page-266.svg",
+      "bytes": 376370,
+      "sha256": "56d149def67839640567b0c0228fc81a8b0e75ea65c6735bd1d617cad3ab4399",
+      "ayahs": 20,
+      "words": 120
+    },
+    {
+      "page": 267,
+      "file": "mushaf-v4/page-267.svg",
+      "bytes": 327649,
+      "sha256": "890f8ac99cdd46ef5728f13985c21f569c072f64126ed343ebb5db862caa2140",
+      "ayahs": 15,
+      "words": 102
+    },
+    {
+      "page": 268,
+      "file": "mushaf-v4/page-268.svg",
+      "bytes": 334590,
+      "sha256": "91ccdb3e1449e5b0131233b55032f5e8709c67a040326a0865e723d189f434ee",
+      "ayahs": 8,
+      "words": 111
+    },
+    {
+      "page": 269,
+      "file": "mushaf-v4/page-269.svg",
+      "bytes": 362206,
+      "sha256": "73c93f21055c51a84b28120330bcab97719dd450d707bd001f2eed1f27ef2022",
+      "ayahs": 12,
+      "words": 124
+    },
+    {
+      "page": 270,
+      "file": "mushaf-v4/page-270.svg",
+      "bytes": 382213,
+      "sha256": "fcc659304eeb7db8f77e3b892daafc5733ee6ab05206332b4c84af52e1b9132c",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 271,
+      "file": "mushaf-v4/page-271.svg",
+      "bytes": 361161,
+      "sha256": "31e6ac8b68467d124666851c46a041f1fa9a2c8a565274efca4fdb00de31490b",
+      "ayahs": 8,
+      "words": 136
+    },
+    {
+      "page": 272,
+      "file": "mushaf-v4/page-272.svg",
+      "bytes": 390165,
+      "sha256": "b24b3663774b231a5d626a2cfff4d216ad8e53921642c7689f1daf7b3489aa37",
+      "ayahs": 12,
+      "words": 141
+    },
+    {
+      "page": 273,
+      "file": "mushaf-v4/page-273.svg",
+      "bytes": 386013,
+      "sha256": "3805ea51dacdd1f2b92f784417eb12324faabe755c7897b846adfc96e3b9e661",
+      "ayahs": 10,
+      "words": 136
+    },
+    {
+      "page": 274,
+      "file": "mushaf-v4/page-274.svg",
+      "bytes": 400314,
+      "sha256": "fa7d246b81d97aa920408869d800fade3d5abc65dcebaf1e9783ad8710ddf423",
+      "ayahs": 8,
+      "words": 148
+    },
+    {
+      "page": 275,
+      "file": "mushaf-v4/page-275.svg",
+      "bytes": 353884,
+      "sha256": "faaab8b9350ca78abb72f47e11195c47802b5aea1866aba79f7a7388e680a8ad",
+      "ayahs": 7,
+      "words": 133
+    },
+    {
+      "page": 276,
+      "file": "mushaf-v4/page-276.svg",
+      "bytes": 342289,
+      "sha256": "eb356bc9342ce81152f58b9627b5d4dbc1a591e44bbbed54a948be1466e3df4d",
+      "ayahs": 8,
+      "words": 117
+    },
+    {
+      "page": 277,
+      "file": "mushaf-v4/page-277.svg",
+      "bytes": 353037,
+      "sha256": "fcb5a5d78d2111a73246215fe23ee5f373ad91fceec56447952aebf4092d28a0",
+      "ayahs": 6,
+      "words": 122
+    },
+    {
+      "page": 278,
+      "file": "mushaf-v4/page-278.svg",
+      "bytes": 351310,
+      "sha256": "4707b0e311e6bf7b143fc81e8288a5f2eb542696234c9daf35ef25b1e622386c",
+      "ayahs": 9,
+      "words": 124
+    },
+    {
+      "page": 279,
+      "file": "mushaf-v4/page-279.svg",
+      "bytes": 322936,
+      "sha256": "2b4a3420e476dda50232980b23d29281590c8bf563110a8b696c780781795468",
+      "ayahs": 8,
+      "words": 112
+    },
+    {
+      "page": 280,
+      "file": "mushaf-v4/page-280.svg",
+      "bytes": 345210,
+      "sha256": "8f43374970d45f1a00cce3a1ca49381be890d37d332126008b6950c5e55d0b4a",
+      "ayahs": 8,
+      "words": 125
+    },
+    {
+      "page": 281,
+      "file": "mushaf-v4/page-281.svg",
+      "bytes": 364338,
+      "sha256": "b92aef3c6be2a35ae43c916d439e19f5b4326fd071b0268c7f09dfbf9d13b677",
+      "ayahs": 10,
+      "words": 131
+    },
+    {
+      "page": 282,
+      "file": "mushaf-v4/page-282.svg",
+      "bytes": 324829,
+      "sha256": "16fd15e4e2b218ffa3a5891f71b50aacc86d08aa0bc54d7b724cf0058132e52a",
+      "ayahs": 7,
+      "words": 106
+    },
+    {
+      "page": 283,
+      "file": "mushaf-v4/page-283.svg",
+      "bytes": 386813,
+      "sha256": "44725c2c7f8dfe5495f366edece227bd69e8fd7027ee54738a065de046e6b240",
+      "ayahs": 10,
+      "words": 135
+    },
+    {
+      "page": 284,
+      "file": "mushaf-v4/page-284.svg",
+      "bytes": 362312,
+      "sha256": "780094cdf150af82cb90e37e793af5a50f512c11943c6b8515966aac3543910c",
+      "ayahs": 10,
+      "words": 130
+    },
+    {
+      "page": 285,
+      "file": "mushaf-v4/page-285.svg",
+      "bytes": 395202,
+      "sha256": "52cee40df4fee85f424e681863b54c28e64bc533854565abd437aec505455e7b",
+      "ayahs": 11,
+      "words": 144
+    },
+    {
+      "page": 286,
+      "file": "mushaf-v4/page-286.svg",
+      "bytes": 403128,
+      "sha256": "0dd40419854e3fc3cb0d2ffc8fbff2156a392785ec7ae3f336062b83b45f8a4d",
+      "ayahs": 11,
+      "words": 147
+    },
+    {
+      "page": 287,
+      "file": "mushaf-v4/page-287.svg",
+      "bytes": 383669,
+      "sha256": "f1e2a1b25c0fd06a5e63933975534778d57f2d5672ebe23ccb77a8d1550995bc",
+      "ayahs": 9,
+      "words": 133
+    },
+    {
+      "page": 288,
+      "file": "mushaf-v4/page-288.svg",
+      "bytes": 371021,
+      "sha256": "20f1426d3fce2cc6c9ee7155c271917143f5467d5a5aa1abf4727097c910c741",
+      "ayahs": 8,
+      "words": 126
+    },
+    {
+      "page": 289,
+      "file": "mushaf-v4/page-289.svg",
+      "bytes": 370562,
+      "sha256": "c5f8353f64cfc660027bb79eccd463acd423104e202db593e3ed45b4a20fb4e7",
+      "ayahs": 9,
+      "words": 132
+    },
+    {
+      "page": 290,
+      "file": "mushaf-v4/page-290.svg",
+      "bytes": 375355,
+      "sha256": "eb1147605440c1f109a1e75fdb3a8e0c8092eae635ef6bec1dc935846184517e",
+      "ayahs": 11,
+      "words": 136
+    },
+    {
+      "page": 291,
+      "file": "mushaf-v4/page-291.svg",
+      "bytes": 371602,
+      "sha256": "21f339b717fd0e671b8790dfaa83fe0ffd8028976d8f664f9fbbc6c20ad5cccd",
+      "ayahs": 10,
+      "words": 141
+    },
+    {
+      "page": 292,
+      "file": "mushaf-v4/page-292.svg",
+      "bytes": 390695,
+      "sha256": "cbc73786c31ef29d1c283173be2d0476f748649333b585d85342cb0ecb154920",
+      "ayahs": 8,
+      "words": 134
+    },
+    {
+      "page": 293,
+      "file": "mushaf-v4/page-293.svg",
+      "bytes": 376490,
+      "sha256": "aa9ef4469dd2871e264e3c7c78824ce2d11a679114eee54a04057a0fb9594f1b",
+      "ayahs": 11,
+      "words": 127
+    },
+    {
+      "page": 294,
+      "file": "mushaf-v4/page-294.svg",
+      "bytes": 366536,
+      "sha256": "1af37a297554b4a25c0de243998187acdbab09401ef03b5748927d213f492a32",
+      "ayahs": 11,
+      "words": 134
+    },
+    {
+      "page": 295,
+      "file": "mushaf-v4/page-295.svg",
+      "bytes": 373194,
+      "sha256": "8265442b43b0834d193ac0795b4cd5b2d52d568a67da9e7dc05811eed48e00f7",
+      "ayahs": 5,
+      "words": 126
+    },
+    {
+      "page": 296,
+      "file": "mushaf-v4/page-296.svg",
+      "bytes": 370117,
+      "sha256": "3d6396293cc30fbecf5f3b50539cd24086419d906188d506d994bcffda9cd81e",
+      "ayahs": 7,
+      "words": 135
+    },
+    {
+      "page": 297,
+      "file": "mushaf-v4/page-297.svg",
+      "bytes": 391324,
+      "sha256": "0dbbe35f48ecae45e6398dd79c7d96afe9967e07814166456d15cb0e7f17fe17",
+      "ayahs": 7,
+      "words": 136
+    },
+    {
+      "page": 298,
+      "file": "mushaf-v4/page-298.svg",
+      "bytes": 397459,
+      "sha256": "02570d3707601527da8d1ed33bbfe57b70741d61847c7e63d108f7026a5377cd",
+      "ayahs": 11,
+      "words": 152
+    },
+    {
+      "page": 299,
+      "file": "mushaf-v4/page-299.svg",
+      "bytes": 385079,
+      "sha256": "9a68555065d858b9b1be91519c21bcf8fb86deeba02f6f5eed00d4f149894ea8",
+      "ayahs": 8,
+      "words": 129
+    },
+    {
+      "page": 300,
+      "file": "mushaf-v4/page-300.svg",
+      "bytes": 375211,
+      "sha256": "12b4c0f66bc8b87bd58b64e84b6d3c2c2b499eb2d08145f8f3069da55a93fe09",
+      "ayahs": 8,
+      "words": 132
+    },
+    {
+      "page": 301,
+      "file": "mushaf-v4/page-301.svg",
+      "bytes": 364765,
+      "sha256": "b24bcdbb6855a44037363e1a920d0e0eafde1b5e28e1f00787b58e94f1e1e099",
+      "ayahs": 13,
+      "words": 149
+    },
+    {
+      "page": 302,
+      "file": "mushaf-v4/page-302.svg",
+      "bytes": 371799,
+      "sha256": "f4a1f39a339876f6a96efd6fa4c1e49d61879d89d1a1bc17b45b95fbce3d7956",
+      "ayahs": 9,
+      "words": 138
+    },
+    {
+      "page": 303,
+      "file": "mushaf-v4/page-303.svg",
+      "bytes": 395816,
+      "sha256": "2ed23dcc6846d73394b5666afe64ff80630e9daa0071628592ac2c3838dd9389",
+      "ayahs": 14,
+      "words": 160
+    },
+    {
+      "page": 304,
+      "file": "mushaf-v4/page-304.svg",
+      "bytes": 409138,
+      "sha256": "487935fc4aed84a981e7c9ce285312a0bc61928e6f87b6d07ec5b48be7ac6fb5",
+      "ayahs": 13,
+      "words": 153
+    },
+    {
+      "page": 305,
+      "file": "mushaf-v4/page-305.svg",
+      "bytes": 309575,
+      "sha256": "cf489099800ea48aa8b61ba65661e12ca945f35f98706807e2680defd6b654c3",
+      "ayahs": 11,
+      "words": 110
+    },
+    {
+      "page": 306,
+      "file": "mushaf-v4/page-306.svg",
+      "bytes": 353377,
+      "sha256": "2798109aa0b8f9e47f1818c427512fe4882c0dd4824a4582914dcab4f136136e",
+      "ayahs": 14,
+      "words": 128
+    },
+    {
+      "page": 307,
+      "file": "mushaf-v4/page-307.svg",
+      "bytes": 376250,
+      "sha256": "53b4fc8e3691a6614d60a5424492a28795d1f109f29e8e3fd1821f2a865daf6d",
+      "ayahs": 13,
+      "words": 138
+    },
+    {
+      "page": 308,
+      "file": "mushaf-v4/page-308.svg",
+      "bytes": 381967,
+      "sha256": "6bfecba5ac6b073d8bb8b2a97dea6347f779758beadc7f44597cc6799adb8557",
+      "ayahs": 13,
+      "words": 145
+    },
+    {
+      "page": 309,
+      "file": "mushaf-v4/page-309.svg",
+      "bytes": 394099,
+      "sha256": "857694db93077ef23ecacb67f08be0dbac9b8b1237b036d1694cb386c661edca",
+      "ayahs": 13,
+      "words": 146
+    },
+    {
+      "page": 310,
+      "file": "mushaf-v4/page-310.svg",
+      "bytes": 381922,
+      "sha256": "88d5f89d18229e5ff8f2d573864a60ed56fe8b26d1f21985997011a29162f2fe",
+      "ayahs": 12,
+      "words": 136
+    },
+    {
+      "page": 311,
+      "file": "mushaf-v4/page-311.svg",
+      "bytes": 356147,
+      "sha256": "1f7f9fd7c6461437f40fc523d026fb796a09989757e3b49de392a1735f9b3ec4",
+      "ayahs": 19,
+      "words": 125
+    },
+    {
+      "page": 312,
+      "file": "mushaf-v4/page-312.svg",
+      "bytes": 334673,
+      "sha256": "438e861845a84ad69ccdebacd13ab093a9a0fe0aa17277ab539b190b93e19534",
+      "ayahs": 15,
+      "words": 115
+    },
+    {
+      "page": 313,
+      "file": "mushaf-v4/page-313.svg",
+      "bytes": 351396,
+      "sha256": "c76953a8caa6c643dfa71d07d89bc6e170294215f3b2a8c601641446507b8283",
+      "ayahs": 25,
+      "words": 134
+    },
+    {
+      "page": 314,
+      "file": "mushaf-v4/page-314.svg",
+      "bytes": 396106,
+      "sha256": "88c63a43d1aa154fa405f43d7e42a63540e10d28de43ebbaa368f4e2e303eb7e",
+      "ayahs": 14,
+      "words": 151
+    },
+    {
+      "page": 315,
+      "file": "mushaf-v4/page-315.svg",
+      "bytes": 370615,
+      "sha256": "6963afce7eb62fded2c1305d40fb583a7040d402529e80c63fd06e42b4c7eacb",
+      "ayahs": 13,
+      "words": 131
+    },
+    {
+      "page": 316,
+      "file": "mushaf-v4/page-316.svg",
+      "bytes": 401882,
+      "sha256": "8958fbcf45f9bf5e24b275ee5efb0df8965eeb29f5209a5eb6bc4ad0d554f4cf",
+      "ayahs": 12,
+      "words": 152
+    },
+    {
+      "page": 317,
+      "file": "mushaf-v4/page-317.svg",
+      "bytes": 368819,
+      "sha256": "9437cc0e5072fc6f418a73698c1b1da625958b706a68067aa5791229c0ae3035",
+      "ayahs": 11,
+      "words": 135
+    },
+    {
+      "page": 318,
+      "file": "mushaf-v4/page-318.svg",
+      "bytes": 365312,
+      "sha256": "c4dbfa68823b95fa5dd925848921273972d6cb168a958dbd6b2a71fe291e1b7a",
+      "ayahs": 11,
+      "words": 138
+    },
+    {
+      "page": 319,
+      "file": "mushaf-v4/page-319.svg",
+      "bytes": 368128,
+      "sha256": "5a82a9a45cdc77bc54283fb277a0d1eeb8459ec0db83180b224ad8b0393e6cd2",
+      "ayahs": 15,
+      "words": 139
+    },
+    {
+      "page": 320,
+      "file": "mushaf-v4/page-320.svg",
+      "bytes": 362183,
+      "sha256": "d85825abe117fd87413bc92451371e785efa337e81b8c457e423c453bb353ddb",
+      "ayahs": 12,
+      "words": 134
+    },
+    {
+      "page": 321,
+      "file": "mushaf-v4/page-321.svg",
+      "bytes": 399918,
+      "sha256": "d5bdf33a37bb1399628d9b3400bfb5b169b349ca1f039625e2f739f3bacd50e1",
+      "ayahs": 10,
+      "words": 139
+    },
+    {
+      "page": 322,
+      "file": "mushaf-v4/page-322.svg",
+      "bytes": 331672,
+      "sha256": "333a3b1b138e13055f75d22acbf30321f95e34890abb394fcb7366e38a8a3e2a",
+      "ayahs": 10,
+      "words": 104
+    },
+    {
+      "page": 323,
+      "file": "mushaf-v4/page-323.svg",
+      "bytes": 372875,
+      "sha256": "0a9db755f2f41f3d2b687592959ea61917b5189c5a7a9430762de23d82942a28",
+      "ayahs": 14,
+      "words": 137
+    },
+    {
+      "page": 324,
+      "file": "mushaf-v4/page-324.svg",
+      "bytes": 366608,
+      "sha256": "38c169e168e99ec574622ddfd031349592f7ca2bd8b3df7b8c2177d793ac4667",
+      "ayahs": 11,
+      "words": 127
+    },
+    {
+      "page": 325,
+      "file": "mushaf-v4/page-325.svg",
+      "bytes": 332159,
+      "sha256": "b7d8b671d7148e55a5cb84c332e884572080b18f71c0fcdb3220eb8579766367",
+      "ayahs": 9,
+      "words": 116
+    },
+    {
+      "page": 326,
+      "file": "mushaf-v4/page-326.svg",
+      "bytes": 362363,
+      "sha256": "0f17eb138ddd1c6048f9a0f780c8e9a9a7c15a5b517d167f8aae7fafdacd1ed0",
+      "ayahs": 13,
+      "words": 125
+    },
+    {
+      "page": 327,
+      "file": "mushaf-v4/page-327.svg",
+      "bytes": 345129,
+      "sha256": "b5443cae8bb6a0affbed666eee2cccff89853affec6449a6469598c2ec83d377",
+      "ayahs": 15,
+      "words": 117
+    },
+    {
+      "page": 328,
+      "file": "mushaf-v4/page-328.svg",
+      "bytes": 350434,
+      "sha256": "4c3eceaccf40cf8dc3ea329356ea3b4e68c4e3944d26d1c53b6c673473f4ef45",
+      "ayahs": 9,
+      "words": 113
+    },
+    {
+      "page": 329,
+      "file": "mushaf-v4/page-329.svg",
+      "bytes": 326085,
+      "sha256": "a56054a90f8af42e92d1aa237d4e495abe5c54113c4e24b15daf73e9eafb2462",
+      "ayahs": 9,
+      "words": 112
+    },
+    {
+      "page": 330,
+      "file": "mushaf-v4/page-330.svg",
+      "bytes": 309039,
+      "sha256": "4383eeccc668da81a6d3530f75f9ad54a639d469fa172a0983ce92ecb70a329c",
+      "ayahs": 11,
+      "words": 109
+    },
+    {
+      "page": 331,
+      "file": "mushaf-v4/page-331.svg",
+      "bytes": 318350,
+      "sha256": "fba60f773735346657045659a881125cd53ea9d432c5c0adf6b4136e5a82fd86",
+      "ayahs": 11,
+      "words": 109
+    },
+    {
+      "page": 332,
+      "file": "mushaf-v4/page-332.svg",
+      "bytes": 347199,
+      "sha256": "ca87dc0ff1bef42285aa992021b7dd8667295830509dc7a26172e4f93aa74eb7",
+      "ayahs": 5,
+      "words": 123
+    },
+    {
+      "page": 333,
+      "file": "mushaf-v4/page-333.svg",
+      "bytes": 387013,
+      "sha256": "4f7bb36c2774b2fcb260c4b8b34b6c5e238aad175f5b17c516a1c1ca47340964",
+      "ayahs": 10,
+      "words": 150
+    },
+    {
+      "page": 334,
+      "file": "mushaf-v4/page-334.svg",
+      "bytes": 359899,
+      "sha256": "137817f3ec8513495bf95e9dd0326f2d2a54c66452ac0806c0f246787454af35",
+      "ayahs": 8,
+      "words": 129
+    },
+    {
+      "page": 335,
+      "file": "mushaf-v4/page-335.svg",
+      "bytes": 339621,
+      "sha256": "ba23b762cc9a14b918de72847f2460ceb50e4acf9f4da249bb85511a97b8f2a3",
+      "ayahs": 7,
+      "words": 116
+    },
+    {
+      "page": 336,
+      "file": "mushaf-v4/page-336.svg",
+      "bytes": 385250,
+      "sha256": "423563d9c8eddc7d0c308e54f0e9b86b85af1caa2e5be442c9bae5f647d4f9cb",
+      "ayahs": 8,
+      "words": 136
+    },
+    {
+      "page": 337,
+      "file": "mushaf-v4/page-337.svg",
+      "bytes": 366176,
+      "sha256": "b544511b8c4dd1bf8bd001fc93e0f90131af3652dc419c896e4c7af5cf395ca8",
+      "ayahs": 8,
+      "words": 123
+    },
+    {
+      "page": 338,
+      "file": "mushaf-v4/page-338.svg",
+      "bytes": 370304,
+      "sha256": "eeaf5880402934e9ad7b44cac0c2d307cd2fddcf8a4bd1705361a85ef6e3eb4e",
+      "ayahs": 9,
+      "words": 129
+    },
+    {
+      "page": 339,
+      "file": "mushaf-v4/page-339.svg",
+      "bytes": 330057,
+      "sha256": "86c5d67e57be082bf9b03fbbdd9f421848a94c58c7f4927e129e751d1f779248",
+      "ayahs": 9,
+      "words": 120
+    },
+    {
+      "page": 340,
+      "file": "mushaf-v4/page-340.svg",
+      "bytes": 358912,
+      "sha256": "c3286eeda2b8604167ad9b9e580e003a2275ca331b1c617366fe7e595a1009b0",
+      "ayahs": 8,
+      "words": 135
+    },
+    {
+      "page": 341,
+      "file": "mushaf-v4/page-341.svg",
+      "bytes": 339114,
+      "sha256": "9df10d8f8ca5fd2353303d1c112d9b639cceecbddf089fa3322eb11ae0b08c57",
+      "ayahs": 6,
+      "words": 113
+    },
+    {
+      "page": 342,
+      "file": "mushaf-v4/page-342.svg",
+      "bytes": 353332,
+      "sha256": "a539bc3d8e461ca07c3fe94fec7038c8ffe1e24e2c9f4014c0dceffd9fbbd9dd",
+      "ayahs": 17,
+      "words": 111
+    },
+    {
+      "page": 343,
+      "file": "mushaf-v4/page-343.svg",
+      "bytes": 385221,
+      "sha256": "00be7fddca6b3c58a2953e05f04cfb49b6ae66c8e30986806bb7d6b84fe6181e",
+      "ayahs": 10,
+      "words": 143
+    },
+    {
+      "page": 344,
+      "file": "mushaf-v4/page-344.svg",
+      "bytes": 385982,
+      "sha256": "5dace828a54b7abf941dd036a922d063af3a6fe03138702644e0c0cd2bba32c5",
+      "ayahs": 15,
+      "words": 141
+    },
+    {
+      "page": 345,
+      "file": "mushaf-v4/page-345.svg",
+      "bytes": 384846,
+      "sha256": "5ea88938fd3da52cdcea1e7d24c0caef5609e7172af4f68d62506cdca0257826",
+      "ayahs": 17,
+      "words": 133
+    },
+    {
+      "page": 346,
+      "file": "mushaf-v4/page-346.svg",
+      "bytes": 387137,
+      "sha256": "54d23020faff375e9f33584b871f15e305e8cdc9f126c1fb422a4134e22434e0",
+      "ayahs": 15,
+      "words": 136
+    },
+    {
+      "page": 347,
+      "file": "mushaf-v4/page-347.svg",
+      "bytes": 356615,
+      "sha256": "0b2fe82be53d593e769de53573e514cc3c77b34cfc424b67af5b2f59fd1260b2",
+      "ayahs": 15,
+      "words": 129
+    },
+    {
+      "page": 348,
+      "file": "mushaf-v4/page-348.svg",
+      "bytes": 355426,
+      "sha256": "06381ed4fc786d5469e048149dc8a829b55164167324359251a97a78dbfd0dca",
+      "ayahs": 15,
+      "words": 131
+    },
+    {
+      "page": 349,
+      "file": "mushaf-v4/page-349.svg",
+      "bytes": 354028,
+      "sha256": "9934a3fccda7ff19e31576597b553975fb2933e155202e65d55a260c7760d03f",
+      "ayahs": 14,
+      "words": 126
+    },
+    {
+      "page": 350,
+      "file": "mushaf-v4/page-350.svg",
+      "bytes": 410564,
+      "sha256": "4ae22b9a23c9ad3dd4ee292772b99140ee8c7f6378349551301f38be4bc56284",
+      "ayahs": 10,
+      "words": 138
+    },
+    {
+      "page": 351,
+      "file": "mushaf-v4/page-351.svg",
+      "bytes": 400694,
+      "sha256": "21c7a5e096d789f67cd57f3ef6c52f311ef38ef530b1b61c93414cbc97d5ed78",
+      "ayahs": 10,
+      "words": 144
+    },
+    {
+      "page": 352,
+      "file": "mushaf-v4/page-352.svg",
+      "bytes": 399102,
+      "sha256": "f8564b2ae008f82649641fcab2b6b9e587750bead3b08ad9cebee496c20b30cd",
+      "ayahs": 7,
+      "words": 127
+    },
+    {
+      "page": 353,
+      "file": "mushaf-v4/page-353.svg",
+      "bytes": 376189,
+      "sha256": "06e0788251d44a848f7810186575db81ac173c77a057f8155d69b4ac66623e26",
+      "ayahs": 4,
+      "words": 132
+    },
+    {
+      "page": 354,
+      "file": "mushaf-v4/page-354.svg",
+      "bytes": 407712,
+      "sha256": "c1828c7d12a3fb98b391514bef9016d7b163a495825717af643ddb3d39c7dffe",
+      "ayahs": 5,
+      "words": 140
+    },
+    {
+      "page": 355,
+      "file": "mushaf-v4/page-355.svg",
+      "bytes": 403823,
+      "sha256": "c51a89dd19a2121afe0a15874852817dab2a96c94c4f756d4ed66f0e55ef53c1",
+      "ayahs": 7,
+      "words": 154
+    },
+    {
+      "page": 356,
+      "file": "mushaf-v4/page-356.svg",
+      "bytes": 410512,
+      "sha256": "de3d68f54c93ad380d160288e12e4209508ebb46a1025d7ee120a0b1ed8ec6a5",
+      "ayahs": 10,
+      "words": 146
+    },
+    {
+      "page": 357,
+      "file": "mushaf-v4/page-357.svg",
+      "bytes": 385273,
+      "sha256": "a4d5c37398a3fcb0a3e1bc6b9a2567d69e3dc66876722a641987bf054de932f7",
+      "ayahs": 5,
+      "words": 129
+    },
+    {
+      "page": 358,
+      "file": "mushaf-v4/page-358.svg",
+      "bytes": 341265,
+      "sha256": "a6d70fc8e1e1539679bf4466f41c2950d841222ab788fc8c830fa2f851b13650",
+      "ayahs": 3,
+      "words": 118
+    },
+    {
+      "page": 359,
+      "file": "mushaf-v4/page-359.svg",
+      "bytes": 352620,
+      "sha256": "8ba93f6ad1460af44472621751eaa3fc2ccf8330b641c18a7515d63f3042d875",
+      "ayahs": 5,
+      "words": 116
+    },
+    {
+      "page": 360,
+      "file": "mushaf-v4/page-360.svg",
+      "bytes": 346931,
+      "sha256": "cc411076a4eb8964898394cd574f412edc8a91fca9a251b36d85a4d61b662791",
+      "ayahs": 9,
+      "words": 126
+    },
+    {
+      "page": 361,
+      "file": "mushaf-v4/page-361.svg",
+      "bytes": 338261,
+      "sha256": "75ad3c0dd3faf320ebbd01540d1ab7ac6366cd596a778f5505f089efd5544022",
+      "ayahs": 9,
+      "words": 121
+    },
+    {
+      "page": 362,
+      "file": "mushaf-v4/page-362.svg",
+      "bytes": 366767,
+      "sha256": "8a287939b997a262fdfa1ea7952b04ae666c0246da606873ca2ecdac50fd64c2",
+      "ayahs": 12,
+      "words": 124
+    },
+    {
+      "page": 363,
+      "file": "mushaf-v4/page-363.svg",
+      "bytes": 338531,
+      "sha256": "4aa8459158b73bf050d14ebcd277b4023c9f9bb53fc00274a2c1018f81f47b36",
+      "ayahs": 11,
+      "words": 118
+    },
+    {
+      "page": 364,
+      "file": "mushaf-v4/page-364.svg",
+      "bytes": 356959,
+      "sha256": "2295b95a8a2fdae9aa5bcde7a496cdf081080514c5c799af11505f821f8bd0a6",
+      "ayahs": 12,
+      "words": 134
+    },
+    {
+      "page": 365,
+      "file": "mushaf-v4/page-365.svg",
+      "bytes": 350831,
+      "sha256": "70678315e37a87a383f5d2e887601a47105187df18bf2740032199de7a997dc4",
+      "ayahs": 12,
+      "words": 129
+    },
+    {
+      "page": 366,
+      "file": "mushaf-v4/page-366.svg",
+      "bytes": 315303,
+      "sha256": "e7a4f2f882ab194ada88e1db3941511c72ea209157256ddbd7d6b26ef6e8c32f",
+      "ayahs": 10,
+      "words": 113
+    },
+    {
+      "page": 367,
+      "file": "mushaf-v4/page-367.svg",
+      "bytes": 374942,
+      "sha256": "e92e174342ea3410fcbe49d369ae4401c89f92184206bbc4f92d333312dc2126",
+      "ayahs": 19,
+      "words": 133
+    },
+    {
+      "page": 368,
+      "file": "mushaf-v4/page-368.svg",
+      "bytes": 369104,
+      "sha256": "1615b22d476f862e61f522260712d37f37fcfee375d203b8939002b6f7fab5d0",
+      "ayahs": 20,
+      "words": 133
+    },
+    {
+      "page": 369,
+      "file": "mushaf-v4/page-369.svg",
+      "bytes": 389414,
+      "sha256": "e0251438d4464b31e05d5c31a48347c80dbc1605c3d828262cf3761f649e4792",
+      "ayahs": 21,
+      "words": 134
+    },
+    {
+      "page": 370,
+      "file": "mushaf-v4/page-370.svg",
+      "bytes": 363339,
+      "sha256": "16f80995326c94df0cf0ee0a7cbed395e09035d5108b44b826f797f462451cd4",
+      "ayahs": 23,
+      "words": 126
+    },
+    {
+      "page": 371,
+      "file": "mushaf-v4/page-371.svg",
+      "bytes": 385073,
+      "sha256": "1861ff49d9eca7ec7372d82d16759d2b56aebb216e7631fd5c51517538ac9408",
+      "ayahs": 28,
+      "words": 141
+    },
+    {
+      "page": 372,
+      "file": "mushaf-v4/page-372.svg",
+      "bytes": 380709,
+      "sha256": "8ae349179c1c047185e09285ddfd782536e512dd047669659b546581dac3f699",
+      "ayahs": 25,
+      "words": 136
+    },
+    {
+      "page": 373,
+      "file": "mushaf-v4/page-373.svg",
+      "bytes": 374678,
+      "sha256": "824b9e7336072c79ec14083933de9cc36a2c51d7d9529f1b50efde8682864eb0",
+      "ayahs": 23,
+      "words": 131
+    },
+    {
+      "page": 374,
+      "file": "mushaf-v4/page-374.svg",
+      "bytes": 392447,
+      "sha256": "abe37962a1b216f45efae85839a13afd14ea43e67f92a2fd70507c03b0133326",
+      "ayahs": 24,
+      "words": 137
+    },
+    {
+      "page": 375,
+      "file": "mushaf-v4/page-375.svg",
+      "bytes": 366751,
+      "sha256": "05000e6b935b87d814815994b7841b9d23a2a7317ee9148635f16e3012caefee",
+      "ayahs": 23,
+      "words": 128
+    },
+    {
+      "page": 376,
+      "file": "mushaf-v4/page-376.svg",
+      "bytes": 345468,
+      "sha256": "34e5a1709666821e768d3accec2db5f32e51ad5e7c77954d74a2e21414f5e87e",
+      "ayahs": 21,
+      "words": 119
+    },
+    {
+      "page": 377,
+      "file": "mushaf-v4/page-377.svg",
+      "bytes": 395986,
+      "sha256": "fb86c42586827c26ab3fcfb1e5893b672286f32b96cb542a6c02788e3c9f660e",
+      "ayahs": 13,
+      "words": 138
+    },
+    {
+      "page": 378,
+      "file": "mushaf-v4/page-378.svg",
+      "bytes": 371328,
+      "sha256": "307b8ce2ca511dfb2e0ec237c86939b5de04a61cb9d0ed3c54e53ade03013f98",
+      "ayahs": 9,
+      "words": 131
+    },
+    {
+      "page": 379,
+      "file": "mushaf-v4/page-379.svg",
+      "bytes": 382991,
+      "sha256": "876c8deb5dc0300385f33952a5c6f205e9c3cc229aff257d36de5ba36a102571",
+      "ayahs": 13,
+      "words": 134
+    },
+    {
+      "page": 380,
+      "file": "mushaf-v4/page-380.svg",
+      "bytes": 411297,
+      "sha256": "3ebe870e1ed9d89bd02eddf77ed232267d68f8ab288d2100528196ae45a581ae",
+      "ayahs": 9,
+      "words": 159
+    },
+    {
+      "page": 381,
+      "file": "mushaf-v4/page-381.svg",
+      "bytes": 340401,
+      "sha256": "95fbe77d18eb2da85be9ede843597c9a0d3092cc384b19ae9fe707615ed71985",
+      "ayahs": 11,
+      "words": 113
+    },
+    {
+      "page": 382,
+      "file": "mushaf-v4/page-382.svg",
+      "bytes": 354056,
+      "sha256": "6b3831d94de0889da59e15e3c79e9579b433b40a106acbf38302b1ba2382f807",
+      "ayahs": 8,
+      "words": 124
+    },
+    {
+      "page": 383,
+      "file": "mushaf-v4/page-383.svg",
+      "bytes": 383228,
+      "sha256": "014a47e3fef8a5cd27747606521a0dd641ef03745d10cb3ff4815e3eb23f7895",
+      "ayahs": 13,
+      "words": 142
+    },
+    {
+      "page": 384,
+      "file": "mushaf-v4/page-384.svg",
+      "bytes": 389978,
+      "sha256": "3612aef8974b9a686c4ef291e751607daf1cdcd9f416b9b469002858add189fa",
+      "ayahs": 12,
+      "words": 143
+    },
+    {
+      "page": 385,
+      "file": "mushaf-v4/page-385.svg",
+      "bytes": 346056,
+      "sha256": "c20663f949d461a8039d41d5669a3596bddb2edbff7812e69d7bf22d2e32eb0e",
+      "ayahs": 10,
+      "words": 112
+    },
+    {
+      "page": 386,
+      "file": "mushaf-v4/page-386.svg",
+      "bytes": 345178,
+      "sha256": "b7056490674096a48d740e348cd6bf828bab81c5f4c85a83af3caf977c1fc1eb",
+      "ayahs": 8,
+      "words": 125
+    },
+    {
+      "page": 387,
+      "file": "mushaf-v4/page-387.svg",
+      "bytes": 401654,
+      "sha256": "fd84e47ff52efac200b91cf5d45ec586fd6dd0de0b86af15402b504fbcec40ea",
+      "ayahs": 8,
+      "words": 146
+    },
+    {
+      "page": 388,
+      "file": "mushaf-v4/page-388.svg",
+      "bytes": 360048,
+      "sha256": "e6a989a007870a17930ec30efc34f2ba3a72804a5508322fabe2403603f3361f",
+      "ayahs": 7,
+      "words": 133
+    },
+    {
+      "page": 389,
+      "file": "mushaf-v4/page-389.svg",
+      "bytes": 358051,
+      "sha256": "e58121f68fd9c51f049aad26e3b5162a682ea896430a1be529855cb1ca217bad",
+      "ayahs": 7,
+      "words": 128
+    },
+    {
+      "page": 390,
+      "file": "mushaf-v4/page-390.svg",
+      "bytes": 344595,
+      "sha256": "a5a4b102e6fa1f28ab7d4593c0954c2bf0a445a20497d165f49a557431cf242d",
+      "ayahs": 8,
+      "words": 119
+    },
+    {
+      "page": 391,
+      "file": "mushaf-v4/page-391.svg",
+      "bytes": 358177,
+      "sha256": "980cc48354513e6411827739ccbd5f0b9b04f21ecb6ec1074afb0b2173c268ee",
+      "ayahs": 7,
+      "words": 131
+    },
+    {
+      "page": 392,
+      "file": "mushaf-v4/page-392.svg",
+      "bytes": 373220,
+      "sha256": "fdb67e1e1285ad5b83c6af366ef517bb664015ca4daad17b58f518c56e21feb1",
+      "ayahs": 9,
+      "words": 131
+    },
+    {
+      "page": 393,
+      "file": "mushaf-v4/page-393.svg",
+      "bytes": 382279,
+      "sha256": "fad5b24b7bbb97b120ad8943450ee2651a3e1e1d19191c0db1d120d386bcb54e",
+      "ayahs": 11,
+      "words": 131
+    },
+    {
+      "page": 394,
+      "file": "mushaf-v4/page-394.svg",
+      "bytes": 371421,
+      "sha256": "a574ab15d81640ed08182c5a0254ee27f7ff64839a834c893f2722a37ce49aa3",
+      "ayahs": 7,
+      "words": 133
+    },
+    {
+      "page": 395,
+      "file": "mushaf-v4/page-395.svg",
+      "bytes": 374462,
+      "sha256": "1459620955b1e0ca17bcc3cbe60c0812471aaa3cfbce3783eab1e829f0c72bdf",
+      "ayahs": 7,
+      "words": 139
+    },
+    {
+      "page": 396,
+      "file": "mushaf-v4/page-396.svg",
+      "bytes": 355140,
+      "sha256": "a5bf815cfd89c58a86fdc80d5e2d117d3c25b8d0b8340dc560ce79c779f435bf",
+      "ayahs": 10,
+      "words": 123
+    },
+    {
+      "page": 397,
+      "file": "mushaf-v4/page-397.svg",
+      "bytes": 369959,
+      "sha256": "f699d234132b2c5272204e2d2660312c2af3fd242c2294189c7ec7a19d2cee24",
+      "ayahs": 8,
+      "words": 122
+    },
+    {
+      "page": 398,
+      "file": "mushaf-v4/page-398.svg",
+      "bytes": 367943,
+      "sha256": "77600f72a83d248d0abfa8c3312371b9d7881e1c3dd1ab0e96d785dbec1e550d",
+      "ayahs": 9,
+      "words": 129
+    },
+    {
+      "page": 399,
+      "file": "mushaf-v4/page-399.svg",
+      "bytes": 341827,
+      "sha256": "bfdb946ef81b39ad149bf1a211fe235a9082db6cc6264717bcaba13b92505ac9",
+      "ayahs": 7,
+      "words": 120
+    },
+    {
+      "page": 400,
+      "file": "mushaf-v4/page-400.svg",
+      "bytes": 338622,
+      "sha256": "18806383059a5f5fb93bcd740238f743fd032c4597c5d094037c25bdd39114f1",
+      "ayahs": 8,
+      "words": 112
+    },
+    {
+      "page": 401,
+      "file": "mushaf-v4/page-401.svg",
+      "bytes": 342180,
+      "sha256": "2c85a82b725bc7c70160e34a66590cb9a3366d0ec56248affea1001b9fbdeeb1",
+      "ayahs": 7,
+      "words": 111
+    },
+    {
+      "page": 402,
+      "file": "mushaf-v4/page-402.svg",
+      "bytes": 363186,
+      "sha256": "635c93ac822e419ac26b9135f70d23b3d752c557aa2d81d3d1a2f8a4be7961e2",
+      "ayahs": 7,
+      "words": 121
+    },
+    {
+      "page": 403,
+      "file": "mushaf-v4/page-403.svg",
+      "bytes": 386841,
+      "sha256": "f3ba1bb93c994b612bd12f9562578f4bc9f72755af74535b12d959bff41b1b12",
+      "ayahs": 11,
+      "words": 129
+    },
+    {
+      "page": 404,
+      "file": "mushaf-v4/page-404.svg",
+      "bytes": 330877,
+      "sha256": "b8a5e2fa260b62a70713234673ee5cf6f0c277ec4a84d08dcdff486b089eebe6",
+      "ayahs": 11,
+      "words": 109
+    },
+    {
+      "page": 405,
+      "file": "mushaf-v4/page-405.svg",
+      "bytes": 370776,
+      "sha256": "a19e1d07d5eef9530fd001d065f60a0f40da55ad4cc5a6da0993d2f8de572da4",
+      "ayahs": 10,
+      "words": 124
+    },
+    {
+      "page": 406,
+      "file": "mushaf-v4/page-406.svg",
+      "bytes": 350002,
+      "sha256": "736dd7a9860dac269f999527629693c98565fc41623e531222c871a33aa69a96",
+      "ayahs": 9,
+      "words": 118
+    },
+    {
+      "page": 407,
+      "file": "mushaf-v4/page-407.svg",
+      "bytes": 361289,
+      "sha256": "755b542255b50cfd9b7e70447675467a335beac0a65380ed2e0c7e860ee6cb0f",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 408,
+      "file": "mushaf-v4/page-408.svg",
+      "bytes": 384809,
+      "sha256": "cdc1d059a7ca6ef36ca076a8dc35eade324a9994f1833aa61d03d9cb083350ad",
+      "ayahs": 9,
+      "words": 139
+    },
+    {
+      "page": 409,
+      "file": "mushaf-v4/page-409.svg",
+      "bytes": 390526,
+      "sha256": "dfadcfed3013497fe78d1a118d45401894302cec644850c94840170fb72c8710",
+      "ayahs": 9,
+      "words": 142
+    },
+    {
+      "page": 410,
+      "file": "mushaf-v4/page-410.svg",
+      "bytes": 367049,
+      "sha256": "04bbee4660f569e5584371556a87fecd7e80bee903b1e3bd9dcef5757a4eb3ee",
+      "ayahs": 10,
+      "words": 136
+    },
+    {
+      "page": 411,
+      "file": "mushaf-v4/page-411.svg",
+      "bytes": 342589,
+      "sha256": "eef3ea7e9a2f467b1a8d122f21ba85a18a3a06f5bc9f0ae49a53474de4d8055b",
+      "ayahs": 11,
+      "words": 116
+    },
+    {
+      "page": 412,
+      "file": "mushaf-v4/page-412.svg",
+      "bytes": 381269,
+      "sha256": "c3aa2c6037b8ccc7e93188c7cb08d641dd39030d32e1b57f5cea3b5428da7996",
+      "ayahs": 8,
+      "words": 146
+    },
+    {
+      "page": 413,
+      "file": "mushaf-v4/page-413.svg",
+      "bytes": 380921,
+      "sha256": "42f30a0d7412c3fa1ac11330e678da797031e75f3dbb7262c84067a2fffc5d47",
+      "ayahs": 9,
+      "words": 145
+    },
+    {
+      "page": 414,
+      "file": "mushaf-v4/page-414.svg",
+      "bytes": 361171,
+      "sha256": "ef0f50c436f73929af7b1b250901faf43054cd2ee67739d00c0ac09435c3701f",
+      "ayahs": 6,
+      "words": 139
+    },
+    {
+      "page": 415,
+      "file": "mushaf-v4/page-415.svg",
+      "bytes": 362212,
+      "sha256": "7e1cf7a485b1e32d32975f408928e08928ac9c07855de569c0f84450c6373c73",
+      "ayahs": 11,
+      "words": 131
+    },
+    {
+      "page": 416,
+      "file": "mushaf-v4/page-416.svg",
+      "bytes": 359991,
+      "sha256": "4efdb22e78acd680e1a4f40622c8ceaa6dc40231b3d23279a163ebc178a91b50",
+      "ayahs": 9,
+      "words": 126
+    },
+    {
+      "page": 417,
+      "file": "mushaf-v4/page-417.svg",
+      "bytes": 334614,
+      "sha256": "4908ae25fd84e2c1ffff2e885c89d858190b7c2cb74d490b90a32456d390648f",
+      "ayahs": 10,
+      "words": 115
+    },
+    {
+      "page": 418,
+      "file": "mushaf-v4/page-418.svg",
+      "bytes": 362582,
+      "sha256": "01fc845550678131e0af6acc89c2ef12bdd0a310767c09ec7246458298c2e35e",
+      "ayahs": 6,
+      "words": 116
+    },
+    {
+      "page": 419,
+      "file": "mushaf-v4/page-419.svg",
+      "bytes": 379987,
+      "sha256": "a60f0eaeb500eeb93159f55884ae4fe8c9c695ff294327890261884e29404222",
+      "ayahs": 9,
+      "words": 133
+    },
+    {
+      "page": 420,
+      "file": "mushaf-v4/page-420.svg",
+      "bytes": 390364,
+      "sha256": "c7a4a9c153d312587049ef111fb625e571ed2728c83d204bd61d2eb4a23ab645",
+      "ayahs": 7,
+      "words": 146
+    },
+    {
+      "page": 421,
+      "file": "mushaf-v4/page-421.svg",
+      "bytes": 367240,
+      "sha256": "3c8cfccfc444efc6c1e71b68b5ade61501b54384cc3a57d6dfe0f322c933e44e",
+      "ayahs": 8,
+      "words": 124
+    },
+    {
+      "page": 422,
+      "file": "mushaf-v4/page-422.svg",
+      "bytes": 350033,
+      "sha256": "029e75004c02d666c9f5596253c95c4edfb897b4e8182dadd6dfffbe8a15b356",
+      "ayahs": 5,
+      "words": 102
+    },
+    {
+      "page": 423,
+      "file": "mushaf-v4/page-423.svg",
+      "bytes": 392867,
+      "sha256": "0a4090c733b654620115b36cfd460a9fed3195843e50f4f3f8208b0a213bc9f4",
+      "ayahs": 8,
+      "words": 147
+    },
+    {
+      "page": 424,
+      "file": "mushaf-v4/page-424.svg",
+      "bytes": 366702,
+      "sha256": "774507e7b9afd11546a76398c56a31b97ad00e3e4a4091aace12743553fdced7",
+      "ayahs": 7,
+      "words": 124
+    },
+    {
+      "page": 425,
+      "file": "mushaf-v4/page-425.svg",
+      "bytes": 380630,
+      "sha256": "348f1be70f24baddb16ee6fa4848ff059be712e98323bb3807c9912297b5ba71",
+      "ayahs": 4,
+      "words": 140
+    },
+    {
+      "page": 426,
+      "file": "mushaf-v4/page-426.svg",
+      "bytes": 383119,
+      "sha256": "af26c2439a6b4eb93125c135d5ed0f492ad0af9636903edd1b92ec0b4dc66895",
+      "ayahs": 8,
+      "words": 127
+    },
+    {
+      "page": 427,
+      "file": "mushaf-v4/page-427.svg",
+      "bytes": 377678,
+      "sha256": "be0a6682727a657be6e20ea9e1fbd6bcf0e180b44bce8edbe214bb19dcc19152",
+      "ayahs": 11,
+      "words": 128
+    },
+    {
+      "page": 428,
+      "file": "mushaf-v4/page-428.svg",
+      "bytes": 335693,
+      "sha256": "a61322f640c3cbe97221a7c85b0d21dc69899fedc82e77a40fb3e12b5687b7a4",
+      "ayahs": 7,
+      "words": 120
+    },
+    {
+      "page": 429,
+      "file": "mushaf-v4/page-429.svg",
+      "bytes": 379886,
+      "sha256": "a5b2abc48ab37abbc71aa452a8dbe2507bcdac37bc2a8edc4d032cc74236ba02",
+      "ayahs": 7,
+      "words": 142
+    },
+    {
+      "page": 430,
+      "file": "mushaf-v4/page-430.svg",
+      "bytes": 372217,
+      "sha256": "f5dc468f8fef61efc136a03f478416892f5003d25ca7ceba21918d6b2e522072",
+      "ayahs": 8,
+      "words": 137
+    },
+    {
+      "page": 431,
+      "file": "mushaf-v4/page-431.svg",
+      "bytes": 364982,
+      "sha256": "cf938b534c4c96abc082ff60948f6ac4677f5c76b11fc5135bbe4c53079c31e9",
+      "ayahs": 9,
+      "words": 132
+    },
+    {
+      "page": 432,
+      "file": "mushaf-v4/page-432.svg",
+      "bytes": 380993,
+      "sha256": "7d75f3d101c43d1fe6e252ced83ef0417e85ca786619fd4122c3e102c5cbfd6a",
+      "ayahs": 8,
+      "words": 136
+    },
+    {
+      "page": 433,
+      "file": "mushaf-v4/page-433.svg",
+      "bytes": 389991,
+      "sha256": "3fed2ba33f632e994d188a99469cf1c7a2c9a4ba0b9a74ea3a20974aea04e0e8",
+      "ayahs": 9,
+      "words": 148
+    },
+    {
+      "page": 434,
+      "file": "mushaf-v4/page-434.svg",
+      "bytes": 360826,
+      "sha256": "a96387c04f365b4debba1581694f54585ffbf07d2b2aa8e1bcffa71eabb50f49",
+      "ayahs": 9,
+      "words": 132
+    },
+    {
+      "page": 435,
+      "file": "mushaf-v4/page-435.svg",
+      "bytes": 414311,
+      "sha256": "21ab8cc877cb160e95a3f626ea24e7385c7a438d304e01516f5c31650230719d",
+      "ayahs": 8,
+      "words": 151
+    },
+    {
+      "page": 436,
+      "file": "mushaf-v4/page-436.svg",
+      "bytes": 370455,
+      "sha256": "2ad96f223b384adfda2a8e61f8fc4fa3a354cbae8a81e31bb892e24a9a797fef",
+      "ayahs": 7,
+      "words": 129
+    },
+    {
+      "page": 437,
+      "file": "mushaf-v4/page-437.svg",
+      "bytes": 372749,
+      "sha256": "d958684bd86521d66cfb0a8015ebdbdb9436bea69416bd36b2e73f3b4b46d958",
+      "ayahs": 12,
+      "words": 127
+    },
+    {
+      "page": 438,
+      "file": "mushaf-v4/page-438.svg",
+      "bytes": 359006,
+      "sha256": "a979c8598d684fb64ab24c91dc9b75f1cfde6748e2e3cfb52549a3b2db3d9f30",
+      "ayahs": 8,
+      "words": 128
+    },
+    {
+      "page": 439,
+      "file": "mushaf-v4/page-439.svg",
+      "bytes": 401571,
+      "sha256": "519746742b1997de8c9f36803ad235261ac99bfff35524623d730a45d97f5857",
+      "ayahs": 6,
+      "words": 151
+    },
+    {
+      "page": 440,
+      "file": "mushaf-v4/page-440.svg",
+      "bytes": 327110,
+      "sha256": "bac0bac0cbd2fef7e06a62b38384f5e96312f65ee1a97e6836b4983825871ec5",
+      "ayahs": 13,
+      "words": 108
+    },
+    {
+      "page": 441,
+      "file": "mushaf-v4/page-441.svg",
+      "bytes": 362031,
+      "sha256": "40d73250c69c4e6990d0070713eb91df1fd746813da3f9b08a33610785ee1ed6",
+      "ayahs": 15,
+      "words": 129
+    },
+    {
+      "page": 442,
+      "file": "mushaf-v4/page-442.svg",
+      "bytes": 357210,
+      "sha256": "6b1491b6dcd55c42c9a91aafcae57384149630452a00858322014f718b2af8e1",
+      "ayahs": 13,
+      "words": 129
+    },
+    {
+      "page": 443,
+      "file": "mushaf-v4/page-443.svg",
+      "bytes": 375910,
+      "sha256": "0c03f972de56782032cfc384f47fe30cc2ec31c5dc8e028639397bf8326e3516",
+      "ayahs": 14,
+      "words": 140
+    },
+    {
+      "page": 444,
+      "file": "mushaf-v4/page-444.svg",
+      "bytes": 369146,
+      "sha256": "2b001b29569a5d32b9e23704a4e7b87fe3556bc463d8f128ef0d32f9b41e7dc2",
+      "ayahs": 16,
+      "words": 122
+    },
+    {
+      "page": 445,
+      "file": "mushaf-v4/page-445.svg",
+      "bytes": 347606,
+      "sha256": "650db3709624591a41fe50e349f5cf50f28d442e3896493a0115f2d8ba6dbf74",
+      "ayahs": 13,
+      "words": 122
+    },
+    {
+      "page": 446,
+      "file": "mushaf-v4/page-446.svg",
+      "bytes": 393971,
+      "sha256": "663706b744a1833f870baeef5e7d2c4c06d0053844fecb961906aa0765a012df",
+      "ayahs": 24,
+      "words": 125
+    },
+    {
+      "page": 447,
+      "file": "mushaf-v4/page-447.svg",
+      "bytes": 396664,
+      "sha256": "5db546442ac54539d6739b02933ee70e710f4da2973743d73cacc4b988a72e4e",
+      "ayahs": 27,
+      "words": 135
+    },
+    {
+      "page": 448,
+      "file": "mushaf-v4/page-448.svg",
+      "bytes": 375325,
+      "sha256": "7fdbd67c9ca512d8b1b16988bea8830825b97b80e16cabcd8433566e0c95e438",
+      "ayahs": 25,
+      "words": 123
+    },
+    {
+      "page": 449,
+      "file": "mushaf-v4/page-449.svg",
+      "bytes": 385030,
+      "sha256": "b00342d8e9b8ba086821a6777620d1aa754d8b8e644e3a1eca41a92e84b869fd",
+      "ayahs": 26,
+      "words": 135
+    },
+    {
+      "page": 450,
+      "file": "mushaf-v4/page-450.svg",
+      "bytes": 362106,
+      "sha256": "50e6415257319ab3125824dcdd2c718386c65a4df9049575d00640216b9f9a3a",
+      "ayahs": 24,
+      "words": 106
+    },
+    {
+      "page": 451,
+      "file": "mushaf-v4/page-451.svg",
+      "bytes": 369880,
+      "sha256": "1227ea96ff4fe912728b7a0cc5ad4832c2ce3123c34f557d3a5a7dcb2642153b",
+      "ayahs": 27,
+      "words": 116
+    },
+    {
+      "page": 452,
+      "file": "mushaf-v4/page-452.svg",
+      "bytes": 372360,
+      "sha256": "2a41a3f4dad9f5353b2560ede9284fff136de08d01bf47a5880ac5b8ef2f82fa",
+      "ayahs": 29,
+      "words": 121
+    },
+    {
+      "page": 453,
+      "file": "mushaf-v4/page-453.svg",
+      "bytes": 389541,
+      "sha256": "9535bc0594437d59771122a5f051de20a7cdd7c95323bb4b610ef05461066eb6",
+      "ayahs": 16,
+      "words": 138
+    },
+    {
+      "page": 454,
+      "file": "mushaf-v4/page-454.svg",
+      "bytes": 406694,
+      "sha256": "eebd3df8e9b002b9efb03e8ea9d81f5288498bcbff3e593044f07aecb08f7361",
+      "ayahs": 10,
+      "words": 145
+    },
+    {
+      "page": 455,
+      "file": "mushaf-v4/page-455.svg",
+      "bytes": 405418,
+      "sha256": "c813405321bd7f59e685910a3663120cf2fa6f0e742f00fd0046629d8247ac99",
+      "ayahs": 16,
+      "words": 138
+    },
+    {
+      "page": 456,
+      "file": "mushaf-v4/page-456.svg",
+      "bytes": 390670,
+      "sha256": "d3792df83947f361c6d4854b4a6194a58637ded83c2b3fd58c59c2d822ceedca",
+      "ayahs": 19,
+      "words": 133
+    },
+    {
+      "page": 457,
+      "file": "mushaf-v4/page-457.svg",
+      "bytes": 405180,
+      "sha256": "0acdd09dff13c952d906766db3d8d8b3e170bd81a2151335b075419ec35fc9de",
+      "ayahs": 22,
+      "words": 149
+    },
+    {
+      "page": 458,
+      "file": "mushaf-v4/page-458.svg",
+      "bytes": 356183,
+      "sha256": "bbc527024c44807f155025bdacd43a51ae878ae40b760ad286cb867b3c1813a7",
+      "ayahs": 10,
+      "words": 118
+    },
+    {
+      "page": 459,
+      "file": "mushaf-v4/page-459.svg",
+      "bytes": 403978,
+      "sha256": "d745474d50da84a902bf272f3a54c944a150e3110378654b052ff73cec11204f",
+      "ayahs": 5,
+      "words": 146
+    },
+    {
+      "page": 460,
+      "file": "mushaf-v4/page-460.svg",
+      "bytes": 423624,
+      "sha256": "63158fcb864a032407b46a5141a00ad539ae31bca35a8cfd6cabb0480917a120",
+      "ayahs": 11,
+      "words": 150
+    },
+    {
+      "page": 461,
+      "file": "mushaf-v4/page-461.svg",
+      "bytes": 385609,
+      "sha256": "19d089ed0e19e78ff017adb23b3d0499139692ade8f9f1205a07d588a1b6a4f6",
+      "ayahs": 10,
+      "words": 137
+    },
+    {
+      "page": 462,
+      "file": "mushaf-v4/page-462.svg",
+      "bytes": 348793,
+      "sha256": "a12acd621f621f84687fc6cc46568848413392c8d82899a1ebf245c5e37519c1",
+      "ayahs": 9,
+      "words": 123
+    },
+    {
+      "page": 463,
+      "file": "mushaf-v4/page-463.svg",
+      "bytes": 361648,
+      "sha256": "28f4a61072ae98c2eb45c78e076cda662ec5a3f55f7645feb4d22517024f8e41",
+      "ayahs": 7,
+      "words": 129
+    },
+    {
+      "page": 464,
+      "file": "mushaf-v4/page-464.svg",
+      "bytes": 368945,
+      "sha256": "f64c54c365adc9ab213b2452f6d6f62df61c9fbd6fef0de7f4695b8bb76b27ae",
+      "ayahs": 9,
+      "words": 137
+    },
+    {
+      "page": 465,
+      "file": "mushaf-v4/page-465.svg",
+      "bytes": 360712,
+      "sha256": "d8d178f458a19a2cc2774e0d76255cc5e1659c5a08ddb7f366c00f10d8878f34",
+      "ayahs": 11,
+      "words": 120
+    },
+    {
+      "page": 466,
+      "file": "mushaf-v4/page-466.svg",
+      "bytes": 372123,
+      "sha256": "d387800f0891815faef425b654d2a5d1b1a0c04d1be6ede08cb79000f688f935",
+      "ayahs": 7,
+      "words": 125
+    },
+    {
+      "page": 467,
+      "file": "mushaf-v4/page-467.svg",
+      "bytes": 347447,
+      "sha256": "83ac2dd84c0a1e573827c3b3b3ecfe0e4c52333c1c17d66726eaafa98f6e7512",
+      "ayahs": 8,
+      "words": 109
+    },
+    {
+      "page": 468,
+      "file": "mushaf-v4/page-468.svg",
+      "bytes": 364343,
+      "sha256": "f7c48ac05d7edd03709b8094c3fcff63a6c12934c83927b01ec3e33c03f48daf",
+      "ayahs": 9,
+      "words": 124
+    },
+    {
+      "page": 469,
+      "file": "mushaf-v4/page-469.svg",
+      "bytes": 363340,
+      "sha256": "48f631b4f9fce4f92fd37cf30556664283276f35e810505d7d7f876e037fb20e",
+      "ayahs": 9,
+      "words": 124
+    },
+    {
+      "page": 470,
+      "file": "mushaf-v4/page-470.svg",
+      "bytes": 372395,
+      "sha256": "f554b7b25cf9c538c0cfdc45351a3cab2a305f3798f213e836df89a8a27f1d7a",
+      "ayahs": 8,
+      "words": 142
+    },
+    {
+      "page": 471,
+      "file": "mushaf-v4/page-471.svg",
+      "bytes": 350248,
+      "sha256": "f6954f443d5b30b1f36b2a3a4030a373c7d420fff12ba9d467aee14e4fb29b54",
+      "ayahs": 7,
+      "words": 127
+    },
+    {
+      "page": 472,
+      "file": "mushaf-v4/page-472.svg",
+      "bytes": 348348,
+      "sha256": "20da71d26f4e22970df7c55c470f04a93d33562d124d799529837b7379561fba",
+      "ayahs": 9,
+      "words": 125
+    },
+    {
+      "page": 473,
+      "file": "mushaf-v4/page-473.svg",
+      "bytes": 337837,
+      "sha256": "9fdbd0255a8c6c82ed125f8f595c361e877c469e0812ecfcb8ca30e7ea647c37",
+      "ayahs": 9,
+      "words": 109
+    },
+    {
+      "page": 474,
+      "file": "mushaf-v4/page-474.svg",
+      "bytes": 338148,
+      "sha256": "bcd88d5c7ef1a054859617360b02e20478eb32828060da3cfa55c57f48943bf2",
+      "ayahs": 8,
+      "words": 118
+    },
+    {
+      "page": 475,
+      "file": "mushaf-v4/page-475.svg",
+      "bytes": 371409,
+      "sha256": "15434098939f37abfce72f02d41df641827986f3d7ee7f427196be97f2965c28",
+      "ayahs": 11,
+      "words": 130
+    },
+    {
+      "page": 476,
+      "file": "mushaf-v4/page-476.svg",
+      "bytes": 352038,
+      "sha256": "3a7cf7ed3f7ae64e0f65ae546dd3a80f3435bfae75e298fc7daaab26b82b33b0",
+      "ayahs": 8,
+      "words": 128
+    },
+    {
+      "page": 477,
+      "file": "mushaf-v4/page-477.svg",
+      "bytes": 362336,
+      "sha256": "58886005d36fc7ed8030740bd2fcac91970ac75a8a208e4482971cd6fb3d925c",
+      "ayahs": 11,
+      "words": 114
+    },
+    {
+      "page": 478,
+      "file": "mushaf-v4/page-478.svg",
+      "bytes": 397479,
+      "sha256": "9f0059f50f0a758dd28b3ceae9a68094c962c1d500abd90170ed9782a6609aeb",
+      "ayahs": 9,
+      "words": 134
+    },
+    {
+      "page": 479,
+      "file": "mushaf-v4/page-479.svg",
+      "bytes": 394034,
+      "sha256": "53b37a13a8492530295454307aa5d7f0227a9a1300c5a9490fc3b85ac75747f4",
+      "ayahs": 9,
+      "words": 134
+    },
+    {
+      "page": 480,
+      "file": "mushaf-v4/page-480.svg",
+      "bytes": 363884,
+      "sha256": "35fe89bf5fd6b176180198f8862b0beb088cf61a70e35ecede31416cdc86bb8c",
+      "ayahs": 9,
+      "words": 122
+    },
+    {
+      "page": 481,
+      "file": "mushaf-v4/page-481.svg",
+      "bytes": 400449,
+      "sha256": "365e3d6b756f3e5681518d62295a6e4b32621f4a12e7d1fbc53b11ee445e149b",
+      "ayahs": 8,
+      "words": 146
+    },
+    {
+      "page": 482,
+      "file": "mushaf-v4/page-482.svg",
+      "bytes": 373354,
+      "sha256": "2cb2088166f95282ab916075abab5424654e1a375fdcfb49aea003a995bc0837",
+      "ayahs": 8,
+      "words": 144
+    },
+    {
+      "page": 483,
+      "file": "mushaf-v4/page-483.svg",
+      "bytes": 374874,
+      "sha256": "39bc825748621a6f6ec82e66cde905b8511fc2af92ca1d962d05ace6927a0f9d",
+      "ayahs": 10,
+      "words": 125
+    },
+    {
+      "page": 484,
+      "file": "mushaf-v4/page-484.svg",
+      "bytes": 391844,
+      "sha256": "2cee3b1bb659852797a14b662b2da4c671deeb10184ae1843afd4e616e49f09e",
+      "ayahs": 5,
+      "words": 134
+    },
+    {
+      "page": 485,
+      "file": "mushaf-v4/page-485.svg",
+      "bytes": 361414,
+      "sha256": "e95828fc7554e65b899377cde6f5b227b2c077f34af5ff22143a01a6b67993ca",
+      "ayahs": 7,
+      "words": 128
+    },
+    {
+      "page": 486,
+      "file": "mushaf-v4/page-486.svg",
+      "bytes": 403197,
+      "sha256": "28b69563ebd90331325c61a039a5a088bdb1b105c981d65ea11b4897314dbdad",
+      "ayahs": 9,
+      "words": 145
+    },
+    {
+      "page": 487,
+      "file": "mushaf-v4/page-487.svg",
+      "bytes": 416964,
+      "sha256": "0a5d74bc7361e0c4bdbfd05e1d855f67fd74a7a1778d354ce0bd3aec97f1dfb6",
+      "ayahs": 13,
+      "words": 147
+    },
+    {
+      "page": 488,
+      "file": "mushaf-v4/page-488.svg",
+      "bytes": 383898,
+      "sha256": "ec3a759fa5e80a38a405775fb28fc83f63106d2ac3657ab16936fb92ef532d2c",
+      "ayahs": 7,
+      "words": 139
+    },
+    {
+      "page": 489,
+      "file": "mushaf-v4/page-489.svg",
+      "bytes": 329322,
+      "sha256": "cd77fd872fc77a5c238f3ef5324b924bfeeaf6092cee846d44dee29df3373038",
+      "ayahs": 12,
+      "words": 108
+    },
+    {
+      "page": 490,
+      "file": "mushaf-v4/page-490.svg",
+      "bytes": 372225,
+      "sha256": "537b73f8010316ebc46054a4eb0889c3059991e758b75987703c76d14c257bf4",
+      "ayahs": 12,
+      "words": 130
+    },
+    {
+      "page": 491,
+      "file": "mushaf-v4/page-491.svg",
+      "bytes": 395262,
+      "sha256": "2771abfad800ac82a88719062779af1399fd9c66b1743f772d16fb08c3d824bf",
+      "ayahs": 11,
+      "words": 133
+    },
+    {
+      "page": 492,
+      "file": "mushaf-v4/page-492.svg",
+      "bytes": 374237,
+      "sha256": "e29a953ea3e79fb7fe458c22f8edd0e22659aa245c8b5a30fc9cabe4a38d1ed3",
+      "ayahs": 14,
+      "words": 125
+    },
+    {
+      "page": 493,
+      "file": "mushaf-v4/page-493.svg",
+      "bytes": 365075,
+      "sha256": "db4bb84befba092a234943c96a960074b75fa2e5814d8079896d0833c9ac70ca",
+      "ayahs": 13,
+      "words": 128
+    },
+    {
+      "page": 494,
+      "file": "mushaf-v4/page-494.svg",
+      "bytes": 374113,
+      "sha256": "b43a982e53b4cbf98908e41688895975d2d23294dc31ae4f7d85fc7eb0a9181d",
+      "ayahs": 13,
+      "words": 117
+    },
+    {
+      "page": 495,
+      "file": "mushaf-v4/page-495.svg",
+      "bytes": 385048,
+      "sha256": "63fb84eb025780643ff4fe8e0ec6a389f268cbcf7229d189b1d86b488499ad0e",
+      "ayahs": 16,
+      "words": 131
+    },
+    {
+      "page": 496,
+      "file": "mushaf-v4/page-496.svg",
+      "bytes": 351212,
+      "sha256": "f39ad67cb78174b53ed74a0e8d13f1ee7ac3eaf3176c24149a58b3be2cf19e71",
+      "ayahs": 18,
+      "words": 111
+    },
+    {
+      "page": 497,
+      "file": "mushaf-v4/page-497.svg",
+      "bytes": 386861,
+      "sha256": "8ce334c6661528a4d843a0c42034e2388cf453d4a1b4f6904c3b4a3faf00504e",
+      "ayahs": 21,
+      "words": 131
+    },
+    {
+      "page": 498,
+      "file": "mushaf-v4/page-498.svg",
+      "bytes": 313858,
+      "sha256": "49efe444d9404a4c147d9202b3a1d0cdbd3d9419f85f4cfad689752e8069af46",
+      "ayahs": 20,
+      "words": 104
+    },
+    {
+      "page": 499,
+      "file": "mushaf-v4/page-499.svg",
+      "bytes": 413904,
+      "sha256": "b19e3dfadbf34f643eb535301bf1652f629bf386f7bec949615c6dd04e2420b2",
+      "ayahs": 13,
+      "words": 143
+    },
+    {
+      "page": 500,
+      "file": "mushaf-v4/page-500.svg",
+      "bytes": 382121,
+      "sha256": "10b1e9ad258cdc8b5b4f660242fce35aa49320fd6f82dc59c9f5e952ff0fb3d0",
+      "ayahs": 9,
+      "words": 127
+    },
+    {
+      "page": 501,
+      "file": "mushaf-v4/page-501.svg",
+      "bytes": 435462,
+      "sha256": "87f910cd8b0407bbfff75cd8050f33481cba7daa36dd378e0f3bab572e960b3c",
+      "ayahs": 10,
+      "words": 161
+    },
+    {
+      "page": 502,
+      "file": "mushaf-v4/page-502.svg",
+      "bytes": 374601,
+      "sha256": "02207039a2d1ab32cfe5bb46fbd55e340832ef347d1b9f9ce807cf6b8b2ca407",
+      "ayahs": 10,
+      "words": 126
+    },
+    {
+      "page": 503,
+      "file": "mushaf-v4/page-503.svg",
+      "bytes": 400002,
+      "sha256": "2ef9d5231bd0b23ba660e8ce19e614bacb8ee1c08726bdaafa5668ff0096ffe8",
+      "ayahs": 9,
+      "words": 153
+    },
+    {
+      "page": 504,
+      "file": "mushaf-v4/page-504.svg",
+      "bytes": 406469,
+      "sha256": "6b7234ca31832482d0a6d1ed5683b630fb4bb3294e5625d45b3018882e71b991",
+      "ayahs": 6,
+      "words": 144
+    },
+    {
+      "page": 505,
+      "file": "mushaf-v4/page-505.svg",
+      "bytes": 386553,
+      "sha256": "edddbd4faf4679f3ccadc43738a7dbeae36cf37fdb4de8e3f3feca06686200cd",
+      "ayahs": 8,
+      "words": 141
+    },
+    {
+      "page": 506,
+      "file": "mushaf-v4/page-506.svg",
+      "bytes": 369643,
+      "sha256": "4cf219f0193a96607f4125d9bac404447aec0405998edef8a65020416e539ead",
+      "ayahs": 7,
+      "words": 136
+    },
+    {
+      "page": 507,
+      "file": "mushaf-v4/page-507.svg",
+      "bytes": 419543,
+      "sha256": "fd5533a7da9a02f47f4f3bc5cf8290a462a8033d8fc40c4cf60a3f72fc3e2e64",
+      "ayahs": 11,
+      "words": 139
+    },
+    {
+      "page": 508,
+      "file": "mushaf-v4/page-508.svg",
+      "bytes": 430650,
+      "sha256": "41f0133bee9161c40db8dda6b013c3450bf906e76cb996bce66fcd92f76d20e7",
+      "ayahs": 8,
+      "words": 152
+    },
+    {
+      "page": 509,
+      "file": "mushaf-v4/page-509.svg",
+      "bytes": 365818,
+      "sha256": "cccb6d5a820cc6442f28dcaaa41843ddbdc0b7740830b4380ef83bed1a703c31",
+      "ayahs": 10,
+      "words": 122
+    },
+    {
+      "page": 510,
+      "file": "mushaf-v4/page-510.svg",
+      "bytes": 395564,
+      "sha256": "46deb6844bb522c86272b1f78e1a322b8421b9d15af8bed36887e67fcc009625",
+      "ayahs": 9,
+      "words": 126
+    },
+    {
+      "page": 511,
+      "file": "mushaf-v4/page-511.svg",
+      "bytes": 352439,
+      "sha256": "e84136d35bc6cabdf5b87d6c77e3cd2bc84785773a565a3e9e55c863e30b13f3",
+      "ayahs": 9,
+      "words": 104
+    },
+    {
+      "page": 512,
+      "file": "mushaf-v4/page-512.svg",
+      "bytes": 374772,
+      "sha256": "a9c731d134fd26b9003b64997a64117696b39881d4bb0dd67d12a133857693ad",
+      "ayahs": 6,
+      "words": 136
+    },
+    {
+      "page": 513,
+      "file": "mushaf-v4/page-513.svg",
+      "bytes": 380797,
+      "sha256": "e1e6e44483cd8aaf64eb77a691a9480d9ede559cdd200ebdfe73601ded25fb05",
+      "ayahs": 8,
+      "words": 137
+    },
+    {
+      "page": 514,
+      "file": "mushaf-v4/page-514.svg",
+      "bytes": 369991,
+      "sha256": "63fde2eead4b004300bf4e113f7ac30b594b045158c50ed4b7583e0e25e4938c",
+      "ayahs": 5,
+      "words": 129
+    },
+    {
+      "page": 515,
+      "file": "mushaf-v4/page-515.svg",
+      "bytes": 374940,
+      "sha256": "0c4c9c787cea42ccee1ec84daae04efce0cb7ce134b8f068f583451a33d220fd",
+      "ayahs": 5,
+      "words": 117
+    },
+    {
+      "page": 516,
+      "file": "mushaf-v4/page-516.svg",
+      "bytes": 419943,
+      "sha256": "70011fcc0945cb2408a77dcee8e0129e05c7d2ace16e3f055ab5ae3a154dfd06",
+      "ayahs": 7,
+      "words": 143
+    },
+    {
+      "page": 517,
+      "file": "mushaf-v4/page-517.svg",
+      "bytes": 405288,
+      "sha256": "f4baa523643853a641a6db88b72f3e83ae5500f7bc24dd6dfde3220a752aa042",
+      "ayahs": 7,
+      "words": 141
+    },
+    {
+      "page": 518,
+      "file": "mushaf-v4/page-518.svg",
+      "bytes": 358810,
+      "sha256": "70c3fa14e11192ba4201ec257916a9472ee7c3eb630d051be6b2ef16ef5083fa",
+      "ayahs": 15,
+      "words": 120
+    },
+    {
+      "page": 519,
+      "file": "mushaf-v4/page-519.svg",
+      "bytes": 404452,
+      "sha256": "3328cbb0f148a87a12290f6a1eea8ad80e01245b1e5c7c823a07895b4f55f023",
+      "ayahs": 20,
+      "words": 153
+    },
+    {
+      "page": 520,
+      "file": "mushaf-v4/page-520.svg",
+      "bytes": 342868,
+      "sha256": "be2533833c74b633c65c20dca2bbf53ff8f375bbcd0e244cf3fc46a00d2ab225",
+      "ayahs": 16,
+      "words": 114
+    },
+    {
+      "page": 521,
+      "file": "mushaf-v4/page-521.svg",
+      "bytes": 397432,
+      "sha256": "6fc72ec1d1d6d92a5a6aa888d7992753b6e64a14b8c0f8133ef79f92a95b1ce4",
+      "ayahs": 24,
+      "words": 136
+    },
+    {
+      "page": 522,
+      "file": "mushaf-v4/page-522.svg",
+      "bytes": 388832,
+      "sha256": "70833cbfc07bddd5cb2dc0b5e75a3012c94f9e8f164428b9fa992e1f1317ba46",
+      "ayahs": 21,
+      "words": 143
+    },
+    {
+      "page": 523,
+      "file": "mushaf-v4/page-523.svg",
+      "bytes": 343908,
+      "sha256": "26d5ac3a406150913e80376b7f8fe1abf453f49123ee593a7417a4614adceab7",
+      "ayahs": 23,
+      "words": 114
+    },
+    {
+      "page": 524,
+      "file": "mushaf-v4/page-524.svg",
+      "bytes": 391757,
+      "sha256": "4e026293182549e28a89a10ef7d0de7855101edcc52e8e79f7ceae077df408bf",
+      "ayahs": 17,
+      "words": 131
+    },
+    {
+      "page": 525,
+      "file": "mushaf-v4/page-525.svg",
+      "bytes": 387750,
+      "sha256": "6e0b12eca7b6418edbae36a7b442e7dc54791a4407ba427b8c879931976387ea",
+      "ayahs": 18,
+      "words": 134
+    },
+    {
+      "page": 526,
+      "file": "mushaf-v4/page-526.svg",
+      "bytes": 383918,
+      "sha256": "1f88217dea0b5eecb03105479200c2531b29021912f1e8234ae73bed2ec9d604",
+      "ayahs": 26,
+      "words": 138
+    },
+    {
+      "page": 527,
+      "file": "mushaf-v4/page-527.svg",
+      "bytes": 407657,
+      "sha256": "66bac8eed7239d7888317d78b792443f042d4c3e368f6062a41638622a992a0d",
+      "ayahs": 18,
+      "words": 151
+    },
+    {
+      "page": 528,
+      "file": "mushaf-v4/page-528.svg",
+      "bytes": 360687,
+      "sha256": "bfef225c64f48220d1c56f7e9987886029619790c52c0b6797bf7bb475cab6c2",
+      "ayahs": 24,
+      "words": 108
+    },
+    {
+      "page": 529,
+      "file": "mushaf-v4/page-529.svg",
+      "bytes": 398737,
+      "sha256": "c25ba9290c937d6855ac22200e29e561e719ab40e8b9daaf85732dba4ee43563",
+      "ayahs": 21,
+      "words": 138
+    },
+    {
+      "page": 530,
+      "file": "mushaf-v4/page-530.svg",
+      "bytes": 401148,
+      "sha256": "7ef26a00bde93002b06ad87b98f93b3199b3bdfc1abc21190cff75ee6caf040c",
+      "ayahs": 22,
+      "words": 135
+    },
+    {
+      "page": 531,
+      "file": "mushaf-v4/page-531.svg",
+      "bytes": 336791,
+      "sha256": "bf37d8f92523657b8f87ab2c39e06cad8d3b382247cafa49309606124b4b58a8",
+      "ayahs": 24,
+      "words": 98
+    },
+    {
+      "page": 532,
+      "file": "mushaf-v4/page-532.svg",
+      "bytes": 389153,
+      "sha256": "8548eddc2692afe63f413e5af0f3a406caa7ea95e264190cda2009beb51ceb4d",
+      "ayahs": 23,
+      "words": 125
+    },
+    {
+      "page": 533,
+      "file": "mushaf-v4/page-533.svg",
+      "bytes": 373094,
+      "sha256": "5e69f44036c0b2154153944e37b7c1c936d23e879ef5cad6a314c8201edc692e",
+      "ayahs": 28,
+      "words": 119
+    },
+    {
+      "page": 534,
+      "file": "mushaf-v4/page-534.svg",
+      "bytes": 326770,
+      "sha256": "2787f2488ba45a78c36bf1f45c1772604f7bcb65558c8e0a5a565e0032744040",
+      "ayahs": 25,
+      "words": 91
+    },
+    {
+      "page": 535,
+      "file": "mushaf-v4/page-535.svg",
+      "bytes": 382797,
+      "sha256": "9a76bb3b6713712845ba81ad850e5c251c590ef53775728e43fff419427c937e",
+      "ayahs": 34,
+      "words": 122
+    },
+    {
+      "page": 536,
+      "file": "mushaf-v4/page-536.svg",
+      "bytes": 390211,
+      "sha256": "1765f11be0f281b18da8b3366f765655b44b921c7aca026ee5981faa092e91cd",
+      "ayahs": 26,
+      "words": 122
+    },
+    {
+      "page": 537,
+      "file": "mushaf-v4/page-537.svg",
+      "bytes": 358219,
+      "sha256": "0a01be752dbe2e33fb8f59b16be7ee6f218a315d89cc7017c2f15fe2f0ff84f4",
+      "ayahs": 23,
+      "words": 114
+    },
+    {
+      "page": 538,
+      "file": "mushaf-v4/page-538.svg",
+      "bytes": 419099,
+      "sha256": "017895cd15483e9ddd6de02c1294f1c7a923ecdb03b67edaa07ded4cb002e1d4",
+      "ayahs": 8,
+      "words": 152
+    },
+    {
+      "page": 539,
+      "file": "mushaf-v4/page-539.svg",
+      "bytes": 422130,
+      "sha256": "64c24a3851d1d435b78ffe6c1fed21db52380d597ae844088cbe7db780f332f6",
+      "ayahs": 7,
+      "words": 137
+    },
+    {
+      "page": 540,
+      "file": "mushaf-v4/page-540.svg",
+      "bytes": 397752,
+      "sha256": "31d9ab4bd6cba9b15b991a7fab82f499d455918f9b6e3ce909383f40d537d96b",
+      "ayahs": 6,
+      "words": 132
+    },
+    {
+      "page": 541,
+      "file": "mushaf-v4/page-541.svg",
+      "bytes": 379065,
+      "sha256": "334acd02103a2bf11df4836d1e1bd66067b5fe930c1c566ff05c4e532eef7bc3",
+      "ayahs": 5,
+      "words": 124
+    },
+    {
+      "page": 542,
+      "file": "mushaf-v4/page-542.svg",
+      "bytes": 371847,
+      "sha256": "5fbdec3949b7ecb8623ad85a4431a53519391ab1d9c3c032e08059e847a65ccb",
+      "ayahs": 6,
+      "words": 121
+    },
+    {
+      "page": 543,
+      "file": "mushaf-v4/page-543.svg",
+      "bytes": 413121,
+      "sha256": "4f64994fd5553b709ac710399adf74fa83ec6d17b80c0f3d88eb238cd033d798",
+      "ayahs": 5,
+      "words": 151
+    },
+    {
+      "page": 544,
+      "file": "mushaf-v4/page-544.svg",
+      "bytes": 420639,
+      "sha256": "3739ccaea5c4c16c4641caaef56d680faff22c9c578d7799457c47fc34403601",
+      "ayahs": 10,
+      "words": 149
+    },
+    {
+      "page": 545,
+      "file": "mushaf-v4/page-545.svg",
+      "bytes": 355595,
+      "sha256": "feb3b30f47da4924c049d17a2787d4212459970814d2200b191be2141f9904eb",
+      "ayahs": 4,
+      "words": 116
+    },
+    {
+      "page": 546,
+      "file": "mushaf-v4/page-546.svg",
+      "bytes": 388242,
+      "sha256": "bec22ad4d62151bedaa0a4846e81dcdc4a8f4fe07c91dbd701c815551c6dd34c",
+      "ayahs": 6,
+      "words": 136
+    },
+    {
+      "page": 547,
+      "file": "mushaf-v4/page-547.svg",
+      "bytes": 370718,
+      "sha256": "401810c9fffb4f9f4809d553ce7f17d8913612f8746703b1aaa3eff2a07e87f1",
+      "ayahs": 7,
+      "words": 130
+    },
+    {
+      "page": 548,
+      "file": "mushaf-v4/page-548.svg",
+      "bytes": 353786,
+      "sha256": "665fcab1199f9b2b13b341d2c14ac73cf61ead12bc06304b4d71cec092636490",
+      "ayahs": 8,
+      "words": 114
+    },
+    {
+      "page": 549,
+      "file": "mushaf-v4/page-549.svg",
+      "bytes": 411946,
+      "sha256": "29b204f13a7dfab7a5d650e3901a4f4a36e7e996564a4ed41afeff99e9c95dc8",
+      "ayahs": 5,
+      "words": 139
+    },
+    {
+      "page": 550,
+      "file": "mushaf-v4/page-550.svg",
+      "bytes": 442611,
+      "sha256": "fd58300f289f43fc865fd88a4d25037a1bb91e60ac6e790ac0d3a20dcc8c9d72",
+      "ayahs": 6,
+      "words": 152
+    },
+    {
+      "page": 551,
+      "file": "mushaf-v4/page-551.svg",
+      "bytes": 346717,
+      "sha256": "846da7ba60b79017efd90e3b3e8722859297582d30c637d151007e34409c8e04",
+      "ayahs": 7,
+      "words": 119
+    },
+    {
+      "page": 552,
+      "file": "mushaf-v4/page-552.svg",
+      "bytes": 443211,
+      "sha256": "feff62d844aa2ec1401c72e3f7dbf60e61d1bca435a16ccf910ff019e961c790",
+      "ayahs": 9,
+      "words": 159
+    },
+    {
+      "page": 553,
+      "file": "mushaf-v4/page-553.svg",
+      "bytes": 362054,
+      "sha256": "25294518d020eefa114e6907211b72df062eb1c78c72061f453e4092a8af65cf",
+      "ayahs": 8,
+      "words": 118
+    },
+    {
+      "page": 554,
+      "file": "mushaf-v4/page-554.svg",
+      "bytes": 376235,
+      "sha256": "10c437a278af97bddc1537424def5b98ba458049a036f3bbdb66d584df3c14c0",
+      "ayahs": 7,
+      "words": 119
+    },
+    {
+      "page": 555,
+      "file": "mushaf-v4/page-555.svg",
+      "bytes": 342067,
+      "sha256": "a9dbef1deec9be1ef8539d466407737116a77acfe935c8751d9e402e8d89fc3e",
+      "ayahs": 7,
+      "words": 118
+    },
+    {
+      "page": 556,
+      "file": "mushaf-v4/page-556.svg",
+      "bytes": 405015,
+      "sha256": "20aac90aaa93d32b9789ec10a46676eb828f1efbf7292046cdda4a3ba511196d",
+      "ayahs": 9,
+      "words": 135
+    },
+    {
+      "page": 557,
+      "file": "mushaf-v4/page-557.svg",
+      "bytes": 339061,
+      "sha256": "137c3910e973084b2d1d4bbd2e59369242e41d17b697865e2a5a59caa8c5f04e",
+      "ayahs": 9,
+      "words": 106
+    },
+    {
+      "page": 558,
+      "file": "mushaf-v4/page-558.svg",
+      "bytes": 395259,
+      "sha256": "9cbb852fc89d70b69b51dad689b4ed1c7e6199045b587b25eb084ddcf9c0cd26",
+      "ayahs": 5,
+      "words": 134
+    },
+    {
+      "page": 559,
+      "file": "mushaf-v4/page-559.svg",
+      "bytes": 418510,
+      "sha256": "aab38270335dd793f0f40bd4bb1be2d45ef0e16d96a9334459e6137ddfb8627d",
+      "ayahs": 7,
+      "words": 153
+    },
+    {
+      "page": 560,
+      "file": "mushaf-v4/page-560.svg",
+      "bytes": 380346,
+      "sha256": "84eac3eedadc5c7c2d827d28f1ac3225915b55986154db86873721484df33967",
+      "ayahs": 7,
+      "words": 125
+    },
+    {
+      "page": 561,
+      "file": "mushaf-v4/page-561.svg",
+      "bytes": 353086,
+      "sha256": "91b08d86ffe71f6cd89dc129cf8f1a49d67895e526f5930a6985b0f735b38377",
+      "ayahs": 5,
+      "words": 124
+    },
+    {
+      "page": 562,
+      "file": "mushaf-v4/page-562.svg",
+      "bytes": 377356,
+      "sha256": "3c05e518e6a354dea28d34e1c10746c9650afcefa1cf644fcdd4383af2cc4524",
+      "ayahs": 12,
+      "words": 131
+    },
+    {
+      "page": 563,
+      "file": "mushaf-v4/page-563.svg",
+      "bytes": 406773,
+      "sha256": "6a0732017cf3aac7e36067e684f02046221e6b1fbdc2fefc5793e79dd6f61345",
+      "ayahs": 14,
+      "words": 151
+    },
+    {
+      "page": 564,
+      "file": "mushaf-v4/page-564.svg",
+      "bytes": 347223,
+      "sha256": "29d92c4e817f2509faa33e1b4256f2ca1a0f88e11e6851f9fb695682e083bd26",
+      "ayahs": 20,
+      "words": 122
+    },
+    {
+      "page": 565,
+      "file": "mushaf-v4/page-565.svg",
+      "bytes": 419743,
+      "sha256": "635d8d08207b3ef25ac713ff009b1cb6cf84fadfc80f33137b78abe7f71fc00b",
+      "ayahs": 26,
+      "words": 148
+    },
+    {
+      "page": 566,
+      "file": "mushaf-v4/page-566.svg",
+      "bytes": 372993,
+      "sha256": "0b778804955342e1a2753b63a17b26c128b0dc47249c8be037d58e818386e1a8",
+      "ayahs": 18,
+      "words": 122
+    },
+    {
+      "page": 567,
+      "file": "mushaf-v4/page-567.svg",
+      "bytes": 411008,
+      "sha256": "e39719d3ffbd613675267b5d408a2d06265c489e2e7eb943dd95258ebcfa9763",
+      "ayahs": 27,
+      "words": 143
+    },
+    {
+      "page": 568,
+      "file": "mushaf-v4/page-568.svg",
+      "bytes": 350287,
+      "sha256": "758f99a9c4d318b6f410617f28c74927deb472e1c52a1aa210ceab1f037708b3",
+      "ayahs": 27,
+      "words": 116
+    },
+    {
+      "page": 569,
+      "file": "mushaf-v4/page-569.svg",
+      "bytes": 412137,
+      "sha256": "37dbc169ae31628fd2b2f73608da893adb3992586d908613f3f1953bdbaafb3b",
+      "ayahs": 30,
+      "words": 141
+    },
+    {
+      "page": 570,
+      "file": "mushaf-v4/page-570.svg",
+      "bytes": 364428,
+      "sha256": "f0b3a005910abf87299438167892bd999e62d7f5b1d3c5f8736d47153782af2c",
+      "ayahs": 14,
+      "words": 120
+    },
+    {
+      "page": 571,
+      "file": "mushaf-v4/page-571.svg",
+      "bytes": 378148,
+      "sha256": "7a4ae7c443826740954ee04290f480a451bdfbe5e7e6e14049d03275839d37ed",
+      "ayahs": 18,
+      "words": 140
+    },
+    {
+      "page": 572,
+      "file": "mushaf-v4/page-572.svg",
+      "bytes": 362364,
+      "sha256": "55bb2e1500dc9846a8c1bc9d0e3269f30664e89a5ce5ca429c6ca3964b539582",
+      "ayahs": 13,
+      "words": 136
+    },
+    {
+      "page": 573,
+      "file": "mushaf-v4/page-573.svg",
+      "bytes": 377233,
+      "sha256": "e3632046703af04c10e88776cf4ed7a7f0911b8d28743ff84d140b2887df3cd6",
+      "ayahs": 15,
+      "words": 149
+    },
+    {
+      "page": 574,
+      "file": "mushaf-v4/page-574.svg",
+      "bytes": 358335,
+      "sha256": "76518e0e015f6da6c670b648ad3447c46a64b017a1991cc111548ea663ec4a70",
+      "ayahs": 19,
+      "words": 121
+    },
+    {
+      "page": 575,
+      "file": "mushaf-v4/page-575.svg",
+      "bytes": 392705,
+      "sha256": "ade4670054c142ef8e4c2b57b7246ea07b8d90c710d4928e0ce00c178b308c2f",
+      "ayahs": 19,
+      "words": 132
+    },
+    {
+      "page": 576,
+      "file": "mushaf-v4/page-576.svg",
+      "bytes": 407661,
+      "sha256": "ee18fdfe84907e3d72c187f506b6c3d91cfc7091787322db1b473c801eecef39",
+      "ayahs": 29,
+      "words": 155
+    },
+    {
+      "page": 577,
+      "file": "mushaf-v4/page-577.svg",
+      "bytes": 378599,
+      "sha256": "0b0853f349533bf12ac249ba3dd906022aa4ace68bfc0732e545d75aec9b9cc5",
+      "ayahs": 28,
+      "words": 126
+    },
+    {
+      "page": 578,
+      "file": "mushaf-v4/page-578.svg",
+      "bytes": 368540,
+      "sha256": "366e4b3816a76664f8aa6bc8fa35fff2ff087b943a86ab21c1a1d8adbe06f99a",
+      "ayahs": 26,
+      "words": 126
+    },
+    {
+      "page": 579,
+      "file": "mushaf-v4/page-579.svg",
+      "bytes": 415229,
+      "sha256": "4ff4308cbe609ddad242a4b6be2c9984a2f25c6c5dc41ae8e2f41e85e0cf5b75",
+      "ayahs": 20,
+      "words": 147
+    },
+    {
+      "page": 580,
+      "file": "mushaf-v4/page-580.svg",
+      "bytes": 356790,
+      "sha256": "2a486b007112d7e9e797f0d4cb9392734f3dc6930d4cd31dd526e986cd0d6e33",
+      "ayahs": 25,
+      "words": 107
+    },
+    {
+      "page": 581,
+      "file": "mushaf-v4/page-581.svg",
+      "bytes": 392375,
+      "sha256": "41e86ddbaf4121e4339411e67934435d167e520a4021d2c248a031f7713ab42a",
+      "ayahs": 31,
+      "words": 128
+    },
+    {
+      "page": 582,
+      "file": "mushaf-v4/page-582.svg",
+      "bytes": 327773,
+      "sha256": "9d268eec709a39d98988e5bcc81655eeb71f0f493952ffb62a280838248fc70f",
+      "ayahs": 30,
+      "words": 105
+    },
+    {
+      "page": 583,
+      "file": "mushaf-v4/page-583.svg",
+      "bytes": 380525,
+      "sha256": "70bd7c1546185f950026f3bb160ed004840cea6857c3ba38457555094c45e225",
+      "ayahs": 26,
+      "words": 119
+    },
+    {
+      "page": 584,
+      "file": "mushaf-v4/page-584.svg",
+      "bytes": 359022,
+      "sha256": "33e375679d6ba16d178c60ba2594a00f7fb0b3dd80b9bcfecb6e90ce2b394cf2",
+      "ayahs": 30,
+      "words": 128
+    },
+    {
+      "page": 585,
+      "file": "mushaf-v4/page-585.svg",
+      "bytes": 387228,
+      "sha256": "e9c70947081a8e528e66b65c611ab6a6e70f18296709b7d9b6b73b7a6c61b024",
+      "ayahs": 40,
+      "words": 127
+    },
+    {
+      "page": 586,
+      "file": "mushaf-v4/page-586.svg",
+      "bytes": 351457,
+      "sha256": "8a7a52b9b32bbf235ad7661ffccb60ebe9804ceb28cf1f3ede89f09c25a40479",
+      "ayahs": 31,
+      "words": 110
+    },
+    {
+      "page": 587,
+      "file": "mushaf-v4/page-587.svg",
+      "bytes": 325012,
+      "sha256": "9c19f3680a81f940fea456aea7fc61a1938d155cdc12b4e8a5cee5fc67e62db2",
+      "ayahs": 23,
+      "words": 98
+    },
+    {
+      "page": 588,
+      "file": "mushaf-v4/page-588.svg",
+      "bytes": 400661,
+      "sha256": "51f491c7164cb2ac7b8c2a2e75bb60061464f761b9f5ac1c26e0ca2d0d984a4f",
+      "ayahs": 29,
+      "words": 136
+    },
+    {
+      "page": 589,
+      "file": "mushaf-v4/page-589.svg",
+      "bytes": 346723,
+      "sha256": "2b45d8b3307284a6029b6ea6c45b4251f1ba746880025fc6adbfb81e4c575bb8",
+      "ayahs": 27,
+      "words": 113
+    },
+    {
+      "page": 590,
+      "file": "mushaf-v4/page-590.svg",
+      "bytes": 365596,
+      "sha256": "1eaf830ccd5930250fe11212fb771302c087a6a62051d50897f52ed81f3e8fcf",
+      "ayahs": 23,
+      "words": 118
+    },
+    {
+      "page": 591,
+      "file": "mushaf-v4/page-591.svg",
+      "bytes": 328063,
+      "sha256": "9645d0afa287bff59729015a51914e53b816ecc1d0868b5372f1cf4af795cab2",
+      "ayahs": 27,
+      "words": 98
+    },
+    {
+      "page": 592,
+      "file": "mushaf-v4/page-592.svg",
+      "bytes": 347721,
+      "sha256": "9fbbe903d858d58aa4d2433a2871b9adeb11fb09b2a1a2c4fb9ed0fcba9d9d89",
+      "ayahs": 31,
+      "words": 112
+    },
+    {
+      "page": 593,
+      "file": "mushaf-v4/page-593.svg",
+      "bytes": 346475,
+      "sha256": "53a105643d0e8150187ebd7f9d6fe45d824abdfcf43fa3eb4dacfebff6a0d355",
+      "ayahs": 26,
+      "words": 117
+    },
+    {
+      "page": 594,
+      "file": "mushaf-v4/page-594.svg",
+      "bytes": 338072,
+      "sha256": "0b921f3383b1b752994a0fe55cae0e58b0da7af8059a34a4e4d0ce8b3f09d8ff",
+      "ayahs": 26,
+      "words": 108
+    },
+    {
+      "page": 595,
+      "file": "mushaf-v4/page-595.svg",
+      "bytes": 322349,
+      "sha256": "f72d4f20d45f6f4a8059943b566355cb9f45626351784d91d389cf3f51eebc4e",
+      "ayahs": 26,
+      "words": 90
+    },
+    {
+      "page": 596,
+      "file": "mushaf-v4/page-596.svg",
+      "bytes": 309149,
+      "sha256": "05029c3acae8e738dfe0927d48ead6f4fd93ef227e39b47ac2ba08bdd32500fc",
+      "ayahs": 25,
+      "words": 91
+    },
+    {
+      "page": 597,
+      "file": "mushaf-v4/page-597.svg",
+      "bytes": 323520,
+      "sha256": "cdd79a7423651c2b01ba4ace4301e37b06c1fb861a0263db87a6454e190bd9e8",
+      "ayahs": 26,
+      "words": 99
+    },
+    {
+      "page": 598,
+      "file": "mushaf-v4/page-598.svg",
+      "bytes": 337868,
+      "sha256": "f67dd6ca99f7ab80347e3b6424e08bb426492b1dbf856388b799e628669c7a00",
+      "ayahs": 17,
+      "words": 105
+    },
+    {
+      "page": 599,
+      "file": "mushaf-v4/page-599.svg",
+      "bytes": 315893,
+      "sha256": "c13e8c682b8adcdc022b6526d4c08524a1df5445ebf459ef69a608920148cc98",
+      "ayahs": 16,
+      "words": 94
+    },
+    {
+      "page": 600,
+      "file": "mushaf-v4/page-600.svg",
+      "bytes": 307830,
+      "sha256": "ca83dcf2421289b6296c6549e1e29be3f852af28f9d17c036c7852d8a171696b",
+      "ayahs": 25,
+      "words": 92
+    },
+    {
+      "page": 601,
+      "file": "mushaf-v4/page-601.svg",
+      "bytes": 273650,
+      "sha256": "149492b6e18feee828fcf22e4c25cdb2fbaa8c3b136b650074768271e058a374",
+      "ayahs": 17,
+      "words": 70
+    },
+    {
+      "page": 602,
+      "file": "mushaf-v4/page-602.svg",
+      "bytes": 237972,
+      "sha256": "ce86d5dc910f1e78d36b3aed6ef1f69a2f73bb45265e210a30c14c30ed245cdf",
+      "ayahs": 14,
+      "words": 52
+    },
+    {
+      "page": 603,
+      "file": "mushaf-v4/page-603.svg",
+      "bytes": 242814,
+      "sha256": "8ad885149de4aa5eaf40a06e017d20e8ade5d45056ead34111cb7f40dde835b3",
+      "ayahs": 14,
+      "words": 68
+    },
+    {
+      "page": 604,
+      "file": "mushaf-v4/page-604.svg",
+      "bytes": 213423,
+      "sha256": "7e0da582fd41499c3dc9742a8a6e2a3e17325be086220f247c242bd4459e19b2",
+      "ayahs": 15,
+      "words": 58
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "markers": {
+    "begin": "/* THEME:BEGIN",
+    "end": "/* THEME:END */"
+  },
+  "edition": "qcf-v4",
+  "tokens": {
+    "bg": [
+      {
+        "selector": ".q-bg",
+        "property": "fill"
+      }
+    ],
+    "paper": [
+      {
+        "selector": ".q-paper",
+        "property": "fill"
+      }
+    ],
+    "orn-ground": [
+      {
+        "selector": ".q-orn-ground",
+        "property": "fill"
+      }
+    ],
+    "orn-flower": [
+      {
+        "selector": ".q-orn-flower",
+        "property": "fill"
+      }
+    ],
+    "orn-scroll": [
+      {
+        "selector": ".q-orn-scroll",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-orn-scroll-stroke",
+        "property": "stroke"
+      }
+    ],
+    "orn-panel": [
+      {
+        "selector": ".q-orn-panel",
+        "property": "fill"
+      }
+    ],
+    "orn-outline": [
+      {
+        "selector": ".q-orn-outline",
+        "property": "stroke"
+      }
+    ],
+    "ink": [
+      {
+        "selector": ".q-basmalah",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-rasm",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-tajweed-plain .q-word .q-rasm",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-tajweed-plain .q-word .q-tashkeel",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-tajweed-plain .q-word .q-waqf",
+        "property": "fill"
+      }
+    ],
+    "tashkeel": [
+      {
+        "selector": ".q-tashkeel",
+        "property": "fill"
+      }
+    ],
+    "waqf": [
+      {
+        "selector": ".q-waqf",
+        "property": "fill"
+      }
+    ],
+    "ayah-ring": [
+      {
+        "selector": ".q-ayah-ring",
+        "property": "fill"
+      }
+    ],
+    "ayah-fill": [
+      {
+        "selector": ".q-ayah-field",
+        "property": "fill"
+      }
+    ],
+    "ayah-digit": [
+      {
+        "selector": ".q-ayah-digit",
+        "property": "fill"
+      }
+    ],
+    "chrome": [
+      {
+        "selector": ".q-chrome",
+        "property": "fill"
+      }
+    ],
+    "chrome-muted": [
+      {
+        "selector": ".q-chrome-muted",
+        "property": "fill"
+      }
+    ],
+    "catchword": [
+      {
+        "selector": ".q-catchword",
+        "property": "fill"
+      }
+    ],
+    "title": [
+      {
+        "selector": ".q-h-name",
+        "property": "fill"
+      }
+    ],
+    "title-note": [
+      {
+        "selector": ".q-h-meta",
+        "property": "fill"
+      }
+    ],
+    "lafz": [
+      {
+        "selector": ".q-word.q-lafz .q-rasm",
+        "property": "fill"
+      }
+    ],
+    "tj-hamzat-wasl": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-hamzat-wasl",
+        "property": "fill"
+      }
+    ],
+    "tj-silent": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-silent",
+        "property": "fill"
+      }
+    ],
+    "tj-madd-2": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-madd-2",
+        "property": "fill"
+      }
+    ],
+    "tj-madd-246": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-madd-246",
+        "property": "fill"
+      }
+    ],
+    "tj-madd-45": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-madd-45",
+        "property": "fill"
+      }
+    ],
+    "tj-madd-6": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-madd-6",
+        "property": "fill"
+      }
+    ],
+    "tj-ghunnah": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-ghunnah",
+        "property": "fill"
+      }
+    ],
+    "tj-idgham": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-idgham",
+        "property": "fill"
+      }
+    ],
+    "tj-qalqalah": [
+      {
+        "selector": ".q-tajweed .q-word .q-tj-qalqalah",
+        "property": "fill"
+      }
+    ],
+    "ink-ayah-active": [
+      {
+        "selector": ".q-ayah.is-active .q-rasm",
+        "property": "fill"
+      }
+    ],
+    "tashkeel-active": [
+      {
+        "selector": ".q-ayah.is-active .q-tashkeel",
+        "property": "fill"
+      },
+      {
+        "selector": ".q-word.is-active .q-tashkeel",
+        "property": "fill"
+      }
+    ],
+    "ayah-ring-active": [
+      {
+        "selector": ".q-ayah.is-active .q-ayah-ring",
+        "property": "fill"
+      }
+    ],
+    "ink-word-active": [
+      {
+        "selector": ".q-word.is-active .q-rasm",
+        "property": "fill"
+      }
+    ],
+    "ink-select": [
+      {
+        "selector": ".q-word.is-selected .q-rasm",
+        "property": "fill"
+      }
+    ]
+  },
+  "defaults": {
+    "bg": "#F6F1E3",
+    "paper": "#FCF8EE",
+    "orn-ground": "#286547",
+    "orn-flower": "#BB427B",
+    "orn-scroll": "#E4DDC7",
+    "orn-panel": "#B7C3AB",
+    "orn-outline": "#303C32",
+    "ink": "#1C2A22",
+    "tashkeel": "#B3121B",
+    "waqf": "#286547",
+    "lafz": "#B3121B",
+    "ink-ayah-active": "#0E5C3D",
+    "ink-word-active": "#B3121B",
+    "ink-select": "#2F6E8F",
+    "tashkeel-active": "#E0562B",
+    "ayah-ring": "#E4DDC7",
+    "ayah-fill": "#286547",
+    "ayah-digit": "#E4DDC7",
+    "ayah-ring-active": "#BB427B",
+    "chrome": "#286547",
+    "chrome-muted": "#6F7B63",
+    "catchword": "#6F7B63",
+    "title": "#303C32",
+    "title-note": "#286547",
+    "tj-hamzat-wasl": "#A5A5A5",
+    "tj-silent": "#A3A5A5",
+    "tj-madd-2": "#CE9E00",
+    "tj-madd-246": "#FF7B00",
+    "tj-madd-45": "#F40000",
+    "tj-madd-6": "#B50000",
+    "tj-ghunnah": "#09B000",
+    "tj-idgham": "#3F48E6",
+    "tj-qalqalah": "#2FADFF"
+  },
+  "tajweed": {
+    "root_class": "q-tajweed",
+    "plain_class": "q-tajweed-plain",
+    "tokens": [
+      "hamzat-wasl",
+      "silent",
+      "madd-2",
+      "madd-246",
+      "madd-45",
+      "madd-6",
+      "ghunnah",
+      "idgham",
+      "qalqalah"
+    ],
+    "note_class": "q-note",
+    "note": "q-tajweed enables recitation-rule colours. q-tajweed-plain sets ordinary vowel, pause and divine-name ink to the base text colour so only recitation rules remain coloured."
+  },
+  "layer_toggles": [
+    {
+      "root_class": "q-no-frame",
+      "element_id": "q-frame",
+      "holds": "border"
+    },
+    {
+      "root_class": "q-no-chrome",
+      "element_id": "q-chrome",
+      "holds": "running head and page number"
+    },
+    {
+      "root_class": "q-no-illumination",
+      "element_id": "q-illumination",
+      "holds": "opening decoration on pages 1-2"
+    }
+  ],
+  "addressable_layers": {
+    "catchword": "q-catchword",
+    "surah_openings": "q-openings",
+    "text": "q-text"
+  },
+  "highlight": {
+    "ayah": {
+      "element": "g.q-ayah",
+      "id": "q-a{surah}-{ayah}",
+      "class": "is-active"
+    },
+    "word": {
+      "element": "g.q-word",
+      "id": "q-w{surah}-{ayah}-{word}",
+      "class": "is-active"
+    },
+    "selected": {
+      "element": "g.q-word",
+      "class": "is-selected"
+    }
+  }
+}

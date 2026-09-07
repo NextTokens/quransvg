@@ -1,0 +1,31 @@
+# This repository publishes only the QCF v4 page corpus.
+# Keep older generated sets available locally without adding them to Git.
+/mushaf/
+/quran-svg/
+/themes/
+
+# Downloaded upstream inputs and local experiments are reproducible caches.
+/data/
+/build/
+/docs/andalusian/
+/docs/reference/
+/docs/licenses/*
+!/docs/licenses/OFL-Amiri.txt
+!/docs/licenses/kfgqpc-copyright-EN.txt
+!/docs/licenses/kfgqpc-usage-rights-AR.txt
+!/docs/licenses/kfgqpc-uthmanic-script-license.txt
+/tools/capabilities.py
+/tools/demo.py
+/CLAUDE.md
+/resvg_py-*.whl
+
+# Python and editor state.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
